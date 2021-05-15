@@ -1,9 +1,10 @@
 import * as React from "react";
-import { StaticQuery, graphql, Link } from "gatsby";
+import { StaticQuery, graphql } from "gatsby";
 
 import Page from "../../components/Page";
 import Container from "../../components/Container";
 import IndexLayout from "../../layouts/IndexLayout";
+import SongList from "../../components/SongList";
 
 interface SongEdge {
     node: {
@@ -37,7 +38,7 @@ const SongsPage: React.FC = ({ children }) => (
             <IndexLayout>
                 <Page>
                     <Container>
-                        <pre>{JSON.stringify(data, null, 2)}</pre>
+                        <SongList edges={data.allSongsJson.edges} />
                     </Container>
                 </Page>
             </IndexLayout>

@@ -13,7 +13,7 @@ const StyledHeader = styled.header`
     color: ${transparentize(0.5, colors.white)};
 `;
 
-const HeaderInner = styled(Container)`
+const HeaderInner = styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -38,6 +38,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
+            <HomepageLink to="/">{title}</HomepageLink>
             <HomepageLink to="/">{title}</HomepageLink>
         </HeaderInner>
     </StyledHeader>
