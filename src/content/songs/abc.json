@@ -1,0 +1,33 @@
+{
+  "title": "A.B.C",
+  "videoUrl": "https://www.youtube.com/embed/ewIeJc4zsek?feature=oembed",
+  "author": "Ukendt forfatter",
+  "music": "J.P. Rameau",
+  "songVers": [
+    [
+      "A b c d e f g",
+      "h i j k l m n",
+      "o p q r s t u",
+      "og der kommer fler’ endnu",
+      "v x y z æ ø å",
+      "otteogtyve skal der stå."
+    ],
+    [
+      "Hvis man ka’ sin abc,",
+      "ka’ man meget mer’ end det.",
+      "Man ka’ læse i en bog,",
+      "lær’ en masse andre sprog.",
+      "Men man bli’r kun god til det,",
+      "hvis man kan sin abc."
+    ]
+  ],
+  "description": "Her kan børnene lære alfabetet på en sjov måde, ved at synge ABC sangen. Børnesangen er ofte brugt til at lære A.B.C. Klik her.",
+  "tags": [
+    "sange",
+    "børn",
+    "dansk"
+  ],
+  "slug": "abc",
+  "layout": "song",
+  "date": "1.5.2021"
+}

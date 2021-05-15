@@ -1,0 +1,29 @@
+{
+  "title": "Fastelavn er mit navn",
+  "videoUrl": "https://www.youtube.com/embed/rTYCszU6yUc?rel=0",
+  "author": "none author",
+  "music": "none music",
+  "songVers": [
+    [
+      "Fastelavn er mit navn,",
+      "boller vil jeg have,",
+      "hvis jeg ingen boller får,",
+      "så laver jeg ballade."
+    ],
+    [
+      "Boller op, boller ned,",
+      "boller i min mave,",
+      "hvis jeg ingen boller får,",
+      "så laver jeg ballade."
+    ]
+  ],
+  "description": "Her finder du tekst og melodi til børnesangen, Fastelavn er mit navn. Klik her,",
+  "tags": [
+    "sange",
+    "børn",
+    "dansk"
+  ],
+  "slug": "fastelavn-er-mit-navn",
+  "layout": "song",
+  "date": "1.5.2021"
+}
