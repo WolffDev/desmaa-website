@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import IndexLayout from "../layouts/IndexLayout";
 import Page from "../components/Page";
 import Container from "../components/Container";
+import styled from "styled-components";
 
 interface PageTemplateProps {
     data: {
@@ -32,18 +33,46 @@ interface PageTemplateProps {
     };
 }
 
+const Verse = styled.div`
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    padding-left: 20px;
+    margin-bottom: 20px;
+
+    &::before {
+        content: "\\266C";
+        top: 0;
+        left: 0;
+        font-size: 80px;
+        position: absolute;
+        display: inline;
+    }
+`;
+
+const Line = styled.p`
+    margin-bottom: 5px;
+`;
+
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
-    const {id, songVers, music, slug, tags, title, videoUrl, date, author, description} = data.songsJson;
+    const { id, songVers, music, slug, tags, title, videoUrl, date, author, description } = data.songsJson;
     return (
-    <IndexLayout>
-        <Page>
-            <Container>
-                <h1>{data.songsJson.title}</h1>
-                {songVers.map(vers => vers.map(line => <p>{line}</p>))}
-            </Container>
-        </Page>
-    </IndexLayout>
-)};
+        <IndexLayout>
+            <Page>
+                <Container>
+                    <h1>{data.songsJson.title}</h1>
+                    {songVers.map((vers) => (
+                        <Verse>
+                            {vers.map((line) => (
+                                <Line>{line}</Line>
+                            ))}
+                        </Verse>
+                    ))}
+                </Container>
+            </Page>
+        </IndexLayout>
+    );
+};
 
 export default PageTemplate;
 
