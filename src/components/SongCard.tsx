@@ -12,9 +12,8 @@ interface Song {
     };
 }
 
-const SongDetail: React.FC<Song> = ({ song }) => {
-    console.log({ song });
-    return <>Song</>;
+const SongCard: React.FC<Song> = ({ song }) => {
+    return <Link to={`sange/${song.slug}`}>{song.title}</Link>;
 };
 
-export default SongDetail;
+export default SongCard;

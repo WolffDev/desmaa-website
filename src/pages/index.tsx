@@ -1,13 +1,49 @@
 import * as React from "react";
-import styled from "styled-components";
+import { StaticQuery, graphql } from "gatsby";
 
-const Container = styled.div``;
+import Page from "../components/Page";
+import Container from "../components/Container";
+import IndexLayout from "../layouts/IndexLayout";
+import SongList from "../components/SongList";
 
-const IndexPage = () => (
-    <>
-        <Container>
-            <h1>HELLO</h1>
-        </Container>
-    </>
+interface SongEdge {
+    node: {
+        title: string;
+        slug: string;
+        description: string;
+    };
+}
+interface StaticQueryProps {
+    allSongsJson: {
+        edges: SongEdge[];
+    };
+}
+
+const SongsPage: React.FC = ({ children }) => (
+    <StaticQuery
+        query={graphql`
+            query SongsQuery {
+                allSongsJson {
+                    edges {
+                        node {
+                            title
+                            slug
+                            description
+                        }
+                    }
+                }
+            }
+        `}
+        render={(data: StaticQueryProps) => (
+            <IndexLayout>
+                <Page>
+                    <Container>
+                        <SongList edges={data.allSongsJson.edges} />
+                    </Container>
+                </Page>
+            </IndexLayout>
+        )}
+    />
 );
-export default IndexPage;
+
+export default SongsPage;

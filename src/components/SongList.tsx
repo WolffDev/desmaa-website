@@ -1,10 +1,13 @@
-import * as React from "react";
-import { Link } from "gatsby";
+import React, { ChangeEvent, useState } from "react";
 import styled from "styled-components";
 
-import SongDetail from "./SongDetail";
+import SongCard from "./SongCard";
+import SearchInput from './SearchInput';
 
-const SongGrid = styled.div``;
+const SongGrid = styled.div`
+    display: flex;
+    flex-wrap: wrap;
+`;
 
 interface SongEdge {
     node: {
@@ -19,12 +22,25 @@ interface SongListProps {
 }
 
 const SongList: React.FC<SongListProps> = ({ edges }) => {
+    const [initialSongs] = useState(edges);
+    const [filteredSongs, setFilteredSongs] = useState(initialSongs);
+
+    const handleSearch = (songName: string) => {
+        if (songName === '') return setFilteredSongs(initialSongs);
+            const filteredArray = initialSongs.filter(song =>
+            song.node.title.toLowerCase().includes(songName.toLowerCase())
+        );
+        setFilteredSongs(filteredArray);
+    }
+
     return (
         <>
-            {edges.map((song) => (
-                <SongDetail key={song.node.slug} song={song.node} />
+        <SearchInput handleSearch={handleSearch} />
+        <SongGrid>
+            {filteredSongs.map((song) => (
+                <SongCard key={song.node.slug} song={song.node} />
             ))}
-            ;
+        </SongGrid>
         </>
     );
 };

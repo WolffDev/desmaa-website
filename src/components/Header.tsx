@@ -4,7 +4,6 @@ import { transparentize } from "polished";
 import { Link } from "gatsby";
 
 import { heights, dimensions, colors } from "../styles/variables";
-import Container from "./Container";
 
 const StyledHeader = styled.header`
     height: ${heights.header}px;
@@ -38,7 +37,6 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
-            <HomepageLink to="/">{title}</HomepageLink>
             <HomepageLink to="/">{title}</HomepageLink>
         </HeaderInner>
     </StyledHeader>

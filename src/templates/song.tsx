@@ -18,20 +18,32 @@ interface PageTemplateProps {
             };
         };
         songsJson: {
+            id: string;
+            songVers: string[][];
+            music: string;
+            slug: string;
+            tags: string[];
             title: string;
+            videoUrl: string;
+            date: string;
+            description: string;
+            author: string;
         };
     };
 }
 
-const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => (
+const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
+    const {id, songVers, music, slug, tags, title, videoUrl, date, author, description} = data.songsJson;
+    return (
     <IndexLayout>
         <Page>
             <Container>
                 <h1>{data.songsJson.title}</h1>
+                {songVers.map(vers => vers.map(line => <p>{line}</p>))}
             </Container>
         </Page>
     </IndexLayout>
-);
+)};
 
 export default PageTemplate;
 
