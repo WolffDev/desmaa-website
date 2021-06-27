@@ -19,31 +19,33 @@ interface StaticQueryProps {
     };
 }
 
-const SongsPage: React.FC = () => (
-    <StaticQuery
-        query={graphql`
-            query SongsQuery {
-                allSongsJson {
-                    edges {
-                        node {
-                            title
-                            slug
-                            description
+const SongsPage: React.FC = () => {
+    return (
+        <StaticQuery
+            query={graphql`
+                query SongsQuery {
+                    allSongsJson {
+                        edges {
+                            node {
+                                title
+                                slug
+                                description
+                            }
                         }
                     }
                 }
-            }
-        `}
-        render={(data: StaticQueryProps) => (
-            <IndexLayout>
-                <Page>
-                    <Container>
-                        <SongList edges={data.allSongsJson.edges} />
-                    </Container>
-                </Page>
-            </IndexLayout>
-        )}
-    />
-);
+            `}
+            render={(data: StaticQueryProps) => (
+                <IndexLayout>
+                    <Page>
+                        <Container>
+                            <SongList edges={data.allSongsJson.edges} />
+                        </Container>
+                    </Page>
+                </IndexLayout>
+            )}
+        />
+    );
+};
 
 export default SongsPage;

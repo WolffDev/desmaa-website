@@ -2,8 +2,6 @@ import { createGlobalStyle } from "styled-components";
 
 import { dimensions, fonts, colors, breakpoints } from "./variables";
 import { getEmSize } from "./mixins";
-import lightBackground from '../images/lightBackground.png';
-import darkBackground from '../images/darkBackground.png';
 
 const GlobalStyle = createGlobalStyle`
     html {
@@ -22,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     height: 100%;
     background-color: ${colors.black};
-    background-image: url(${darkBackground});
+    background-image: ${({ theme }) => `url(${theme.background.image})`};
     background-size: 500px;
     background-position: center;
   }

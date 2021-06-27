@@ -37,17 +37,7 @@ const Verse = styled.div`
     display: flex;
     position: relative;
     flex-direction: column;
-    padding-left: 20px;
     margin-bottom: 20px;
-
-    &::before {
-        content: "\\266C";
-        top: 0;
-        left: 0;
-        font-size: 80px;
-        position: absolute;
-        display: inline;
-    }
 `;
 
 const Line = styled.p`
