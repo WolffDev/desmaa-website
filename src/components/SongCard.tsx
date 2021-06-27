@@ -2,7 +2,17 @@ import * as React from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
-const SongGrid = styled.div``;
+const StyledLink = styled(Link)`
+    text-decoration: none;
+
+    &:hover,
+    &:visited,
+    &:active {
+        text-decoration: none;
+    }
+`;
+
+const Card = styled.div``;
 
 interface Song {
     song: {
@@ -13,7 +23,7 @@ interface Song {
 }
 
 const SongCard: React.FC<Song> = ({ song }) => {
-    return <Link to={`sange/${song.slug}`}>{song.title}</Link>;
+    return <StyledLink to={`sange/${song.slug}`}>{song.title}</StyledLink>;
 };
 
 export default SongCard;

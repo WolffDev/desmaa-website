@@ -10,6 +10,12 @@ const StyledHeader = styled.header`
     padding: 0 ${dimensions.containerPadding}rem;
     background-color: ${colors.brand};
     color: ${transparentize(0.5, colors.white)};
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 `;
 
 const HeaderInner = styled.div`

@@ -51,7 +51,8 @@ module.exports = {
         },
         "gatsby-plugin-typescript",
         "gatsby-plugin-sharp",
-        // "gatsby-transformer-sharp",
+        "gatsby-transformer-sharp",
+        "gatsby-image",
         "gatsby-plugin-react-helmet",
         {
             resolve: `gatsby-plugin-styled-components`,

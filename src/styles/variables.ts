@@ -17,6 +17,7 @@ export const colors = {
     },
     white: "#fff",
     black: "#000",
+    light: "#f3d99c"
 };
 
 export const fonts = {

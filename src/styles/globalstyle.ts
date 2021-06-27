@@ -2,6 +2,8 @@ import { createGlobalStyle } from "styled-components";
 
 import { dimensions, fonts, colors, breakpoints } from "./variables";
 import { getEmSize } from "./mixins";
+import lightBackground from '../images/lightBackground.png';
+import darkBackground from '../images/darkBackground.png';
 
 const GlobalStyle = createGlobalStyle`
     html {
@@ -16,8 +18,13 @@ const GlobalStyle = createGlobalStyle`
 
   html {
     font-size: ${dimensions.fontSize.regular}px !important;
-line-height: ${dimensions.lineHeight.regular} !important;
-margin: 0;
+    line-height: ${dimensions.lineHeight.regular} !important;
+    margin: 0;
+    height: 100%;
+    background-color: ${colors.black};
+    background-image: url(${darkBackground});
+    background-size: 500px;
+    background-position: center;
   }
 
   body {
@@ -27,7 +34,7 @@ margin: 0;
     overflow-y: scroll;
     font-family: ${fonts.sansSerif};
     color: ${colors.black};
-    background-color: ${colors.white};
+    background-color: transparent;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
   }
@@ -38,7 +45,7 @@ margin: 0;
 
     &:hover,
     &:focus {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 

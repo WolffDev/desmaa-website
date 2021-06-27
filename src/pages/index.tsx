@@ -19,7 +19,7 @@ interface StaticQueryProps {
     };
 }
 
-const SongsPage: React.FC = ({ children }) => (
+const SongsPage: React.FC = () => (
     <StaticQuery
         query={graphql`
             query SongsQuery {
