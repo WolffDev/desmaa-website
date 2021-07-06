@@ -1,6 +1,6 @@
 import React from "react";
 
-import GlobalStyles from "./GlobalStyles";
+import GlobalStyles from "./Globalstyles";
 
 const App: React.FC = ({ children }) => {
     console.log("APP");
