@@ -51,10 +51,10 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
             <Page>
                 <Container>
                     <h1>{data.songsJson.title}</h1>
-                    {songVers.map((vers) => (
-                        <Verse>
-                            {vers.map((line) => (
-                                <Line>{line}</Line>
+                    {songVers.map((vers, i) => (
+                        <Verse key={i}>
+                            {vers.map((line, z) => (
+                                <Line key={z}>{line}</Line>
                             ))}
                         </Verse>
                     ))}

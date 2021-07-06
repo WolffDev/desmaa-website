@@ -1,17 +1,18 @@
 import { createGlobalStyle } from "styled-components";
 
-import { dimensions, fonts, colors, breakpoints } from "./variables";
-import { getEmSize } from "./mixins";
+import { dimensions, fonts, colors, breakpoints } from "../styles/variables";
+import { getEmSize } from "../styles/mixins";
 
-const GlobalStyle = createGlobalStyle`
-    html {
-        box-sizing: border-box;
-    }
+const GlobalStyles = createGlobalStyle`
+  html {
+      box-sizing: border-box;
+  }
 
   *,
   *::before,
   *::after {
     box-sizing: inherit;
+    transition: color 0.2s ease-out, background 0.2s ease-out;
   }
 
   html {
@@ -19,26 +20,53 @@ const GlobalStyle = createGlobalStyle`
     line-height: ${dimensions.lineHeight.regular} !important;
     margin: 0;
     height: 100%;
-    background-color: ${colors.black};
-    background-image: ${({ theme }) => `url(${theme.background.image})`};
-    background-size: 500px;
-    background-position: center;
   }
-
   body {
     margin: 0;
     width: 100%;
-    overflow-x: hidden;
     overflow-y: scroll;
     font-family: ${fonts.sansSerif};
-    color: ${colors.black};
     background-color: transparent;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
+
+    --background: ${colors.light.background};
+    --surface: ${colors.light.surface};
+    --primary: ${colors.light.primary};
+    --secondary: ${colors.light.secondary};
+    --onBackground: ${colors.light.onBackground};
+    --onSurface: ${colors.light.onSurface};
+    --onPrimary: ${colors.light.onPrimary};
+    --onSecondary: ${colors.light.onSecondary};
+    --uiBright: ${colors.light.ui.bright};
+    --uiLight: ${colors.light.ui.light};
+    --uiWhisper: ${colors.light.ui.whisper};
+  
+    background-color: var(--background);
+    
+
+  }
+
+  body.dark {
+    -webkit-font-smoothing: antialiased;
+ 
+    --background: ${colors.dark.background};
+    --surface: ${colors.dark.surface};
+    --primary: ${colors.dark.primary};
+    --secondary: ${colors.dark.secondary};
+    --onBackground: ${colors.dark.onBackground};
+    --onSurface: ${colors.dark.onSurface};
+    --onPrimary: ${colors.dark.onPrimary};
+    --onSecondary: ${colors.dark.onSecondary};
+    --uiBright: ${colors.dark.ui.bright};
+    --uiLight: ${colors.dark.ui.light};
+    --uiWhisper: ${colors.dark.ui.whisper};
+
+    background-color: var(--background);
   }
 
   a {
-    color: ${colors.brand};
+    color: var(--onBackground);
     text-decoration: none;
 
     &:hover,
@@ -64,7 +92,7 @@ const GlobalStyle = createGlobalStyle`
   table {
     width: 100%;
     margin-bottom: 1rem;
-    border: 1px solid ${colors.ui.light};
+    border: 1px solid var(--uiLight);
     font-size: 85%;
     border-collapse: collapse;
   }
@@ -72,7 +100,7 @@ const GlobalStyle = createGlobalStyle`
   td,
   th {
     padding: .25rem .5rem;
-    border: 1px solid ${colors.ui.light};
+    border: 1px solid var(--uiLight);
   }
 
   th {
@@ -83,10 +111,10 @@ const GlobalStyle = createGlobalStyle`
     tr {
       &:nth-of-type(odd) {
         td {
-          background-color: ${colors.ui.whisper};
+          background-color: var(--uiWhisper);
         }
         tr {
-          background-color: ${colors.ui.whisper};
+          background-color: var(--uiWhisper);
         }
       }
     }
@@ -95,7 +123,7 @@ const GlobalStyle = createGlobalStyle`
   h1, h2, h3, h4, h5, h6 {
     margin-top: 1.414rem;
     margin-bottom: .5rem;
-    color: ${colors.black};
+    color: var(--onBackground);
     font-weight: 600;
     line-height: ${dimensions.lineHeight.heading};
     text-rendering: optimizeLegibility;
@@ -121,10 +149,11 @@ const GlobalStyle = createGlobalStyle`
   p {
     margin-top: 0;
     margin-bottom: 1rem;
+    color: var(--onBackground)
   }
 
   strong {
-    color: ${colors.black};
+    color: var(--onBackground);
   }
 
   ul,
@@ -146,14 +175,14 @@ const GlobalStyle = createGlobalStyle`
     position: relative;
     margin: 1.5rem 0;
     border: 0;
-    border-top: 1px solid ${colors.ui.light};
+    border-top: 1px solid var(--uiLight);
   }
 
   blockquote {
     margin: .8rem 0;
     padding: .5rem 1rem;
-    border-left: .25rem solid ${colors.ui.light};
-    color: ${colors.gray.calm};
+    border-left: .25rem solid var(--uiLight);
+    color: var(--uiWhisper);
 
     p {
       &:last-child {
@@ -168,4 +197,4 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export default GlobalStyle;
+export default GlobalStyles;

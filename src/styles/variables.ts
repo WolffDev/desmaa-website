@@ -1,23 +1,34 @@
 export const colors = {
-    brand: "#663399",
-    lilac: "#9d7cbf",
-    accent: "#ffb238",
-    success: "#37b635",
-    warning: "#ec1818",
-    ui: {
-        bright: "#e0d6eb",
-        light: "#f5f3f7",
-        whisper: "#fbfafc",
+    light: {
+        background: "#fff",
+        surface: "#333",
+        primary: "red",
+        secondary: "blue",
+        onBackground: "#000",
+        onSurface: "#fff",
+        onPrimary: "#fff",
+        onSecondary: "#fff",
+        ui: {
+            bright: "#e0d6eb",
+            light: "#f5f3f7",
+            whisper: "#fbfafc",
+        },
     },
-    code: "#fcf6f0",
-    gray: {
-        dark: "hsla(270, 17.119554496%, 0%, 0.92)",
-        copy: "hsla(270, 15.797828016000002%, 0%, 0.88)",
-        calm: "rgba(0, 0, 0, 0.54)",
+    dark: {
+        background: "#121212",
+        surface: "#333",
+        primary: "red",
+        secondary: "blue",
+        onBackground: "#fff",
+        onSurface: "#fff",
+        onPrimary: "#fff",
+        onSecondary: "#fff",
+        ui: {
+            bright: "#e0d6eb",
+            light: "#f5f3f7",
+            whisper: "#fbfafc",
+        },
     },
-    white: "#fff",
-    black: "#000",
-    light: "#f3d99c"
 };
 
 export const fonts = {
