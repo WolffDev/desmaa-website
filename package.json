@@ -24,6 +24,7 @@
         "gatsby": "^3.8.0",
         "gatsby-image": "^3.8.0",
         "gatsby-plugin-canonical-urls": "^3.8.0",
+        "gatsby-plugin-dark-mode": "^1.1.2",
         "gatsby-plugin-react-helmet": "^4.8.0",
         "gatsby-plugin-sharp": "^3.8.0",
         "gatsby-plugin-sitemap": "^4.4.0",

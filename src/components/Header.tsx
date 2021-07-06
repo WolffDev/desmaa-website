@@ -1,15 +1,15 @@
 import * as React from "react";
 import styled from "styled-components";
-import { transparentize } from "polished";
 import { Link } from "gatsby";
 
-import { heights, dimensions, colors } from "../styles/variables";
+import { heights, dimensions } from "../styles/variables";
+import DarkToggle from "./DarkToggle";
 
 const StyledHeader = styled.header`
     height: ${heights.header}px;
     padding: 0 ${dimensions.containerPadding}rem;
-    background-color: ${colors.brand};
-    color: ${transparentize(0.5, colors.white)};
+    background-color: var(--background);
+    color: var(--onBackground);
     position: fixed;
     top: 0;
     left: 0;
@@ -26,7 +26,7 @@ const HeaderInner = styled.div`
 `;
 
 const HomepageLink = styled(Link)`
-    color: ${colors.white};
+    color: var(--onBackground);
     font-size: 1.5rem;
     font-weight: 600;
 
@@ -44,6 +44,7 @@ const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
             <HomepageLink to="/">{title}</HomepageLink>
+            <DarkToggle />
         </HeaderInner>
     </StyledHeader>
 );

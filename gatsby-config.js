@@ -50,6 +50,7 @@ module.exports = {
             },
         },
         "gatsby-plugin-typescript",
+        "gatsby-plugin-dark-mode",
         "gatsby-plugin-sharp",
         "gatsby-transformer-sharp",
         "gatsby-image",
