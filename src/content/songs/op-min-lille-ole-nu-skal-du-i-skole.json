@@ -2,7 +2,7 @@
   "title": "Op, min lille Ole, nu skal du i skole!",
   "videoUrl": "none",
   "author": "H. C. Frederiksen",
-  "music": ": S. Halle",
+  "music": "S. Halle",
   "songVers": [
     [
       "Op, min lille Ole,",
@@ -35,7 +35,7 @@
       "Han slog til, så skindet sprak!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Op, min lille Ole, nu skal du i skole. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Op, min lille Ole, nu skal du i skole.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "op-min-lille-ole-nu-skal-du-i-skole",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

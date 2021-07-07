@@ -17,7 +17,7 @@
       "den følte sig så ene."
     ]
   ],
-  "description": "Her finder du sangteksten til den kendte folkemelodi På en grøn bakketop. Klik her.",
+  "description": "Her finder du sangteksten til den kendte folkemelodi På en grøn bakketop.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "pa-en-gron-bakketop",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

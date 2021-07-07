@@ -2,7 +2,7 @@
   "title": "Pippi Langstrømpe",
   "videoUrl": "https://www.youtube.com/embed/0ZtMNCBWOUo?rel=0",
   "author": "Astrid Lindgren – på dansk ved Victor Skaarup",
-  "music": ": Jan Johansson",
+  "music": "Jan Johansson",
   "songVers": [
     [
       "Her går det hopsahejsa,",
@@ -55,5 +55,5 @@
   ],
   "slug": "pippi-langstrompe",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

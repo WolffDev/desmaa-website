@@ -2,7 +2,7 @@
   "title": "Her er soen, sikke en",
   "videoUrl": "none",
   "author": "Jeppe Aakjær",
-  "music": ": Alfred Tofft",
+  "music": "Alfred Tofft",
   "songVers": [
     [
       "Her er soen, sikke en!",
@@ -65,7 +65,7 @@
       "så skal jeg ha’ pisken."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen \"Her er soen, sikke en\" af Jeppe Aakjær. Klik her.",
+  "description": "Her finder du teksten til børnesangen \"Her er soen, sikke en\" af Jeppe Aakjær.",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "her-er-soen-sikke-en",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

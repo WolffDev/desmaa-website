@@ -2,7 +2,7 @@
   "title": "Go’måren, Go’måren",
   "videoUrl": "https://www.youtube.com/embed/tAM9rgne9Zs?rel=0",
   "author": "Erik Leth",
-  "music": ": Sven Gyldmark",
+  "music": "Sven Gyldmark",
   "songVers": [
     [
       "Solen skinner,",
@@ -87,7 +87,7 @@
       "go’måren vi ta’r fat på ny."
     ]
   ],
-  "description": "Her kan du finde tekst og melodi til børnesangen, Go'måren, Go'måren, der bl.a. er kendt fra filmen \"Far til fire på Bornholm\". Klik her.",
+  "description": "Her kan du finde tekst og melodi til børnesangen, Go'måren, Go'måren, der bl.a. er kendt fra filmen \"Far til fire på Bornholm\".",
   "tags": [
     "sange",
     "børn",
@@ -95,5 +95,5 @@
   ],
   "slug": "gomaren-gomaren",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

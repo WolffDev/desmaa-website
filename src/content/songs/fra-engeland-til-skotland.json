@@ -41,7 +41,7 @@
       "hurra for skippers kone, når vi ser Amerika."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den kendte børnesang, Fra Engeland til Skotland. Klik her.",
+  "description": "Her finder du tekst og melodi til den kendte børnesang, Fra Engeland til Skotland.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "fra-engeland-til-skotland",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Jeg lægger mig så trygt til ro",
   "videoUrl": "https://www.youtube.com/embed/s9OJAmdcaYE?rel=0",
   "author": "Christian Winther",
-  "music": ": Carl Nielsen",
+  "music": "Carl Nielsen",
   "songVers": [
     [
       "Jeg lægger mig så trygt til ro",
@@ -23,7 +23,7 @@
       "kan tro og lydig være!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til godnatsangen, Jeg lægger mig så trygt til ro. Klik her.",
+  "description": "Her finder du tekst og melodi til godnatsangen, Jeg lægger mig så trygt til ro.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "jeg-laegger-mig-sa-trygt-til-ro",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

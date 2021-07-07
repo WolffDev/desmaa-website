@@ -2,7 +2,7 @@
   "title": "Der faldt et lille snefnug",
   "videoUrl": "none",
   "author": "Halfdan Rasmussen",
-  "music": ": Vagn Skovlund",
+  "music": "Vagn Skovlund",
   "songVers": [
     [
       "Der faldt et lille snefnug",
@@ -31,5 +31,5 @@
   ],
   "slug": "der-faldt-et-lille-snefnug",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

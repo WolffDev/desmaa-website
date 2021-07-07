@@ -1,11 +1,11 @@
 export const colors = {
     light: {
-        background: "#fff",
-        surface: "#333",
+        background: "#28738A",
+        surface: "#3393B0",
         primary: "red",
         secondary: "blue",
-        onBackground: "#000",
-        onSurface: "#fff",
+        onBackground: "#FDFDFD",
+        onSurface: "#FDFDFD",
         onPrimary: "#fff",
         onSecondary: "#fff",
         ui: {

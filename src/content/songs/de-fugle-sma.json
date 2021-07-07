@@ -1,13 +1,9 @@
 {
   "title": "De fugle små",
   "videoUrl": "none",
-  "author": "none author",
+  "author": "Olaf Holst",
   "music": "none music",
   "songVers": [
-    [
-      "Tekst: Olaf Holst",
-      "Musik: Tyskland"
-    ],
     [
       "De fugle små i skovens vrå,",
       "de lader nu et bryllup stå.",
@@ -77,5 +73,5 @@
   ],
   "slug": "de-fugle-sma",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

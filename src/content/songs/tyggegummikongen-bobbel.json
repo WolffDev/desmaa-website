@@ -2,7 +2,7 @@
   "title": "Tyggegummikongen Bobbel",
   "videoUrl": "none",
   "author": "Halfdan Rasmussen",
-  "music": ": Vagn Skovlund",
+  "music": "Vagn Skovlund",
   "songVers": [
     [
       "Tyggegummikongen Bobbel",
@@ -35,7 +35,7 @@
       "der kan vippe, når det blæser."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Tyggegummikongen Bobbel. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Tyggegummikongen Bobbel.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "tyggegummikongen-bobbel",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

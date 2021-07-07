@@ -2,7 +2,7 @@
   "title": "Og jeg har otte kærester",
   "videoUrl": "none",
   "author": "Ernst v. d. Recke",
-  "music": ": Olivo Krause",
+  "music": "Olivo Krause",
   "songVers": [
     [
       "Og jeg har otte kærester,",
@@ -35,7 +35,7 @@
       "når ikke selv de vil."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Og jeg har otte kærester. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Og jeg har otte kærester.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "og-jeg-har-otte-kaerester",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

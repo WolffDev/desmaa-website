@@ -55,7 +55,7 @@
       "stor nød jeg lide må!” ://"
     ]
   ],
-  "description": "Her finder du tekst og melodi til den gamle børnesang, I skoven skulle være gilde. Klik her.",
+  "description": "Her finder du tekst og melodi til den gamle børnesang, I skoven skulle være gilde.",
   "tags": [
     "sange",
     "børn",
@@ -63,5 +63,5 @@
   ],
   "slug": "i-skoven-skulle-vaere-gilde",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

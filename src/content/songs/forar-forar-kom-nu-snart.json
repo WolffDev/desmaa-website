@@ -1,13 +1,9 @@
 {
   "title": "Forår, forår, kom nu snart",
   "videoUrl": "https://www.youtube.com/embed/9AUB0tpJW0g?feature=oembed",
-  "author": "none author",
-  "music": "none music",
+  "author": "Margrethe Marstrand",
+  "music": "Margrethe Marstrand",
   "songVers": [
-    [
-      "Tekst: Margrethe Marstrand",
-      "Musik: Margrethe Marstrand"
-    ],
     [
       "Forår, forår, kom nu snart!",
       "Vi har ventet længe,",
@@ -59,5 +55,5 @@
   ],
   "slug": "forar-forar-kom-nu-snart",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

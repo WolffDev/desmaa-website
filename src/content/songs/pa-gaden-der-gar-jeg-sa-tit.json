@@ -2,7 +2,7 @@
   "title": "På gaden der går jeg så tit",
   "videoUrl": "none",
   "author": "R. Rafaëlis",
-  "music": ": Ejnar Jacobsen",
+  "music": "Ejnar Jacobsen",
   "songVers": [
     [
       "På gaden der går jeg så tit en tur,",
@@ -41,7 +41,7 @@
       "hu-ur-ra,&nbsp;hu-ur-ra,&nbsp;hu-ur-ra!"
     ]
   ],
-  "description": "Her finder du teksten til den gamle børnesang, På gaden der går jeg så tit. Klik her.",
+  "description": "Her finder du teksten til den gamle børnesang, På gaden der går jeg så tit.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "pa-gaden-der-gar-jeg-sa-tit",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

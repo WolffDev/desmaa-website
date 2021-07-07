@@ -15,7 +15,7 @@
       "sagde ikke spor."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Oppe i Norge. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Oppe i Norge.",
   "tags": [
     "sange",
     "børn",
@@ -23,5 +23,5 @@
   ],
   "slug": "oppe-i-norge",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

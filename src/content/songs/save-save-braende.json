@@ -21,7 +21,7 @@
       "så går vi til kirke&nbsp;–"
     ]
   ],
-  "description": "Her finder du teksten til den gamle sangleg Save, save brænde. Klik her.",
+  "description": "Her finder du teksten til den gamle sangleg Save, save brænde.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "save-save-braende",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

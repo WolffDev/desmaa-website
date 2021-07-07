@@ -2,7 +2,7 @@
   "title": "I skovens dybe stille ro",
   "videoUrl": "https://www.youtube.com/embed/ZeY6HdiOKSA",
   "author": "ist: Dansk folkemelodi",
-  "music": ": Fritz Andersen",
+  "music": "Fritz Andersen",
   "songVers": [
     [
       "I skovens dybe stille ro,",
@@ -33,5 +33,5 @@
   ],
   "slug": "i-skovens-dybe-stille-ro",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Jeg har fanget mig en myg",
   "videoUrl": "https://www.youtube.com/embed/OTm5HXr_Rpw?rel=0",
   "author": "Astrid Kjærgaard",
-  "music": ": Ungarnsk melodi",
+  "music": "Ungarnsk melodi",
   "songVers": [
     [
       "Jeg har fanget mig en myg,",
@@ -25,7 +25,7 @@
       "må du fedt beholde."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Jeg har fanget mig en myg. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Jeg har fanget mig en myg.",
   "tags": [
     "sange",
     "børn",
@@ -33,5 +33,5 @@
   ],
   "slug": "jeg-har-fanget-mig-en-myg",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -45,12 +45,20 @@ const Line = styled.p`
 `;
 
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
-    const { id, songVers, music, slug, tags, title, videoUrl, date, author, description } = data.songsJson;
+    const { songVers, music, title, videoUrl, date, author, description } = data.songsJson;
     return (
         <IndexLayout>
             <Page>
                 <Container>
-                    <h1>{data.songsJson.title}</h1>
+                    <h1>{title}</h1>
+                    <p>
+                        {new Date(date).toLocaleDateString("da-DK", { month: "long", day: "numeric", year: "numeric" })}
+                    </p>
+                    {!author.includes("none") && <p>Tekst: {author}</p>}
+                    {!music.includes("none") && <p>musik: {music}</p>}
+
+                    <p>{description}</p>
+                    <p>video: {videoUrl}</p>
                     {songVers.map((vers, i) => (
                         <Verse key={i}>
                             {vers.map((line, z) => (

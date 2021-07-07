@@ -2,7 +2,7 @@
   "title": "Stork, stork, langeben",
   "videoUrl": "https://www.youtube.com/embed/pTIrtWGEjSk?rel=0",
   "author": "B.S. Ingemann",
-  "music": ": J. P. E. Hartmann",
+  "music": "J. P. E. Hartmann",
   "songVers": [
     [
       "Stork, stork, langeben!",
@@ -37,5 +37,5 @@
   ],
   "slug": "stork-stork-langeben",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

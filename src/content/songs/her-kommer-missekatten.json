@@ -1,13 +1,9 @@
 {
   "title": "Her kommer missekatten",
   "videoUrl": "none",
-  "author": "none author",
-  "music": "none music",
+  "author": "Johannes Møller",
+  "music": "Ukendt – Svensk melodi",
   "songVers": [
-    [
-      "Tekst: Johannes Møller",
-      "Melodi: Ukendt – Svensk melodi"
-    ],
     [
       "Her kommer missekatten,",
       "den lister rundt om natten,",
@@ -27,7 +23,7 @@
       "i det lune, lille hus."
     ]
   ],
-  "description": "Her er teksten til den lille børnesang Her kommer missekatten, som oprindelig er en svensk melodi. Klik her.",
+  "description": "Her er teksten til den lille børnesang Her kommer missekatten, som oprindelig er en svensk melodi.",
   "tags": [
     "sange",
     "børn",
@@ -35,5 +31,5 @@
   ],
   "slug": "her-kommer-missekatten",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

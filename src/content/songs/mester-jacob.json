@@ -12,7 +12,7 @@
       "Bim bam bum! Bim bam bum!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Mester Jacob. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Mester Jacob.",
   "tags": [
     "sange",
     "børn",
@@ -20,5 +20,5 @@
   ],
   "slug": "mester-jacob",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

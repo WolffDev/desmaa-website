@@ -33,7 +33,7 @@
       "Det har små Snehvide, som sover hist!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Syv arbejdsvante dværge. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Syv arbejdsvante dværge.",
   "tags": [
     "sange",
     "børn",
@@ -41,5 +41,5 @@
   ],
   "slug": "syv-arbejdsvante-dvaerge",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

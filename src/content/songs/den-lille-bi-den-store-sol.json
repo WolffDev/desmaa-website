@@ -2,7 +2,7 @@
   "title": "Den lille bi, den store sol",
   "videoUrl": "none",
   "author": "Christian Richardt",
-  "music": ": Fini Henriques",
+  "music": "Fini Henriques",
   "songVers": [
     [
       "Den lille bi, den store sol,",
@@ -23,7 +23,7 @@
       "Tie stille."
     ]
   ],
-  "description": "Her finder du teksten til den lille børnesang, Den lille bi, den store sol. Klik her.",
+  "description": "Her finder du teksten til den lille børnesang, Den lille bi, den store sol.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "den-lille-bi-den-store-sol",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

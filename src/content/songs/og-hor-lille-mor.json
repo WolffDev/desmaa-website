@@ -2,7 +2,7 @@
   "title": "Og hør, lille mor",
   "videoUrl": "none",
   "author": "N. E. Petersen",
-  "music": ": N. E. Petersen",
+  "music": "N. E. Petersen",
   "songVers": [
     [
       "//: “Og hør, lille mo’er,",
@@ -50,7 +50,7 @@
       "“Kuk, kuk, kuk!”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Og hør, lille mor. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Og hør, lille mor.",
   "tags": [
     "sange",
     "børn",
@@ -58,5 +58,5 @@
   ],
   "slug": "og-hor-lille-mor",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

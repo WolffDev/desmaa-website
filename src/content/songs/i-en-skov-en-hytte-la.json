@@ -25,7 +25,7 @@
       "haren ej han fik."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den kendte børnesang, I en skov en hytte lå. Klik her.",
+  "description": "Her finder du tekst og melodi til den kendte børnesang, I en skov en hytte lå.",
   "tags": [
     "sange",
     "børn",
@@ -33,5 +33,5 @@
   ],
   "slug": "i-en-skov-en-hytte-la",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

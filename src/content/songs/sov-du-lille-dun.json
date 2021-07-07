@@ -2,7 +2,7 @@
   "title": "Sov du lille dun",
   "videoUrl": "none",
   "author": "Z. Topelius",
-  "music": "tekst: Lise Stephensen",
+  "music": "Alice Tegnér",
   "songVers": [
     [
       "Sov du lille dun så fin",
@@ -33,5 +33,5 @@
   ],
   "slug": "sov-du-lille-dun",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -17,7 +17,7 @@
       "aldrig på den tro."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Bjørnen sover. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Bjørnen sover.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "bjornen-sover",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

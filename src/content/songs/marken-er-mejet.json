@@ -21,7 +21,7 @@
       "slutter høsten altid med et gilde og en dans! ://"
     ]
   ],
-  "description": "Her finder du tekst og melodi til den meget kendte børnesang, Marken er mejet. Klik her.",
+  "description": "Her finder du tekst og melodi til den meget kendte børnesang, Marken er mejet.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "marken-er-mejet",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Edderkoppen sad i toppen",
   "videoUrl": "none",
   "author": "Henrik Wergeland",
-  "music": ": Knud Vinge",
+  "music": "Knud Vinge",
   "songVers": [
     [
       "Edderkoppen sad i toppen",
@@ -23,7 +23,7 @@
       "Højt på strå er sjældent tryg!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Edderkoppen sad i toppen. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Edderkoppen sad i toppen.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "edderkoppen-sad-i-toppen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

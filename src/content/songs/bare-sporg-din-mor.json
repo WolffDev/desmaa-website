@@ -2,7 +2,7 @@
   "title": "Bare spørg din mor",
   "videoUrl": "none",
   "author": "Rune T. Kidde og Nanna",
-  "music": ": Nanna",
+  "music": "Nanna",
   "songVers": [
     [
       "Solen er et kirsebær,",
@@ -65,7 +65,7 @@
       "hun er kloger’, end du tror."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Bare spørg min mor, hvor du får svar på lidt af hvert. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Bare spørg min mor, hvor du får svar på lidt af hvert.",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "bare-sporg-din-mor",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

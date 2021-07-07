@@ -2,7 +2,7 @@
   "title": "Når en lille mus skal ud at gå",
   "videoUrl": "https://www.youtube.com/embed/pI8F0Y-P-bY?feature=oembed",
   "author": "Thorbjørn Egner",
-  "music": "tekst: Halfdan Rasmussen",
+  "music": "Halfdan Rasmussen",
   "songVers": [
     [
       "Når en lille mus skal ud at gå,",
@@ -32,7 +32,7 @@
       "måske bli’r det trallalej."
     ]
   ],
-  "description": "Her kan du se teksten til børnesangen Når en lille mus skal ud at gå. Den kommer fra Dyrene i Hakkebakkeskoven og synges af Bedstemor SKovmus. Klik her.",
+  "description": "Her kan du se teksten til børnesangen Når en lille mus skal ud at gå. Den kommer fra Dyrene i Hakkebakkeskoven og synges af Bedstemor SKovmus.",
   "tags": [
     "sange",
     "børn",
@@ -40,5 +40,5 @@
   ],
   "slug": "nar-en-lille-mus-skal-ud-at-ga",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

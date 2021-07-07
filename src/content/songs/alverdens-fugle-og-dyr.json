@@ -1,13 +1,9 @@
 {
   "title": "Alverdens fugle og dyr",
   "videoUrl": "none",
-  "author": "none author",
-  "music": "none music",
+  "author": " R. Refaëlis",
+  "music": "Fransk folkemelodi",
   "songVers": [
-    [
-      "Tekst: R. Refaëlis",
-      "Melodi: Fransk folkemelodi"
-    ],
     [
       "Alverdens fugle og dyr har så mange sjove stemmer,",
       "kom og hør en koncert, når vi siger li’sådan:",
@@ -22,7 +18,7 @@
       "kom og hør en koncert, når vi siger li’sådan."
     ]
   ],
-  "description": "Her er teksten til Refaëlis's børnesang, Alverdens fugle og dyr. Klik her.",
+  "description": "Her er teksten til Refaëlis's børnesang, Alverdens fugle og dyr.",
   "tags": [
     "sange",
     "børn",
@@ -30,5 +26,5 @@
   ],
   "slug": "alverdens-fugle-og-dyr",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

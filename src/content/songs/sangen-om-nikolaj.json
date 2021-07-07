@@ -2,7 +2,7 @@
   "title": "Sangen om Nikolaj",
   "videoUrl": "https://www.youtube.com/embed/YYxCC66X-So?feature=oembed",
   "author": "Lorentz Albeck Larsen",
-  "music": ": Gunnar Nyborg-Jensen",
+  "music": "Gunnar Nyborg-Jensen",
   "songVers": [
     [
       "Punktum, punktum, komma, streg",
@@ -65,7 +65,7 @@
       "når så søde børn bebor den!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Nikolaj. Bedre kendt som remsen \"punktum, punktum, komma, streg, sådan tegnes Nikolaj\". Klik her.",
+  "description": "Her finder du teksten til børnesangen, Nikolaj. Bedre kendt som remsen \"punktum, punktum, komma, streg, sådan tegnes Nikolaj\".",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "sangen-om-nikolaj",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

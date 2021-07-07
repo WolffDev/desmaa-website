@@ -2,7 +2,7 @@
   "title": "Lille Poul ser ud på solen",
   "videoUrl": "none",
   "author": "Harald Bergstedt",
-  "music": ": Oluf Ring",
+  "music": "Oluf Ring",
   "songVers": [
     [
       "Lille Poul ser ud på solen,",
@@ -37,7 +37,7 @@
       "mor smiler til hans blund."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Lille Poul ser ud på solen. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Lille Poul ser ud på solen.",
   "tags": [
     "sange",
     "børn",
@@ -45,5 +45,5 @@
   ],
   "slug": "lille-poul-ser-ud-pa-solen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

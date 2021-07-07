@@ -2,7 +2,7 @@
   "title": "Jeg fik en violin",
   "videoUrl": "none",
   "author": "R. Rafaëlis",
-  "music": ": Oskar Gyldmark",
+  "music": "Oskar Gyldmark",
   "songVers": [
     [
       "Jeg fik en violin",
@@ -49,7 +49,7 @@
       "(Fløjtes)"
     ]
   ],
-  "description": "Her er teksten til børnesangen, Jeg fik en violin. Klik her.",
+  "description": "Her er teksten til børnesangen, Jeg fik en violin.",
   "tags": [
     "sange",
     "børn",
@@ -57,5 +57,5 @@
   ],
   "slug": "jeg-fik-en-violin",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

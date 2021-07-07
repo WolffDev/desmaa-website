@@ -67,7 +67,7 @@
       "og så går alle hjem."
     ]
   ],
-  "description": "Her er teksten til børnesangen Husbonden sender Lasse ud. Den er lavet over en gammel remse, og synges på en gammel folkemelodi. Klik her.",
+  "description": "Her er teksten til børnesangen Husbonden sender Lasse ud. Den er lavet over en gammel remse, og synges på en gammel folkemelodi.",
   "tags": [
     "sange",
     "børn",
@@ -75,5 +75,5 @@
   ],
   "slug": "husbonden-sender-lasse-ud",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

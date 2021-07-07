@@ -2,7 +2,7 @@
   "title": "Dyt dyt, ska’ vi byt’",
   "videoUrl": "none",
   "author": "Mek Pek og Warny Mandrup",
-  "music": ": Mek Pek",
+  "music": "Mek Pek",
   "songVers": [
     [
       "Dyt, dyt, dyt.",
@@ -53,7 +53,7 @@
       "Det ka’ vi da godt, godt, godt."
     ]
   ],
-  "description": "Her er teksten til børnesangen, Dyt dyt, ska' vi byt'. Klik her.",
+  "description": "Her er teksten til børnesangen, Dyt dyt, ska' vi byt'.",
   "tags": [
     "sange",
     "børn",
@@ -61,5 +61,5 @@
   ],
   "slug": "dyt-dyt-ska-vi-byt",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

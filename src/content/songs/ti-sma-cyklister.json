@@ -65,7 +65,7 @@
       "men den tiende var fin."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den kendte børnesang, Ti små cyklister. Klik her.",
+  "description": "Her finder du tekst og melodi til den kendte børnesang, Ti små cyklister.",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "ti-sma-cyklister",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

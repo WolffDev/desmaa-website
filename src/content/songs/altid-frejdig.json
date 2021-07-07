@@ -23,7 +23,7 @@
       "døden ikke heller."
     ]
   ],
-  "description": "Her er tekst og melodi til børnesangen Altid frejdig, når du går. Klik her.",
+  "description": "Her er tekst og melodi til børnesangen Altid frejdig, når du går.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "altid-frejdig",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

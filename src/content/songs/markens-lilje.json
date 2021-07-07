@@ -2,7 +2,7 @@
   "title": "Markens lilje",
   "videoUrl": "none",
   "author": "Halfdan Rasmussen",
-  "music": ": Nanna",
+  "music": "Nanna",
   "songVers": [
     [
       "I villa Markens Lilje,",
@@ -35,7 +35,7 @@
       "hvor regnen siler ned."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Markens lilje. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Markens lilje.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "markens-lilje",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

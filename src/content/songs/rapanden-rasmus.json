@@ -2,7 +2,7 @@
   "title": "Rapanden Rasmus",
   "videoUrl": "https://www.youtube.com/embed/40RhUsAMSKg?rel=0",
   "author": "Halfdan Rasmussen",
-  "music": ": Axel Brüel",
+  "music": "Axel Brüel",
   "songVers": [
     [
       "Rapanden Rasmus fra Rinkenæs sogn",
@@ -17,7 +17,7 @@
       "da Rasmus kom flyv’ne med hyp-hest og vogn."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Rapanden Rasmus. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Rapanden Rasmus.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "rapanden-rasmus",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

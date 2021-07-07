@@ -8,8 +8,8 @@ import DarkToggle from "./DarkToggle";
 const StyledHeader = styled.header`
     height: ${heights.header}px;
     padding: 0 ${dimensions.containerPadding}rem;
-    background-color: var(--background);
-    color: var(--onBackground);
+    background-color: var(--surface);
+    color: var(--onSurface);
     position: fixed;
     top: 0;
     left: 0;
@@ -26,7 +26,7 @@ const HeaderInner = styled.div`
 `;
 
 const HomepageLink = styled(Link)`
-    color: var(--onBackground);
+    color: var(--onSurface);
     font-size: 1.5rem;
     font-weight: 600;
 

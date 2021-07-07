@@ -33,7 +33,7 @@
       "en rytter elsker jeg."
     ]
   ],
-  "description": "Her finder du teksten til den gamle børnesang, En pige gik i enge. Klik her.",
+  "description": "Her finder du teksten til den gamle børnesang, En pige gik i enge.",
   "tags": [
     "sange",
     "børn",
@@ -41,5 +41,5 @@
   ],
   "slug": "en-pige-gik-i-enge",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

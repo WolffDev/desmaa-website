@@ -2,7 +2,7 @@
   "title": "Højt på en gren en krage",
   "videoUrl": "https://www.youtube.com/embed/-pAxaiQFcH8?rel=0",
   "author": "J. L. Heiberg",
-  "music": ": Tysk folkemelodi",
+  "music": "Tysk folkemelodi",
   "songVers": [
     [
       "Højt på en gren en krage",
@@ -37,5 +37,5 @@
   ],
   "slug": "hojt-pa-en-gren-en-krage",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

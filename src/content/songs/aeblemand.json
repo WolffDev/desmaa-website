@@ -15,7 +15,7 @@
       "Tak skal du ha’."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Æblemand. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Æblemand.",
   "tags": [
     "sange",
     "børn",
@@ -23,5 +23,5 @@
   ],
   "slug": "aeblemand",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

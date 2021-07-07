@@ -2,7 +2,7 @@
   "title": "Mors lille Ole",
   "videoUrl": "none",
   "author": "Efter W. v. Braun",
-  "music": ": Alice Tegnér",
+  "music": "Alice Tegnér",
   "songVers": [
     [
       "Mors lille Ole i skoven gik,",
@@ -29,7 +29,7 @@
       "Sig dig til ham, han skal komme igen!”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Mors lille Ole. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Mors lille Ole.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "mors-lille-ole",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

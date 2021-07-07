@@ -2,7 +2,7 @@
   "title": "Hvem mon bor i hytten der",
   "videoUrl": "none",
   "author": "Harald Bergstedt",
-  "music": ": Nicolaj Hansen",
+  "music": "Nicolaj Hansen",
   "songVers": [
     [
       "Hvem mon bor i hytten der?",
@@ -59,7 +59,7 @@
       "Jeg vil ud til bedste."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Hvem mon bor i hytten der. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Hvem mon bor i hytten der.",
   "tags": [
     "sange",
     "børn",
@@ -67,5 +67,5 @@
   ],
   "slug": "hvem-mon-bor-i-hytten-der",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

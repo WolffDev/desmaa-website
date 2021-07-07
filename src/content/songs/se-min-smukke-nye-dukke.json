@@ -2,7 +2,7 @@
   "title": "Se min smukke, nye dukke",
   "videoUrl": "none",
   "author": "Fr. Joh. Ring",
-  "music": ": Oluf Ring&nbsp;",
+  "music": "Oluf Ring&nbsp;",
   "songVers": [
     [
       "Se min smukke, nye dukke,",
@@ -17,7 +17,7 @@
       "drejer sig i dansen."
     ]
   ],
-  "description": "Her er teksten til den lille børnesang Se min smukke, nye dukke. Klik her.",
+  "description": "Her er teksten til den lille børnesang Se min smukke, nye dukke.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "se-min-smukke-nye-dukke",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Snemand Frost og frøken Tø",
   "videoUrl": "https://www.youtube.com/embed/OsNDvgpKFcw?rel=0",
   "author": "Halfdan Rasmussen",
-  "music": ": Vagn Skovlund&nbsp;",
+  "music": "Vagn Skovlund&nbsp;",
   "songVers": [
     [
       "Snemand Frost og frøken Tø",
@@ -29,7 +29,7 @@
       "Hun må ha’ ham i en kop."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Snemand Frost og frøken Tø. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Snemand Frost og frøken Tø.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "snemand-frost-og-froken-to",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -1,13 +1,9 @@
 {
   "title": "Kejseren i Kinesiens land",
   "videoUrl": "none",
-  "author": "none author",
-  "music": "none music",
+  "author": "P. Mandarin",
+  "music": "Fransk melodi",
   "songVers": [
-    [
-      "Musik: Fransk melodi",
-      "Tekst: P. Mandarin"
-    ],
     [
       "Kejseren i Kinesiens Land",
       "det er en umådelig mægtig mand,",
@@ -77,5 +73,5 @@
   ],
   "slug": "kejseren-i-kinesiens-land",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

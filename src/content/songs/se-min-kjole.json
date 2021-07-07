@@ -2,7 +2,7 @@
   "title": "Se min kjole",
   "videoUrl": "https://www.youtube.com/embed/npTphAxNZbk?rel=0",
   "author": "Gunnar Nyborg-Jensen",
-  "music": ": Gunnar Nyborg-Jensen",
+  "music": "Gunnar Nyborg-Jensen",
   "songVers": [
     [
       "Vore kjoler er i alle farver,",
@@ -47,7 +47,7 @@
       "og fordi en maler er min ven."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Se min kjole, hvor børnene lærer om farverne på en sjov måde. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Se min kjole, hvor børnene lærer om farverne på en sjov måde.",
   "tags": [
     "sange",
     "børn",
@@ -55,5 +55,5 @@
   ],
   "slug": "se-min-kjole",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Oldemor ugle",
   "videoUrl": "none",
   "author": "Harald H. Lund",
-  "music": ": Oskar Gyldmark",
+  "music": "Oskar Gyldmark",
   "songVers": [
     [
       "Oldemor ugle var hundrede år,",
@@ -30,7 +30,7 @@
       "Nu vil jeg lukke mit øje."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Oldemor ugle. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Oldemor ugle.",
   "tags": [
     "sange",
     "børn",
@@ -38,5 +38,5 @@
   ],
   "slug": "oldemor-ugle",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

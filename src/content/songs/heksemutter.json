@@ -29,7 +29,7 @@
       "røg i ringe, uhm, uhm, uhm!"
     ]
   ],
-  "description": "Her finder du teksten til den populære børnesang, Heksemutter lod en tudse. Klik her.",
+  "description": "Her finder du teksten til den populære børnesang, Heksemutter lod en tudse.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "heksemutter",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

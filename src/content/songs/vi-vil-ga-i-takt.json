@@ -21,7 +21,7 @@
       "til vor lille båd ved den blanke sø."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Vi vil gå i takt. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Vi vil gå i takt.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "vi-vil-ga-i-takt",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

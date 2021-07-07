@@ -1,13 +1,9 @@
 {
   "title": "Hodja fra Pjort",
   "videoUrl": "https://www.youtube.com/embed/grQBqKssHw0?feature=oembed",
-  "author": "none author",
-  "music": "none music",
+  "author": "Sebastian",
+  "music": "Sebastian",
   "songVers": [
-    [
-      "Tekst: Sebastian",
-      "Musik: Sebastian"
-    ],
     [
       "Hodja fra Pjort,",
       "Hodja fra Pjort,",
@@ -75,5 +71,5 @@
   ],
   "slug": "hodja-fra-pjort",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

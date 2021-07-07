@@ -2,7 +2,7 @@
   "title": "Postmand Per",
   "videoUrl": "https://www.youtube.com/embed/QlTX6-96Bis?rel=0",
   "author": "Brian Daly",
-  "music": ": Brian Daly",
+  "music": "Brian Daly",
   "songVers": [
     [
       "Her er Per, postmand Per,",
@@ -33,7 +33,7 @@
       "Postmand Per er en meget flittig mand."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den meget kendte børnesang, Postmand Per, der er kendt fra børne-tv. Klik her.",
+  "description": "Her finder du tekst og melodi til den meget kendte børnesang, Postmand Per, der er kendt fra børne-tv.",
   "tags": [
     "sange",
     "børn",
@@ -41,5 +41,5 @@
   ],
   "slug": "postmand-per",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

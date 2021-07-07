@@ -2,7 +2,7 @@
   "title": "Kom her, min lille kipkalv",
   "videoUrl": "none",
   "author": "Viggo Bitsch",
-  "music": ": Viggo Bitsch",
+  "music": "Viggo Bitsch",
   "songVers": [
     [
       "Kom her, min lille kipkalv,",
@@ -17,7 +17,7 @@
       "og henter mælk igen!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Kom her, min lille kipkalv. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Kom her, min lille kipkalv.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "kom-her-min-lille-kipkalv",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

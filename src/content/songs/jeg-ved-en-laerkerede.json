@@ -2,7 +2,7 @@
   "title": "Jeg ved en lærkerede",
   "videoUrl": "https://www.youtube.com/embed/GkZAcAFWhj8?rel=0",
   "author": "Harald Bergstedt",
-  "music": ": Carl Nielsen",
+  "music": "Carl Nielsen",
   "songVers": [
     [
       "Jeg ved en lærkerede",
@@ -43,5 +43,5 @@
   ],
   "slug": "jeg-ved-en-laerkerede",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

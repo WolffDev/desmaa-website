@@ -2,7 +2,7 @@
   "title": "Kom, du store “pruhest!”",
   "videoUrl": "none",
   "author": "Gunder Knudsen",
-  "music": ": Gunder Knudsen",
+  "music": "Gunder Knudsen",
   "songVers": [
     [
       "Kom, du store “pruhest”,",
@@ -37,7 +37,7 @@
       "hjemad i galop!"
     ]
   ],
-  "description": "Her er teksten til børnesangen, Kom, du store \"prughest!\". Klik her.",
+  "description": "Her er teksten til børnesangen, Kom, du store \"prughest!\".",
   "tags": [
     "sange",
     "børn",
@@ -45,5 +45,5 @@
   ],
   "slug": "kom-du-store-pruhest",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

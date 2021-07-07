@@ -2,7 +2,7 @@
   "title": "Dagen går med raske fjed",
   "videoUrl": "https://www.youtube.com/embed/y_GrMl5tU98?rel=0",
   "author": "B. S. Ingemann",
-  "music": ": C. E. F. Weyse",
+  "music": "C. E. F. Weyse",
   "songVers": [
     [
       "Dagen går med raske fjed,",
@@ -41,7 +41,7 @@
       "gik det, som det skulle."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Dagen går med raske fjed. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Dagen går med raske fjed.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "dagen-gar-med-raske-fjed",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

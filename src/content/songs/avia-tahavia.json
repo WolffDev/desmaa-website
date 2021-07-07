@@ -29,7 +29,7 @@
       "og dytten, båtten, dytten, båtten, åhh."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Avia Tahavia. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Avia Tahavia.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "avia-tahavia",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

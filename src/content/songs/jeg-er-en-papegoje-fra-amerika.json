@@ -2,7 +2,7 @@
   "title": "Jeg er en papegøje fra Amerika",
   "videoUrl": "https://www.youtube.com/embed/2m84qh12bAg?rel=0",
   "author": "Thorbjørn Egner – på dansk ved Halfdan Rasmussen",
-  "music": ": Thorbjørn Egner",
+  "music": "Thorbjørn Egner",
   "songVers": [
     [
       "Jeg er en papegøje fra Amerika.",
@@ -35,7 +35,7 @@
       "at jeg er papegøjen fra Amerika."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Jeg er en papegøje fra Amerika. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Jeg er en papegøje fra Amerika.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "jeg-er-en-papegoje-fra-amerika",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

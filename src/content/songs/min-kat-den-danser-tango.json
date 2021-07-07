@@ -30,7 +30,7 @@
       "Min kat den danser…"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Min kat den danser tango. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Min kat den danser tango.",
   "tags": [
     "sange",
     "børn",
@@ -38,5 +38,5 @@
   ],
   "slug": "min-kat-den-danser-tango",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

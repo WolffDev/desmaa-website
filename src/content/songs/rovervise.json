@@ -2,7 +2,7 @@
   "title": "Røvervise",
   "videoUrl": "https://www.youtube.com/embed/tWEmL04S35A?rel=0",
   "author": "Thorbjørn Egner – på dansk ved Halfdan Rasmussen",
-  "music": ": Thorbjørn Egner&nbsp;",
+  "music": "Thorbjørn Egner&nbsp;",
   "songVers": [
     [
       "Vi lister os af sted på tå,",
@@ -65,7 +65,7 @@
       "og Jonathan."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Røvervise, kendt fra bogen \"Folk og røvere i Kardemomme by\". Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Røvervise, kendt fra bogen \"Folk og røvere i Kardemomme by\".",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "rovervise",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

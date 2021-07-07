@@ -21,7 +21,7 @@
       "hvis man kan sin abc."
     ]
   ],
-  "description": "Her kan børnene lære alfabetet på en sjov måde, ved at synge ABC sangen. Børnesangen er ofte brugt til at lære A.B.C. Klik her.",
+  "description": "Her kan børnene lære alfabetet på en sjov måde, ved at synge ABC sangen. Børnesangen er ofte brugt til at lære A.B.C.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "abc",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

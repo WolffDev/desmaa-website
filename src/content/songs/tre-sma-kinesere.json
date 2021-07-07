@@ -19,7 +19,7 @@
       "tra sma kanasara pa Habra Plads."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Tre små kinesere. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Tre små kinesere.",
   "tags": [
     "sange",
     "børn",
@@ -27,5 +27,5 @@
   ],
   "slug": "tre-sma-kinesere",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

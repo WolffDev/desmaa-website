@@ -2,7 +2,7 @@
   "title": "Jeg var forleden på tur",
   "videoUrl": "none",
   "author": "Johs. Møller",
-  "music": ": Johs. Møller&nbsp;",
+  "music": "Johs. Møller&nbsp;",
   "songVers": [
     [
       "Jeg var forleden på tur, ja, jeg var,",
@@ -39,7 +39,7 @@
       "for dem er der nok af hos bedste."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Jeg var forleden på tur. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Jeg var forleden på tur.",
   "tags": [
     "sange",
     "børn",
@@ -47,5 +47,5 @@
   ],
   "slug": "jeg-var-forleden-pa-tur",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

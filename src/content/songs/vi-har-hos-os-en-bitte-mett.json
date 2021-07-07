@@ -2,7 +2,7 @@
   "title": "Vi har hos os en bitte Mett’",
   "videoUrl": "none",
   "author": "Harald Bergstedt",
-  "music": ": Finn Høffding",
+  "music": "Finn Høffding",
   "songVers": [
     [
       "Vi har hos os en bitte Mett’,",
@@ -55,7 +55,7 @@
       "er kommen hjem igen."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Vi har hos os en bitte Mett'. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Vi har hos os en bitte Mett'.",
   "tags": [
     "sange",
     "børn",
@@ -63,5 +63,5 @@
   ],
   "slug": "vi-har-hos-os-en-bitte-mett",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

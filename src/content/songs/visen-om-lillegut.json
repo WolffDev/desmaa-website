@@ -53,7 +53,7 @@
       "den anden prinsessen af Engelland!”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Visen om Lillegut. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Visen om Lillegut.",
   "tags": [
     "sange",
     "børn",
@@ -61,5 +61,5 @@
   ],
   "slug": "visen-om-lillegut",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

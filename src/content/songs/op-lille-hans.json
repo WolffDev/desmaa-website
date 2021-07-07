@@ -23,7 +23,7 @@
       "ja, nu skal jeg komme!”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Op, lille Hans. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Op, lille Hans.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "op-lille-hans",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Her bygger jeg et hus",
   "videoUrl": "none",
   "author": "Louis Levy",
-  "music": ": Ejnar Jacobsen",
+  "music": "Ejnar Jacobsen",
   "songVers": [
     [
       "Her bygger jeg et hus,",
@@ -23,7 +23,7 @@
       "fik lyst at kigge ind.”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Her bygger jeg et hus. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Her bygger jeg et hus.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "her-bygger-jeg-et-hus",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }
