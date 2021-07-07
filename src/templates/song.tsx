@@ -33,6 +33,28 @@ interface PageTemplateProps {
     };
 }
 
+const Heading = styled.h1`
+    text-align: center;
+`;
+
+const SubHeader = styled.div`
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+    &:nth-child(odd) {
+        &::before {
+            content: "::";
+            color: var(--onBackground);
+        }
+    }
+`;
+
+const SubHeadingInfo = styled.span`
+    color: var(--onBackground);
+    padding: 0 10px 0;
+`;
+
 const Verse = styled.div`
     display: flex;
     position: relative;
@@ -50,14 +72,20 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
         <IndexLayout>
             <Page>
                 <Container>
-                    <h1>{title}</h1>
-                    <p>
-                        {new Date(date).toLocaleDateString("da-DK", { month: "long", day: "numeric", year: "numeric" })}
-                    </p>
-                    {!author.includes("none") && <p>Tekst: {author}</p>}
-                    {!music.includes("none") && <p>musik: {music}</p>}
+                    <Heading>{title}</Heading>
+                    <SubHeader>
+                        <SubHeadingInfo>
+                            {new Date(date).toLocaleDateString("da-DK", {
+                                month: "long",
+                                day: "numeric",
+                                year: "numeric",
+                            })}
+                        </SubHeadingInfo>
+                        {!author.includes("none") && <SubHeadingInfo>Tekst: {author}</SubHeadingInfo>}
+                        {!music.includes("none") && <SubHeadingInfo>Musik: {music}</SubHeadingInfo>}
+                    </SubHeader>
 
-                    <p>{description}</p>
+                    {!description.includes("null") && <p>{description}</p>}
                     <p>video: {videoUrl}</p>
                     {songVers.map((vers, i) => (
                         <Verse key={i}>

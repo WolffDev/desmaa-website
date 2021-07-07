@@ -40,7 +40,7 @@ const SearchInput: React.FC<IProps> = ({ handleSearch }) => {
 
     return (
         <Wrapper>
-            <h2>Søg efter en sang</h2>
+            <h1>Søg efter en sang</h1>
             <Input
                 tabIndex={0}
                 ref={inputRef}
