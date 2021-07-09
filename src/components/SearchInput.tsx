@@ -7,6 +7,7 @@ const Wrapper = styled.div`
     flex-direction: column;
     align-items: center;
     margin-bottom: 30px;
+    text-align: center;
 `;
 
 const Input = styled.input`

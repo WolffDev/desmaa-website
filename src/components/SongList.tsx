@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import styled from "styled-components";
+import ScrollToTop from "react-scroll-to-top";
 
 import SongCard from "./SongCard";
 import SearchInput from "./SearchInput";
+import ArrowUp from "./icons/ArrowUp";
 
 const SongGrid = styled.div`
     display: flex;
@@ -37,6 +39,20 @@ const SongList: React.FC<SongListProps> = ({ edges }) => {
     return (
         <>
             <SearchInput handleSearch={handleSearch} />
+            <ScrollToTop
+                top={200}
+                smooth
+                style={{
+                    background: "var(--uiDescent)",
+                    boxShadow: "var(--shadowsPrimary)",
+                    width: "40px",
+                    height: "40px",
+                    borderRadius: "50%",
+                    right: "20px",
+                    bottom: "20px",
+                }}
+                component={<ArrowUp />}
+            />
             <SongGrid>
                 {filteredSongs.map((song) => (
                     <SongCard key={song.node.slug} song={song.node} />
