@@ -17,7 +17,7 @@
       "Hare, løb! Hare, løb! Hare, løb!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Haren hist i grøften sad. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Haren hist i grøften sad.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "haren-hist-i-groften",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

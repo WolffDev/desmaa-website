@@ -2,12 +2,12 @@
   "title": "Sangen om Nikolaj",
   "videoUrl": "https://www.youtube.com/embed/YYxCC66X-So?feature=oembed",
   "author": "Lorentz Albeck Larsen",
-  "music": ": Gunnar Nyborg-Jensen",
+  "music": "Gunnar Nyborg-Jensen",
   "songVers": [
     [
       "Punktum, punktum, komma, streg",
       "sådan tegnes Nikolaj.",
-      "Streg og streg og &nbsp;kugle-rund,",
+      "Streg og streg og  kugle-rund,",
       "frisk og frejdig, kernesund.",
       "Hul i lommen har han nu,",
       "husk at sy det, lille du.",
@@ -28,7 +28,7 @@
       "Blomsterne i grøften står,",
       "storkens unger frokost får,",
       "flaget hejses ved et hus,",
-      "katten &nbsp;leger med en mus.",
+      "katten  leger med en mus.",
       "“Nikolajsen” ser sig om:",
       "– Tænk, om der en pige kom!",
       "En med friske røde kinder,",
@@ -65,7 +65,7 @@
       "når så søde børn bebor den!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Nikolaj. Bedre kendt som remsen \"punktum, punktum, komma, streg, sådan tegnes Nikolaj\". Klik her.",
+  "description": "Her finder du teksten til børnesangen, Nikolaj. Bedre kendt som remsen \"punktum, punktum, komma, streg, sådan tegnes Nikolaj\".",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "sangen-om-nikolaj",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -25,7 +25,7 @@
       "Kritte-vitte-vit bom bom."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Der sad to katte på et bord. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Der sad to katte på et bord.",
   "tags": [
     "sange",
     "børn",
@@ -33,5 +33,5 @@
   ],
   "slug": "der-sad-to-katte-pa-et-bord",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

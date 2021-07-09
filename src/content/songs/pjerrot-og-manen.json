@@ -25,7 +25,7 @@
       "sådan kan det gå."
     ]
   ],
-  "description": "Her er teksten til børnesangen, Pjerrot sagde til månen. Klik her.",
+  "description": "Her er teksten til børnesangen, Pjerrot sagde til månen.",
   "tags": [
     "sange",
     "børn",
@@ -33,5 +33,5 @@
   ],
   "slug": "pjerrot-og-manen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

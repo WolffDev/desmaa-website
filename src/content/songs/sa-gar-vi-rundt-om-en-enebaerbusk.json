@@ -75,7 +75,7 @@
       "tidlig søndag morgen."
     ]
   ],
-  "description": "Her er teksten og melodien til den kendte sangleg Så går vi rundt om en enebærbusk. Klik her.",
+  "description": "Her er teksten og melodien til den kendte sangleg Så går vi rundt om en enebærbusk.",
   "tags": [
     "sange",
     "børn",
@@ -83,5 +83,5 @@
   ],
   "slug": "sa-gar-vi-rundt-om-en-enebaerbusk",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

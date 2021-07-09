@@ -42,7 +42,7 @@
       "Lyseblå …"
     ]
   ],
-  "description": "Her finder du sangteksten til sangen Lyseblå bananer. Se denne sang om lyseblå bananer, rødt papir med streger og urtidsindianer. Klik her.",
+  "description": "Her finder du sangteksten til sangen Lyseblå bananer. Se denne sang om lyseblå bananer, rødt papir med streger og urtidsindianer.",
   "tags": [
     "sange",
     "børn",
@@ -50,5 +50,5 @@
   ],
   "slug": "lysebla-bananer",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

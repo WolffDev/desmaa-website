@@ -2,7 +2,7 @@
   "title": "I banken ligger tyve millioner",
   "videoUrl": "none",
   "author": "Halfdan Rasmussen",
-  "music": ": Vagn Skovlund",
+  "music": "Vagn Skovlund",
   "songVers": [
     [
       "I banken ligger tyve millioner,",
@@ -29,7 +29,7 @@
       "hvis mor vil stoppe hullerne deri."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, I banken ligger tyve millioner, men tekst af Halfdan Rasmussen. Klik her.",
+  "description": "Her finder du teksten til børnesangen, I banken ligger tyve millioner, men tekst af Halfdan Rasmussen.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "i-banken-ligger-tyve-millioner",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

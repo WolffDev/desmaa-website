@@ -65,7 +65,7 @@
       "stå en helt som Tordenskjold."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Tordenskjold, om den kendte søhelt Peder Wessel. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Tordenskjold, om den kendte søhelt Peder Wessel.",
   "tags": [
     "sange",
     "børn",
@@ -73,5 +73,5 @@
   ],
   "slug": "tordenskjold",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

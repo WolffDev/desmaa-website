@@ -2,7 +2,7 @@
   "title": "Der stode tre skalke og tænkte et råd",
   "videoUrl": "https://www.youtube.com/embed/Zy522jgxyBk",
   "author": "Folkevise",
-  "music": "i: Folkemelodi",
+  "music": "Folkemelodi",
   "songVers": [
     [
       "Der stode tre skalke og tænkte et råd,",
@@ -99,10 +99,6 @@
       "– Stolten Adelus. Bådsmands hus, krusmusidus,",
       "– tungluti, tangluti, lustudilei.",
       "– Krestomani for snurrevurrevip, for ceremoni."
-    ],
-    [
-      "<iframe src=\"https://www.youtube.com/embed/Zy522jgxyBk\" frameborder=\"0\" width=\"560\" height=\"315\"></iframe>",
-      "&nbsp;"
     ]
   ],
   "description": "null",
@@ -113,5 +109,5 @@
   ],
   "slug": "der-stode-tre-skalke-og-taenkte-et-rad",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -15,7 +15,7 @@
       "en til lillebitte Bassemor!"
     ]
   ],
-  "description": "Her finder du teksten og melodien til børnesangen, Klappe, klappe kage. Klik her.",
+  "description": "Her finder du teksten og melodien til børnesangen, Klappe, klappe kage.",
   "tags": [
     "sange",
     "børn",
@@ -23,5 +23,5 @@
   ],
   "slug": "klappe-klappe-kage",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

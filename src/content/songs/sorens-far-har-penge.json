@@ -2,7 +2,7 @@
   "title": "Sørens far har penge",
   "videoUrl": "https://www.youtube.com/embed/TqP23dlA-HQ?rel=0",
   "author": "Louis Levy",
-  "music": ": Axel Breidahl",
+  "music": "Axel Breidahl",
   "songVers": [
     [
       "Sørens far har penge",
@@ -26,7 +26,7 @@
       "//: og jeg er ingen Søren. ://"
     ]
   ],
-  "description": "Her finder du tekst og melodi til den gamle børnesang, Sørens far har penge. Klik her.",
+  "description": "Her finder du tekst og melodi til den gamle børnesang, Sørens far har penge.",
   "tags": [
     "sange",
     "børn",
@@ -34,5 +34,5 @@
   ],
   "slug": "sorens-far-har-penge",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

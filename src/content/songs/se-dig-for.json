@@ -2,7 +2,7 @@
   "title": "Se dig for",
   "videoUrl": "none",
   "author": "Mogens Lorentzen",
-  "music": ": Knudåge Riisager",
+  "music": "Knudåge Riisager",
   "songVers": [
     [
       "Folk, som går på gaden mellem bilerne og sover,",
@@ -17,5 +17,5 @@
   ],
   "slug": "se-dig-for",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

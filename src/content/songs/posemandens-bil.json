@@ -2,7 +2,7 @@
   "title": "Posemandens bil",
   "videoUrl": "https://www.youtube.com/embed/9i0O74gbVUU?rel=0",
   "author": "Halfdag Rasmussen",
-  "music": ": Henning Hansen",
+  "music": "Henning Hansen",
   "songVers": [
     [
       "Petersen og Poulsen",
@@ -29,7 +29,7 @@
       "i Posemandens bil."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Posemandens bil, om Petersen, Poulsen, Pallesen og Piil, der er ude at køre. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Posemandens bil, om Petersen, Poulsen, Pallesen og Piil, der er ude at køre.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "posemandens-bil",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

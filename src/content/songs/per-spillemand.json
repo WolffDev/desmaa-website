@@ -20,7 +20,7 @@
       "Du gamle, gode violin, du violin, nu er du min!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Per spillemand. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Per spillemand.",
   "tags": [
     "sange",
     "børn",
@@ -28,5 +28,5 @@
   ],
   "slug": "per-spillemand",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

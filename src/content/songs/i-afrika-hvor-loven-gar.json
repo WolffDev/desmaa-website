@@ -23,7 +23,7 @@
       "Åh ja – åh ja-ja, åh-ja, åh-ja-ja."
     ]
   ],
-  "description": "Her kan du se sangteksten til sangen I Afrika, hvor løven går. Sangen er skrevet af Halfdan Rasmussen og Lise Stephensen har sat musik til. Klik her og læs.",
+  "description": "Her kan du se sangteksten til sangen I Afrika, hvor løven går. Sangen er skrevet af Halfdan Rasmussen og Lise Stephensen har sat musik til.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "i-afrika-hvor-loven-gar",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

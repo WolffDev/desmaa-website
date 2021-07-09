@@ -41,7 +41,7 @@
       "og æder af ost og brød."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Og send nu bud. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Og send nu bud.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "og-send-nu-bud",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

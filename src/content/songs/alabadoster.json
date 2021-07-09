@@ -2,7 +2,7 @@
   "title": "Alabadoster",
   "videoUrl": "none",
   "author": "Erik Reiff",
-  "music": ": Kjeld Bonfils",
+  "music": "Kjeld Bonfils",
   "songVers": [
     [
       "Alabadoster,",
@@ -22,7 +22,7 @@
       "at købe en stor afrikansk elefant?"
     ]
   ],
-  "description": "Her er teksten til børnesangen, Alabadoster. Klik her.",
+  "description": "Her er teksten til børnesangen, Alabadoster.",
   "tags": [
     "sange",
     "børn",
@@ -30,5 +30,5 @@
   ],
   "slug": "alabadoster",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

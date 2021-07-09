@@ -21,7 +21,7 @@
       "far og mor skal få."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Kom, min lille. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Kom, min lille.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "kom-min-lille",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -1,11 +1,11 @@
 export const colors = {
     light: {
-        background: "#fff",
-        surface: "#333",
-        primary: "red",
-        secondary: "blue",
-        onBackground: "#000",
-        onSurface: "#fff",
+        background: "#28738A",
+        surface: "#3393B0",
+        primary: "#fc5a30",
+        secondary: "#fba438",
+        onBackground: "#FDFDFD",
+        onSurface: "#FDFDFD",
         onPrimary: "#fff",
         onSecondary: "#fff",
         ui: {
@@ -17,8 +17,8 @@ export const colors = {
     dark: {
         background: "#121212",
         surface: "#333",
-        primary: "red",
-        secondary: "blue",
+        primary: "#fc5a30",
+        secondary: "#fba438",
         onBackground: "#fff",
         onSurface: "#fff",
         onPrimary: "#fff",
@@ -67,7 +67,7 @@ export const dimensions = {
         regular: 1.45,
         heading: 1.2,
     },
-    containerPadding: 1.5,
+    containerPadding: 1,
 };
 
 export const heights = {

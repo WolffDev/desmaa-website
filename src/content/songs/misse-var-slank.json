@@ -2,7 +2,7 @@
   "title": "Misse var slank",
   "videoUrl": "none",
   "author": "Bernhard Christensen",
-  "music": ": Bernhard Christensen",
+  "music": "Bernhard Christensen",
   "songVers": [
     [
       "Misse var slank,",
@@ -12,7 +12,7 @@
       "kom naboens kat.",
       "Så blev den tyk,",
       "mer’ og mer’ tyk.",
-      "Misse ku’ knap nok&nbsp;slæbe sig rundt.",
+      "Misse ku’ knap nok slæbe sig rundt.",
       "Den sku’ ha’ fred,",
       "så la’ den sig ned."
     ],
@@ -29,7 +29,7 @@
       "til næste gang."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Misse var slank. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Misse var slank.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "misse-var-slank",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Røde gummistøvler",
   "videoUrl": "https://www.youtube.com/embed/J8dq8XowaqM?rel=0",
   "author": "Elisabeth Gjerluff Nielsen",
-  "music": ": Elisabeth Gjerluff Nielsen&nbsp;",
+  "music": "Elisabeth Gjerluff Nielsen ",
   "songVers": [
     [
       "Sutsko og futsko,",
@@ -47,7 +47,7 @@
       "men jeg vil bar’ ha’ mine røde gummistøvler på."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Røde gummistøvler. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Røde gummistøvler.",
   "tags": [
     "sange",
     "børn",
@@ -55,5 +55,5 @@
   ],
   "slug": "rode-gummistovler",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

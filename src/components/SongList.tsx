@@ -2,13 +2,12 @@ import React, { useState } from "react";
 import styled from "styled-components";
 
 import SongCard from "./SongCard";
-import SearchInput from './SearchInput';
+import SearchInput from "./SearchInput";
 
 const SongGrid = styled.div`
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    column-gap: 10px;
-    row-gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 `;
 
 interface SongEdge {
@@ -28,12 +27,12 @@ const SongList: React.FC<SongListProps> = ({ edges }) => {
     const [filteredSongs, setFilteredSongs] = useState(initialSongs);
 
     const handleSearch = (songName: string) => {
-        if (songName === '') return setFilteredSongs(initialSongs);
-        const filteredArray = initialSongs.filter(song =>
+        if (songName === "") return setFilteredSongs(initialSongs);
+        const filteredArray = initialSongs.filter((song) =>
             song.node.title.toLowerCase().includes(songName.toLowerCase())
         );
         setFilteredSongs(filteredArray);
-    }
+    };
 
     return (
         <>

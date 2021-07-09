@@ -2,7 +2,7 @@
   "title": "Jens Hansen havde en bondegård",
   "videoUrl": "none",
   "author": "Otto Leisner",
-  "music": ": Engelsk melodi",
+  "music": "Engelsk melodi",
   "songVers": [
     [
       "Jens Hansen ha’d’ en bondegård,",
@@ -33,7 +33,7 @@
       "lirum, larum lej."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Jens Hansen havde en bondegård. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Jens Hansen havde en bondegård.",
   "tags": [
     "sange",
     "børn",
@@ -41,5 +41,5 @@
   ],
   "slug": "jens-hansen-havde-en-bondegard",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -45,7 +45,7 @@
       "Hurra! højt de råber: “Der kommer far!”"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Tre søde småbørn. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Tre søde småbørn.",
   "tags": [
     "sange",
     "børn",
@@ -53,5 +53,5 @@
   ],
   "slug": "tre-sode-smaborn",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

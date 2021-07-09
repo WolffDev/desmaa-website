@@ -2,7 +2,7 @@
   "title": "Danse, danse, dukke min",
   "videoUrl": "https://www.youtube.com/embed/8u3KQN7Se9s?rel=0",
   "author": "H. C. Andersen",
-  "music": ": Fini Henriques",
+  "music": "Fini Henriques",
   "songVers": [
     [
       "Danse, danse, dukke min!",
@@ -35,7 +35,7 @@
       "I er søde alle tre."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Danse, danse, dukke min. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Danse, danse, dukke min.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "danse-danse-dukke-min",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

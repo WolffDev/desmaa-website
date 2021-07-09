@@ -47,7 +47,7 @@
       "så er her rart at bo."
     ]
   ],
-  "description": "Her kan du både se teksten og høre melodien til børnesangen \"Tænk, hvis jeg sad på månen\". Det er Halfdan Rasmussen der har skrevet teksten. Klik her.",
+  "description": "Her kan du både se teksten og høre melodien til børnesangen \"Tænk, hvis jeg sad på månen\". Det er Halfdan Rasmussen der har skrevet teksten.",
   "tags": [
     "sange",
     "børn",
@@ -55,5 +55,5 @@
   ],
   "slug": "taenk-hvis-jeg-sad-pa-manen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

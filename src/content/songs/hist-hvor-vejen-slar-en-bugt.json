@@ -2,7 +2,7 @@
   "title": "Hist, hvor vejen slår en bugt",
   "videoUrl": "https://www.youtube.com/embed/iz8nn-H0TLc?rel=0",
   "author": "H. C. Andersen",
-  "music": ": J. C. Gebauer",
+  "music": "J. C. Gebauer",
   "songVers": [
     [
       "//: Hist, hvor vejen slår en bugt,",
@@ -35,7 +35,7 @@
       "i sin lille, pæne vugge."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den gamle danske børnesang, Hist, hvor vejen slår en bugt. Klik her.",
+  "description": "Her finder du tekst og melodi til den gamle danske børnesang, Hist, hvor vejen slår en bugt.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "hist-hvor-vejen-slar-en-bugt",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

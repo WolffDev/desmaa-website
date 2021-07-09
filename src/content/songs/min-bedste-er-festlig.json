@@ -35,7 +35,7 @@
       "tjing-tjingeling-tjing, tjingeling-tjing-tjing-tjing."
     ]
   ],
-  "description": "Her kan du se sangteksten til Lise Stephensens børnesang \"Min Bedste er festlig\" der handler om en Bedstemor der er godt gang i. Klik her og se mere.",
+  "description": "Her kan du se sangteksten til Lise Stephensens børnesang \"Min Bedste er festlig\" der handler om en Bedstemor der er godt gang i.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "min-bedste-er-festlig",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

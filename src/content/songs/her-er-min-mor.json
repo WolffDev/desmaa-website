@@ -2,7 +2,7 @@
   "title": "Her er min mor",
   "videoUrl": "none",
   "author": "Elisabeth Gjerluff Nielsen",
-  "music": ": Elisabeth Gjerluff Nielsen",
+  "music": "Elisabeth Gjerluff Nielsen",
   "songVers": [
     [
       "Her er min mor.",
@@ -95,7 +95,7 @@
       "i en hemli’ helikopter."
     ]
   ],
-  "description": "Her kan du finde teksten til børnesangen, Her er min mor, hun er to meter høj. Klik her.",
+  "description": "Her kan du finde teksten til børnesangen, Her er min mor, hun er to meter høj.",
   "tags": [
     "sange",
     "børn",
@@ -103,5 +103,5 @@
   ],
   "slug": "her-er-min-mor",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

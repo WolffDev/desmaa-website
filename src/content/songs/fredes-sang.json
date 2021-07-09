@@ -2,7 +2,7 @@
   "title": "Fredes sang",
   "videoUrl": "https://www.youtube.com/embed/c90X0Gy_7rI?rel=0",
   "author": "Hanne Willumsen og Finn Bentzen",
-  "music": "i: Niels Jørgen Steen",
+  "music": "Niels Jørgen Steen",
   "songVers": [
     [
       "Jeg går og hedder Frede,",
@@ -32,7 +32,7 @@
       "med bløde gummihjul."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Fredes sang. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Fredes sang.",
   "tags": [
     "sange",
     "børn",
@@ -40,5 +40,5 @@
   ],
   "slug": "fredes-sang",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

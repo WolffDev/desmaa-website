@@ -2,7 +2,7 @@
   "title": "Lille Lise",
   "videoUrl": "none",
   "author": "Ukendt",
-  "music": ": C. M. Bellman",
+  "music": "C. M. Bellman",
   "songVers": [
     [
       "Lille Lise, lille Lise",
@@ -21,7 +21,7 @@
       "fik en dukkevogn."
     ]
   ],
-  "description": "Her er teksten til børnesangen, Lille Lise. Klik her.",
+  "description": "Her er teksten til børnesangen, Lille Lise.",
   "tags": [
     "sange",
     "børn",
@@ -29,5 +29,5 @@
   ],
   "slug": "lille-lise",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

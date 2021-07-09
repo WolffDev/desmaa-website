@@ -41,7 +41,7 @@
       "så er vandet dejligt koldt."
     ]
   ],
-  "description": "Man skulle altid bo på landet kan man tænke. Her er en sang der hylder hvor skønt der er at bo på landet. Sangen er fra filmen \"Andre folks børn\". Klik her.",
+  "description": "Man skulle altid bo på landet kan man tænke. Her er en sang der hylder hvor skønt der er at bo på landet. Sangen er fra filmen \"Andre folks børn\".",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "man-sku-altid-bo-pa-landet",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

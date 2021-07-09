@@ -2,7 +2,7 @@
   "title": "Blæsten kommer bragende",
   "videoUrl": "none",
   "author": "Harald H. Lund",
-  "music": ": Finn Høffding",
+  "music": "Finn Høffding",
   "songVers": [
     [
       "Blæsten kommer bragende,",
@@ -23,7 +23,7 @@
       "og spejler sig i flagene."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Blæsten kommer bragende. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Blæsten kommer bragende.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "blaesten-kommer-bragende",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -17,7 +17,7 @@
       "når han spiser stanglakrids."
     ]
   ],
-  "description": "Her kan du finde teksten til Jørgen Sørensens sang om farven sort. Det er en god børnesang der lærer børnene om de sorte ting. Klik her og se sangteksten.",
+  "description": "Her kan du finde teksten til Jørgen Sørensens sang om farven sort. Det er en god børnesang der lærer børnene om de sorte ting.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "sort",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

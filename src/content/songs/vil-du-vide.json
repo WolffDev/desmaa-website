@@ -17,7 +17,7 @@
       "sådan!"
     ]
   ],
-  "description": "Her finder du teksten til den lille børnesang, \"Vil du vide\", der oprindeligt stammer fra Norge. Klik her.",
+  "description": "Her finder du teksten til den lille børnesang, \"Vil du vide\", der oprindeligt stammer fra Norge.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "vil-du-vide",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Jeg ved, hvor der findes en have så skøn",
   "videoUrl": "https://www.youtube.com/embed/1TJtMTiwHU8?rel=0",
   "author": "Mads Hansen",
-  "music": ": J. A. P. Schulz",
+  "music": "J. A. P. Schulz",
   "songVers": [
     [
       "Jeg ved, hvor der findes en have så skøn,",
@@ -35,7 +35,7 @@
       "og haven er Danmark, vort fædreneland!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Jeg ved, hvor der findes en have så skøn. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Jeg ved, hvor der findes en have så skøn.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "jeg-ved-hvor-der-findes-en-have-sa-skon",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -11,7 +11,7 @@
       "for allesammen hopper."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Svup Karoline. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Svup Karoline.",
   "tags": [
     "sange",
     "børn",
@@ -19,5 +19,5 @@
   ],
   "slug": "svup-karoline",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

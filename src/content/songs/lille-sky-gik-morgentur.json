@@ -2,7 +2,7 @@
   "title": "Lille sky gik morgentur",
   "videoUrl": "https://www.youtube.com/embed/TJ4n7eQTvNQ?rel=0",
   "author": "Halfdan Rasmussen",
-  "music": ": Knus Vad Thomsen",
+  "music": "Knus Vad Thomsen",
   "songVers": [
     [
       "Lille sky gik morgentur",
@@ -29,7 +29,7 @@
       "og en anden ble på."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Lille sky gik morgentur. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Lille sky gik morgentur.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "lille-sky-gik-morgentur",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

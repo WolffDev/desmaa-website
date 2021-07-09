@@ -2,7 +2,7 @@
   "title": "Gud ske tak og lov",
   "videoUrl": "https://www.youtube.com/embed/KNwXf_43mqg?rel=0",
   "author": "B. S. Ingemann",
-  "music": "i: C. E. F. Weyse",
+  "music": "C. E. F. Weyse",
   "songVers": [
     [
       "Gud ske tak og lov!",
@@ -37,7 +37,7 @@
       "Vi har kærligheds-asylet fundet."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Gud ske tak og lov. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Gud ske tak og lov.",
   "tags": [
     "sange",
     "børn",
@@ -45,5 +45,5 @@
   ],
   "slug": "gud-ske-tak-og-lov",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

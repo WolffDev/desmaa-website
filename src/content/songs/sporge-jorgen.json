@@ -2,7 +2,7 @@
   "title": "Spørge Jørgen",
   "videoUrl": "https://www.youtube.com/embed/J0FMFowP0dU?rel=0",
   "author": "Kamma Laurents",
-  "music": ": Kai Rosenberg",
+  "music": "Kai Rosenberg",
   "songVers": [
     [
       "Nu skal jeg fortæller jer om Jørgen:",
@@ -45,7 +45,7 @@
       "Jeg skal aldrig spørge fjollet mer’."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Spørge Jørgen. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Spørge Jørgen.",
   "tags": [
     "sange",
     "børn",
@@ -53,5 +53,5 @@
   ],
   "slug": "sporge-jorgen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -1,13 +1,9 @@
 {
   "title": "Mæ, bæ, hvide lam",
   "videoUrl": "none",
-  "author": "none author",
-  "music": "none music",
+  "author": "Ukendt svensk forfatter",
+  "music": "Alice Tegnér",
   "songVers": [
-    [
-      "Tekst: Ukendt svensk",
-      "Melodi: Alice Tegnér"
-    ],
     [
       "“Mæ, bæ, hvide lam, har du noget uld?”",
       "“Ja, ja, lille barn, hele ryggen fuld,",
@@ -23,5 +19,5 @@
   ],
   "slug": "mae-bae-hvide-lam",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

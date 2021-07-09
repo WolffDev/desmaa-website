@@ -17,7 +17,7 @@
       "for at se den store Tine med det lange lyse hår."
     ]
   ],
-  "description": "Her er sangteksten til Jørgen Sørensens sang, En, to, tre mariehøner. Sangen handler om mariehøner der giver godt sommervejr for lille Tine. Klik her.",
+  "description": "Her er sangteksten til Jørgen Sørensens sang, En, to, tre mariehøner. Sangen handler om mariehøner der giver godt sommervejr for lille Tine.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "en-to-tre-mariehoner",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

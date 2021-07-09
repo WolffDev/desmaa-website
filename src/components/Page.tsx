@@ -7,8 +7,8 @@ const StyledPage = styled.div`
     display: block;
     flex: 1;
     position: relative;
-    padding: ${dimensions.containerPadding}rem;
-    margin-top: 3rem;
+    padding: 0 ${dimensions.containerPadding}rem ${dimensions.containerPadding}rem;
+    margin-top: 60px;
     margin-bottom: 3rem;
 `;
 

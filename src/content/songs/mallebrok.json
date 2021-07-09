@@ -54,7 +54,7 @@
       "så tar’ han sig en ny."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Mallebrok. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Mallebrok.",
   "tags": [
     "sange",
     "børn",
@@ -62,5 +62,5 @@
   ],
   "slug": "mallebrok",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

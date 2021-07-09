@@ -2,7 +2,7 @@
   "title": "Morgenstund har guld i mund",
   "videoUrl": "https://www.youtube.com/embed/oF7EOJofJKE?rel=0",
   "author": "N. F. S. Grundtvig",
-  "music": ": Thomas Laub",
+  "music": "Thomas Laub",
   "songVers": [
     [
       "Morgenstund har guld i mund,",
@@ -40,7 +40,7 @@
       "da randt for os guldterning!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Morgenstund har guld i mund. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Morgenstund har guld i mund.",
   "tags": [
     "sange",
     "børn",
@@ -48,5 +48,5 @@
   ],
   "slug": "morgenstund-har-guld-i-mund",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -10,7 +10,7 @@
       "De vendte hjem fra krigen."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Tre små soldater. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Tre små soldater.",
   "tags": [
     "sange",
     "børn",
@@ -18,5 +18,5 @@
   ],
   "slug": "tre-sma-soldater",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -1,7 +1,7 @@
 {
   "title": "Åh, Karl-Åge",
   "videoUrl": "https://www.youtube.com/embed/yQny9G2W2p8?rel=0",
-  "author": "<em>Tekst:",
+  "author": "Maria Montell efter Sigfred Pedersen",
   "music": "C. Foster",
   "songVers": [
     [
@@ -12,14 +12,14 @@
       "Jeg drog bort fra Alabama",
       "med min banjo på mit skød,",
       "jeg sku’ helt til Louisiana,",
-      "for der bor en &nbsp;fyr så sød."
+      "for der bor en  fyr så sød."
     ],
     [
       "//: Åh, Karl-Åge – vil du gifte dig med mig,",
       "for så køber jeg en spegesild og deler den med dig ://"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Åh, Karl-Åge. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Åh, Karl-Åge.",
   "tags": [
     "sange",
     "børn",
@@ -27,5 +27,5 @@
   ],
   "slug": "ah-karl-age",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

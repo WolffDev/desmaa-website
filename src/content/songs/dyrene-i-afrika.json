@@ -2,7 +2,7 @@
   "title": "Dyrene i Afrika",
   "videoUrl": "https://www.youtube.com/embed/T8dNcKNfgAU?rel=0",
   "author": "Thorbjørn Egner. På dansk ved Halfdan Rasmussen",
-  "music": ": Aage Stentoft",
+  "music": "Aage Stentoft",
   "songVers": [
     [
       "At dyrene i Afrika",
@@ -104,7 +104,7 @@
       "bli’r visen aldrig færdig."
     ]
   ],
-  "description": "Her kan du finde tekst og melodi til børnesangen, Dyrene i Afrika. Klik her.",
+  "description": "Her kan du finde tekst og melodi til børnesangen, Dyrene i Afrika.",
   "tags": [
     "sange",
     "børn",
@@ -112,5 +112,5 @@
   ],
   "slug": "dyrene-i-afrika",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

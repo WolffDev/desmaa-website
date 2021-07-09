@@ -43,7 +43,7 @@
       "Ud af numsen, – det er ingen sag."
     ]
   ],
-  "description": "Her kan du se teksten til sangen Jens Pedersens ko. En sjov børnesang om livet på landet med en masse dyr og deres sjove egenskaber. Klik her og se teksten.",
+  "description": "Her kan du se teksten til sangen Jens Pedersens ko. En sjov børnesang om livet på landet med en masse dyr og deres sjove egenskaber.",
   "tags": [
     "sange",
     "børn",
@@ -51,5 +51,5 @@
   ],
   "slug": "jens-pedersens-ko",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

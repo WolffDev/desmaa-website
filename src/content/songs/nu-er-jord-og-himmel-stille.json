@@ -2,7 +2,7 @@
   "title": "Nu er jord og himmel stille",
   "videoUrl": "https://www.youtube.com/embed/vQrpOCgFT1I?rel=0",
   "author": "Marinus Børup",
-  "music": ": Carl Michael Bellman",
+  "music": "Carl Michael Bellman",
   "songVers": [
     [
       "Nu er jord og himmel stille,",
@@ -35,7 +35,7 @@
       "som et kærligt smil til svar."
     ]
   ],
-  "description": "Her finder du tekst og melodi til aftensangen, Nu er jord og himmel stille. Klik her.",
+  "description": "Her finder du tekst og melodi til aftensangen, Nu er jord og himmel stille.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "nu-er-jord-og-himmel-stille",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Der er et yndigt land",
   "videoUrl": "https://www.youtube.com/embed/ZyGw-X0_dBY?rel=0",
   "author": "Adam Oehlenschläger",
-  "music": ": H. E. Krøyer",
+  "music": "H. E. Krøyer",
   "songVers": [
     [
       "Der er et yndigt land,",
@@ -45,7 +45,7 @@
       "sin top i bølgen blå."
     ]
   ],
-  "description": "Her finder du tekst og melodi til danmarsk nationalsang, Der er et yndigt land. Klik her.",
+  "description": "Her finder du tekst og melodi til danmarsk nationalsang, Der er et yndigt land.",
   "tags": [
     "sange",
     "børn",
@@ -53,5 +53,5 @@
   ],
   "slug": "der-er-et-yndigt-land",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

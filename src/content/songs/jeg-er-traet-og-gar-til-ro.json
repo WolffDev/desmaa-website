@@ -2,7 +2,7 @@
   "title": "Jeg er træt og går til ro",
   "videoUrl": "https://www.youtube.com/embed/tFBpIa0VUE0?rel=0",
   "author": "Louise Hensel – oversat fra tysk af Kristian Arentzen",
-  "music": ": Jørgen Malling",
+  "music": "Jørgen Malling",
   "songVers": [
     [
       "Jeg er træt og går til ro,",
@@ -29,7 +29,7 @@
       "i vor Herres Jesu tro."
     ]
   ],
-  "description": "Her finder du tekst og melodi til godnatsangen, Jeg er træt og går til ro. Klik her.",
+  "description": "Her finder du tekst og melodi til godnatsangen, Jeg er træt og går til ro.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "jeg-er-traet-og-gar-til-ro",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

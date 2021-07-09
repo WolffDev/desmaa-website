@@ -2,7 +2,7 @@
   "title": "En lille fugl med grønne fjer",
   "videoUrl": "none",
   "author": "Maria Bramsen",
-  "music": ": Maria Bramsen og Simon West",
+  "music": "Maria Bramsen og Simon West",
   "songVers": [
     [
       "En lille fugl med grønne fjer",
@@ -45,7 +45,7 @@
       "den fik sin kolibri."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, En lille fugl med grønne fjer. Klik her.",
+  "description": "Her finder du teksten til børnesangen, En lille fugl med grønne fjer.",
   "tags": [
     "sange",
     "børn",
@@ -53,5 +53,5 @@
   ],
   "slug": "en-lille-fugl-med-gronne-fjer",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

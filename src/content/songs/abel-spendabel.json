@@ -11,7 +11,7 @@
       "vil du ha’ den af glas, så gå til bajads."
     ]
   ],
-  "description": "Her finder du teksten til den kendte remse Abel Spendabel. Klik her.",
+  "description": "Her finder du teksten til den kendte remse Abel Spendabel.",
   "tags": [
     "sange",
     "børn",
@@ -19,5 +19,5 @@
   ],
   "slug": "abel-spendabel",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

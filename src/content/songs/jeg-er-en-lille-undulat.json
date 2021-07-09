@@ -18,7 +18,7 @@
       "ha’ coca cola og is!"
     ]
   ],
-  "description": "Her kan du finde teksten til børnesangen Den lille undulat. Sangteksten er god at synge i børnehaver m.m. Klik her.",
+  "description": "Her kan du finde teksten til børnesangen Den lille undulat. Sangteksten er god at synge i børnehaver m.m.",
   "tags": [
     "sange",
     "børn",
@@ -26,5 +26,5 @@
   ],
   "slug": "jeg-er-en-lille-undulat",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -6,10 +6,12 @@ import { getEmSize } from "../styles/mixins";
 
 const StyledContainer = styled.div`
     position: relative;
+    padding-top: 90px;
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    max-width: ${getEmSize(widths.lg)}em;
+    max-width: ${widths.xl}px;
+    /* max-width: ${getEmSize(widths.lg)}em; */
 `;
 
 const Container: React.FC = ({ children }) => <StyledContainer>{children}</StyledContainer>;

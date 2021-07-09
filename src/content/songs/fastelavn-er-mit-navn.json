@@ -17,7 +17,7 @@
       "så laver jeg ballade."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Fastelavn er mit navn. Klik her,",
+  "description": "Her finder du tekst og melodi til børnesangen, Fastelavn er mit navn.",
   "tags": [
     "sange",
     "børn",
@@ -25,5 +25,5 @@
   ],
   "slug": "fastelavn-er-mit-navn",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

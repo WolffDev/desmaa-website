@@ -2,7 +2,7 @@
   "title": "“Mæ”, si’er den lille ged",
   "videoUrl": "none",
   "author": "Gunder Knudsen",
-  "music": ": Gunder Knudsen&nbsp;",
+  "music": "Gunder Knudsen ",
   "songVers": [
     [
       "“Mæ”, si’er den lille ged,",
@@ -35,7 +35,7 @@
       "Mæ, mæ!"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, \"Mæ\", si'er den lille ged. Klik her.",
+  "description": "Her finder du teksten til børnesangen, \"Mæ\", si'er den lille ged.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "mae-sier-den-lille-ged",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

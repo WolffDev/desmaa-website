@@ -19,7 +19,7 @@
       "en masse dyr, sjove dyr."
     ]
   ],
-  "description": "Her kan du se sangteksten til Kirsten Pendrups sang, Hvis du går omkring. Sangen kommer ind på de dyr som man kan møde i skoven. Klik her og se teksten.",
+  "description": "Her kan du se sangteksten til Kirsten Pendrups sang, Hvis du går omkring. Sangen kommer ind på de dyr som man kan møde i skoven.",
   "tags": [
     "sange",
     "børn",
@@ -27,5 +27,5 @@
   ],
   "slug": "hvis-du-gar-omkring",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

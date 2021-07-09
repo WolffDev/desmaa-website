@@ -2,7 +2,7 @@
   "title": "Tre små fisk",
   "videoUrl": "none",
   "author": "Victor Skaarup",
-  "music": ": Saxie Dowell",
+  "music": "Saxie Dowell",
   "songVers": [
     [
       "Nu vil jeg fortælle om de tre små fisk,",
@@ -37,7 +37,7 @@
       "for deres mor havde sagt, at svømning er sundt."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Tre små fisk. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Tre små fisk.",
   "tags": [
     "sange",
     "børn",
@@ -45,5 +45,5 @@
   ],
   "slug": "tre-sma-fisk",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

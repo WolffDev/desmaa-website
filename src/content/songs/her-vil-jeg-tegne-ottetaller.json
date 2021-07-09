@@ -25,7 +25,7 @@
       "nu er de tapre landsoldater, landsoldater, hurra!"
     ]
   ],
-  "description": "Her er teksten til tegnelegen, Her vil jeg tegne ottetaller. Det er en sjov tegneøvelse for børn. Klik her og kom i gang med legen.",
+  "description": "Her er teksten til tegnelegen, Her vil jeg tegne ottetaller. Det er en sjov tegneøvelse for børn.",
   "tags": [
     "sange",
     "børn",
@@ -33,5 +33,5 @@
   ],
   "slug": "her-vil-jeg-tegne-ottetaller",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

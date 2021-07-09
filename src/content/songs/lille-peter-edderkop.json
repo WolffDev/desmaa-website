@@ -15,7 +15,7 @@
       "kravled’ atter op."
     ]
   ],
-  "description": "Her kan du finde teksten og melodien til den meget kendte børnesang, Lille Peter edderkop. Klik her.",
+  "description": "Her kan du finde teksten og melodien til den meget kendte børnesang, Lille Peter edderkop.",
   "tags": [
     "sange",
     "børn",
@@ -23,5 +23,5 @@
   ],
   "slug": "lille-peter-edderkop",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

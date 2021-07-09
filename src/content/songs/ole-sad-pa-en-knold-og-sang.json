@@ -2,7 +2,7 @@
   "title": "Ole sad på en knold og sang",
   "videoUrl": "https://www.youtube.com/embed/gNJgYHmDdbc?rel=0",
   "author": "Jeppe Aakjær",
-  "music": ": Alfred Tofft",
+  "music": "Alfred Tofft",
   "songVers": [
     [
       "Ole sad på en knold og sang",
@@ -39,7 +39,7 @@
       "længslers tog over bølgen blå."
     ]
   ],
-  "description": "Her finder du tekst og melodi til Jeppe Aakjærs populære børnesang, Ole sad på en knold og sang. Klik her.",
+  "description": "Her finder du tekst og melodi til Jeppe Aakjærs populære børnesang, Ole sad på en knold og sang.",
   "tags": [
     "sange",
     "børn",
@@ -47,5 +47,5 @@
   ],
   "slug": "ole-sad-pa-en-knold-og-sang",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

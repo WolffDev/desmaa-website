@@ -1,13 +1,9 @@
 {
   "title": "Lille føl, ved du hvad",
   "videoUrl": "https://www.youtube.com/embed/stRK5CsM1tA?rel=0",
-  "author": "none author",
-  "music": "none music",
+  "author": "P. Larsen",
+  "music": "J. C. Gebauer",
   "songVers": [
-    [
-      "Tekst: P. Larsen",
-      "Melodi: J. C. Gebauer"
-    ],
     [
       "Lille føl, ved du hvad!",
       "du kan sagtens være glad.",
@@ -33,7 +29,7 @@
       "du får kælenavn og klap."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen Lille føl, ved du hvad. Den synes ofte på melodien til \"Pangeben - godt det gror\". Klik her og se mere",
+  "description": "Her finder du teksten til børnesangen Lille føl, ved du hvad. Den synes ofte på melodien til \"Pangeben - godt det gror\".",
   "tags": [
     "sange",
     "børn",
@@ -41,5 +37,5 @@
   ],
   "slug": "lille-fol-ved-du-hvad",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

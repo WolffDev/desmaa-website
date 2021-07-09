@@ -1,13 +1,9 @@
 {
   "title": "Blæksprutten Olsen",
   "videoUrl": "https://www.youtube.com/embed/hsE7ku_T7HM?feature=oembed",
-  "author": "none author",
-  "music": "none music",
+  "author": "Halfdan Rasmussen",
+  "music": "Tage Mortensen",
   "songVers": [
-    [
-      "Musik: Tage Mortensen",
-      "Tekst: Halfdan Rasmussen"
-    ],
     [
       "Blæksprutten Olsen,",
       "der er så begavet,",
@@ -35,5 +31,5 @@
   ],
   "slug": "blaeksprutten-olsen",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

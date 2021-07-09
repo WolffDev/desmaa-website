@@ -2,7 +2,7 @@
   "title": "Der er ikke på hele den vide jord",
   "videoUrl": "none",
   "author": "Ingvor Bondesen",
-  "music": ": J. H. Nebelong",
+  "music": "J. H. Nebelong",
   "songVers": [
     [
       "Der er ikke på hele den vide jord,",
@@ -41,7 +41,7 @@
       "og Niels Ebbesen med og Rolf Krage."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Der er ikke på hele den vide jord. En sang om at se op til sin storebror. Klik her og find den.",
+  "description": "Her finder du teksten til børnesangen, Der er ikke på hele den vide jord. En sang om at se op til sin storebror.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "der-er-ikke-pa-hele-den-vide-jord",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

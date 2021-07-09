@@ -1,19 +1,71 @@
 import React from "react";
 // @ts-ignore
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
+import styled from "styled-components";
+import Moon from "./icons/Moon";
+import Sun from "./icons/Sun";
+
+const Label = styled.label`
+    background-color: #111;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    position: relative;
+    height: 26px;
+    width: 50px;
+    transform: scale(1.5);
+`;
+
+const Ball = styled.div`
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    height: 22px;
+    width: 22px;
+    transform: translateX(0px);
+    transition: transform 0.2s linear;
+`;
+
+const Checkbox = styled.input`
+    visibility: hidden;
+    position: absolute;
+
+    &:checked + ${Ball} {
+        transform: translateX(24px);
+    }
+`;
 
 const DarkToggle = () => {
     return (
         <ThemeToggler>
             {({ theme, toggleTheme }: { theme: string; toggleTheme: Function }) => (
-                <label>
-                    <input
-                        type="checkbox"
-                        onChange={(e) => toggleTheme(e.target.checked ? "dark" : "light")}
-                        checked={theme === "dark"}
-                    />{" "}
-                    Dark mode
-                </label>
+                <>
+                    <Label htmlFor="darkMode">
+                        <Checkbox
+                            type="checkbox"
+                            checked={theme === "dark"}
+                            onChange={(e) => toggleTheme(e.target.checked ? "dark" : "light")}
+                            id="darkMode"
+                        />
+                        <Ball />
+                        <Moon />
+                        <Sun />
+                    </Label>
+                    {/* <label>
+                     <input
+                //         type="checkbox"
+                //         onChange={(e) => toggleTheme(e.target.checked ? "dark" : "light")}
+                //         checked={theme === "dark"}
+                //     />{" "}
+                //     Dark mode
+                // </label>
+                 */}
+                </>
             )}
         </ThemeToggler>
     );

@@ -2,7 +2,7 @@
   "title": "En lille frø i mosen sad",
   "videoUrl": "none",
   "author": "Anna Wulff",
-  "music": ": Folkemelodi&nbsp;",
+  "music": "Folkemelodi ",
   "songVers": [
     [
       "En lille frø i mosen sad,",
@@ -23,7 +23,7 @@
       "tak-tak, tak-tak, tak-tak.”"
     ]
   ],
-  "description": "Her er teksten til den kendte børnesang En lille frø i mosen sad, som er skrevet over en gammel folkemelodi. Klik her.",
+  "description": "Her er teksten til den kendte børnesang En lille frø i mosen sad, som er skrevet over en gammel folkemelodi.",
   "tags": [
     "sange",
     "børn",
@@ -31,5 +31,5 @@
   ],
   "slug": "en-lille-fro-i-mosen-sad",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

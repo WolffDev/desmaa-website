@@ -2,7 +2,7 @@
   "title": "Bare det er sjovt",
   "videoUrl": "none",
   "author": "Morten Remar og Michael Mathiesen",
-  "music": ": Morten Remar",
+  "music": "Morten Remar",
   "songVers": [
     [
       "Nu skal du bare høre",
@@ -77,7 +77,7 @@
       "bare det er sjovt?"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Bare det er sjovt, hvor man møder flere forskellige dyr på sin vej. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Bare det er sjovt, hvor man møder flere forskellige dyr på sin vej.",
   "tags": [
     "sange",
     "børn",
@@ -85,5 +85,5 @@
   ],
   "slug": "bare-det-er-sjovt",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Røverne fra Rold",
   "videoUrl": "none",
   "author": "Hans Hartvig Seedorff",
-  "music": ": Hugo Seligmann",
+  "music": "Hugo Seligmann",
   "songVers": [
     [
       "Tre røvere, tre røvere,",
@@ -68,5 +68,5 @@
   ],
   "slug": "roverne-fra-rold",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

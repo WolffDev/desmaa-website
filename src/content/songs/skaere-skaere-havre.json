@@ -29,7 +29,7 @@
       "– se så, nu er den nede."
     ]
   ],
-  "description": "Her finder du teksten til den gamle børnesang, Skære, skære havre. Klik her.",
+  "description": "Her finder du teksten til den gamle børnesang, Skære, skære havre.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "skaere-skaere-havre",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

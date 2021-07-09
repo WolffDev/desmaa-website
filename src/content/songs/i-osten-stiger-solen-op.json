@@ -2,7 +2,7 @@
   "title": "I østen stiger solen op",
   "videoUrl": "https://www.youtube.com/embed/KNwXf_43mqg?rel=0",
   "author": "B. S. Ingemann",
-  "music": ": C. E. F. Weyse",
+  "music": "C. E. F. Weyse",
   "songVers": [
     [
       "I østen stiger solen op,",
@@ -47,7 +47,7 @@
       "og fra dit Paradis!"
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, I østen stiger solen op. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, I østen stiger solen op.",
   "tags": [
     "sange",
     "børn",
@@ -55,5 +55,5 @@
   ],
   "slug": "i-osten-stiger-solen-op",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

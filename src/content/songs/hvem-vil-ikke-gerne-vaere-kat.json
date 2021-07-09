@@ -2,7 +2,7 @@
   "title": "Hvem vil ikke gerne være kat",
   "videoUrl": "https://www.youtube.com/embed/FrSoOfMNwrI?rel=0",
   "author": "Floyd Huddleston. På dansk ved Victor Skaarup",
-  "music": ": Al Rinker",
+  "music": "Al Rinker",
   "songVers": [
     [
       "Hvem vil ikke gerne være kat?",
@@ -41,7 +41,7 @@
       "til vores kisse-misse-katte-swing."
     ]
   ],
-  "description": "Her kan du finde tekst og melodi til børnesangen, Hvem vil ikke gerne være kat. Den er bedst kendt fra Disney-filmen, Aristocats. Klik her.",
+  "description": "Her kan du finde tekst og melodi til børnesangen, Hvem vil ikke gerne være kat. Den er bedst kendt fra Disney-filmen, Aristocats.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "hvem-vil-ikke-gerne-vaere-kat",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

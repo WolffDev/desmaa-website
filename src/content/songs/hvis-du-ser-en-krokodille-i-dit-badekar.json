@@ -20,7 +20,7 @@
       "Når du klapper den på ryggen, gør den ikke spor."
     ]
   ],
-  "description": "Her kan du se sangteksten til melodien Hvis du ser en krokodille i dit badekar. Du finder også en video hvor melodien bliver spillet og sunget. Klik her.",
+  "description": "Her kan du se sangteksten til melodien Hvis du ser en krokodille i dit badekar. Du finder også en video hvor melodien bliver spillet og sunget.",
   "tags": [
     "sange",
     "børn",
@@ -28,5 +28,5 @@
   ],
   "slug": "hvis-du-ser-en-krokodille-i-dit-badekar",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

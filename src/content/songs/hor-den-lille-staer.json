@@ -2,7 +2,7 @@
   "title": "Hør den lille stær",
   "videoUrl": "https://www.youtube.com/embed/oUSCVMvg7fY?rel=0",
   "author": "Harald Bergstedt",
-  "music": ": Poul Schierbeck",
+  "music": "Poul Schierbeck",
   "songVers": [
     [
       "Hør den lille stær, den er åh så fornøjet.",
@@ -35,7 +35,7 @@
       "den har nok en ven der, som ingen, ingen ved."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Hør den lille stær. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Hør den lille stær.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "hor-den-lille-staer",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

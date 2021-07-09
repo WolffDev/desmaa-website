@@ -2,7 +2,7 @@
   "title": "Stop, stop et stoppested",
   "videoUrl": "none",
   "author": "Lotte Kærså",
-  "music": ": Lotte Kærså",
+  "music": "Lotte Kærså",
   "songVers": [
     [
       "Stop, stop et stoppested.",
@@ -78,7 +78,7 @@
       "Vi må derhen."
     ]
   ],
-  "description": "Her finder du teskten til børnesangen, Stop, stop et stoppested. Klik her.",
+  "description": "Her finder du teskten til børnesangen, Stop, stop et stoppested.",
   "tags": [
     "sange",
     "børn",
@@ -86,5 +86,5 @@
   ],
   "slug": "stop-stop-et-stoppested",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

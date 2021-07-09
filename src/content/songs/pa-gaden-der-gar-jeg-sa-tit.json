@@ -2,7 +2,7 @@
   "title": "På gaden der går jeg så tit",
   "videoUrl": "none",
   "author": "R. Rafaëlis",
-  "music": ": Ejnar Jacobsen",
+  "music": "Ejnar Jacobsen",
   "songVers": [
     [
       "På gaden der går jeg så tit en tur,",
@@ -30,18 +30,18 @@
     ],
     [
       "Fra rådhusets ur lyder tunge slag:",
-      "bi-im-bam, bi-im-bam,&nbsp;bi-im-bam!",
+      "bi-im-bam, bi-im-bam, bi-im-bam!",
       "De toner hver time den lange dag:",
-      "bi-im-bam,&nbsp;bi-im-bam,&nbsp;bi-im-bam!"
+      "bi-im-bam, bi-im-bam, bi-im-bam!"
     ],
     [
       "Hurra for vor by med dens larm og klang,",
-      "hu-ur-ra, hu-ur-ra,&nbsp;hu-ur-ra!",
+      "hu-ur-ra, hu-ur-ra, hu-ur-ra!",
       "Og tre lange hurra den sidste gang:",
-      "hu-ur-ra,&nbsp;hu-ur-ra,&nbsp;hu-ur-ra!"
+      "hu-ur-ra, hu-ur-ra, hu-ur-ra!"
     ]
   ],
-  "description": "Her finder du teksten til den gamle børnesang, På gaden der går jeg så tit. Klik her.",
+  "description": "Her finder du teksten til den gamle børnesang, På gaden der går jeg så tit.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "pa-gaden-der-gar-jeg-sa-tit",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

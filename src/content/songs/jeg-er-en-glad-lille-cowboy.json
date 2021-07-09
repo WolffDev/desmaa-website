@@ -45,7 +45,7 @@
       "og sover natten lang."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den muntre børnesang, Jeg er en glad lille cowboy. Klik her.",
+  "description": "Her finder du tekst og melodi til den muntre børnesang, Jeg er en glad lille cowboy.",
   "tags": [
     "sange",
     "børn",
@@ -53,5 +53,5 @@
   ],
   "slug": "jeg-er-en-glad-lille-cowboy",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

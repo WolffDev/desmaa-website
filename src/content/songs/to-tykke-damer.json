@@ -2,7 +2,7 @@
   "title": "To tykke damer",
   "videoUrl": "none",
   "author": "Halfdan Rasmussen",
-  "music": ": Nanna",
+  "music": "Nanna",
   "songVers": [
     [
       "To tykke damer",
@@ -104,5 +104,5 @@
   ],
   "slug": "to-tykke-damer",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

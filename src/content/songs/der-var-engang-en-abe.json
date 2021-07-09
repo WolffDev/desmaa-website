@@ -2,7 +2,7 @@
   "title": "Der var engang en abe",
   "videoUrl": "https://www.youtube.com/embed/jEwTzAaA24E?rel=0",
   "author": "Poul Henningsen",
-  "music": ": Bernhard Christensen",
+  "music": "Bernhard Christensen",
   "songVers": [
     [
       "Der var engang en abe,",
@@ -35,7 +35,7 @@
       "Snoabe, snoabe, du har altid sjov til leg."
     ]
   ],
-  "description": "Her finder du tekst og melodi til den kendte børnesang, Der var engang en abe. Klik her.",
+  "description": "Her finder du tekst og melodi til den kendte børnesang, Der var engang en abe.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "der-var-engang-en-abe",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

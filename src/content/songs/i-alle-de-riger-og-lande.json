@@ -2,7 +2,7 @@
   "title": "I alle de riger og lande",
   "videoUrl": "https://www.youtube.com/embed/QZBbZdAdV50?rel=0",
   "author": "B. S. Ingemann",
-  "music": ": J. C. Gebauer",
+  "music": "J. C. Gebauer",
   "songVers": [
     [
       "I alle de riger og lande,",
@@ -29,7 +29,7 @@
       "jeg tager ham ej i favn."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, I alle de riger og lande. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, I alle de riger og lande.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "i-alle-de-riger-og-lande",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

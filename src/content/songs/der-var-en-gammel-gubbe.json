@@ -50,7 +50,7 @@
       "Syng med nu…"
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Der var en gammel gubbe. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Der var en gammel gubbe.",
   "tags": [
     "sange",
     "børn",
@@ -58,5 +58,5 @@
   ],
   "slug": "der-var-en-gammel-gubbe",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

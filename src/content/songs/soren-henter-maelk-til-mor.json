@@ -2,7 +2,7 @@
   "title": "Søren henter mælk til mor",
   "videoUrl": "none",
   "author": "Thøger Rasmussen",
-  "music": ": Thøger Rasmussen",
+  "music": "Thøger Rasmussen",
   "songVers": [
     [
       "Søren henter mælk til mor,",
@@ -35,7 +35,7 @@
       "stille og forsigtig."
     ]
   ],
-  "description": "Her finder du teksten til børnesangen, Søren henter mælk til mor. Klik her.",
+  "description": "Her finder du teksten til børnesangen, Søren henter mælk til mor.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "soren-henter-maelk-til-mor",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

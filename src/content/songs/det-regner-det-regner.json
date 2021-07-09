@@ -37,7 +37,7 @@
       "trala, la, la, la."
     ]
   ],
-  "description": "Her kan du finde teksten til Margrethe Marstrands børnesang om regnen. Sangen hedder Det regner, det regner. Klik her og læs sangteksten her.",
+  "description": "Her kan du finde teksten til Margrethe Marstrands børnesang om regnen. Sangen hedder Det regner, det regner.",
   "tags": [
     "sange",
     "børn",
@@ -45,5 +45,5 @@
   ],
   "slug": "det-regner-det-regner",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

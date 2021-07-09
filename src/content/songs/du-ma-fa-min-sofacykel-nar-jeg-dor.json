@@ -41,7 +41,7 @@
       "Du må få min lille vovse, når jeg dør."
     ]
   ],
-  "description": "Her kan du finde tekst og melodi til børnesangen, Du må få min sofacykel, når jeg dør. Klik her.",
+  "description": "Her kan du finde tekst og melodi til børnesangen, Du må få min sofacykel, når jeg dør.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "du-ma-fa-min-sofacykel-nar-jeg-dor",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

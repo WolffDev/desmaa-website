@@ -29,7 +29,7 @@
       "For så kører bilerne dig over"
     ]
   ],
-  "description": "Her kan du se sangteksten til børnesangen De tre lysmænd. I denne kan man lære om lyssignalerne i lyskryds m.m. Klik her.",
+  "description": "Her kan du se sangteksten til børnesangen De tre lysmænd. I denne kan man lære om lyssignalerne i lyskryds m.m.",
   "tags": [
     "sange",
     "børn",
@@ -37,5 +37,5 @@
   ],
   "slug": "de-tre-lysmaend",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Pandeben! – Godt det gror!",
   "videoUrl": "https://www.youtube.com/embed/ocRBqpNM8_c?rel=0",
   "author": "H. C. Andersen",
-  "music": ": J. C. Gebauer&nbsp;",
+  "music": "J. C. Gebauer ",
   "songVers": [
     [
       "Pandeben! – Godt det gror!",
@@ -53,7 +53,7 @@
       "Dikke, dikke, dikke, dik!"
     ]
   ],
-  "description": "Her kan du finde tekst og melodi til børnesangen, Pandeben - godt det gror. Klik her.",
+  "description": "Her kan du finde tekst og melodi til børnesangen, Pandeben - godt det gror.",
   "tags": [
     "sange",
     "børn",
@@ -61,5 +61,5 @@
   ],
   "slug": "pandeben-–-godt-det-gror",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

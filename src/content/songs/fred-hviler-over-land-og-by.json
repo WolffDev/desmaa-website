@@ -2,7 +2,7 @@
   "title": "Fred hviler over land og by",
   "videoUrl": "https://www.youtube.com/embed/M9sqi1pmPJc?rel=0",
   "author": "B. S. Ingemann",
-  "music": ": Rudolph Bay",
+  "music": "Rudolph Bay",
   "songVers": [
     [
       "Fred hviler over land og by,",
@@ -35,7 +35,7 @@
       "adskilles end vort spor."
     ]
   ],
-  "description": "Her finder du tekst og melodi til børnesangen, Fred hviler over land og by. Klik her.",
+  "description": "Her finder du tekst og melodi til børnesangen, Fred hviler over land og by.",
   "tags": [
     "sange",
     "børn",
@@ -43,5 +43,5 @@
   ],
   "slug": "fred-hviler-over-land-og-by",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

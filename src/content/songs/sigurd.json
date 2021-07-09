@@ -1,7 +1,7 @@
 {
   "title": "Sigurd",
   "videoUrl": "https://www.youtube.com/embed/REjF1ss8jGE?feature=oembed",
-  "author": "elv på flere vers her.&nbsp;",
+  "author": "elv på flere vers her. ",
   "music": "evt. skifte “moar” og “Sigurd” ud med andre navne.",
   "songVers": [
     [
@@ -34,5 +34,5 @@
   ],
   "slug": "sigurd",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

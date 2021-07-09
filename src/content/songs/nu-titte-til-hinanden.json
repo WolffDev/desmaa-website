@@ -2,7 +2,7 @@
   "title": "Nu titte til hinanden",
   "videoUrl": "https://www.youtube.com/embed/E6dqcQ3Luc8?rel=0",
   "author": "B. S. Ingemann",
-  "music": ": C. E. F. Weyse",
+  "music": "C. E. F. Weyse",
   "songVers": [
     [
       "Nu titte til hinanden de favre blomster små;",
@@ -43,5 +43,5 @@
   ],
   "slug": "nu-titte-til-hinanden",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

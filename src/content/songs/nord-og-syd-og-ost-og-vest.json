@@ -2,7 +2,7 @@
   "title": "Nord og syd og øst og vest",
   "videoUrl": "https://www.youtube.com/embed/D_JsMCoQcA4?feature=oembed",
   "author": "Mogens Lorentzen",
-  "music": ": Knudåge Riisager",
+  "music": "Knudåge Riisager",
   "songVers": [
     [
       "Nord og syd og øst og vest er alle vegne hen.",
@@ -43,5 +43,5 @@
   ],
   "slug": "nord-og-syd-og-ost-og-vest",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

@@ -2,7 +2,7 @@
   "title": "Det var den lille Hansemand",
   "videoUrl": "none",
   "author": "Fra svensk ved Margrethe Lønborg-Jensen",
-  "music": ": Alice Tegnér",
+  "music": "Alice Tegnér",
   "songVers": [
     [
       "Det var den lille Hansemand,",
@@ -41,7 +41,7 @@
       "Hej hop, hej hop i skoven!"
     ]
   ],
-  "description": "Her finder du teksten til den lille børnesang, Det var den lille Hansemand. Klik her.",
+  "description": "Her finder du teksten til den lille børnesang, Det var den lille Hansemand.",
   "tags": [
     "sange",
     "børn",
@@ -49,5 +49,5 @@
   ],
   "slug": "det-var-den-lille-hansemand",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

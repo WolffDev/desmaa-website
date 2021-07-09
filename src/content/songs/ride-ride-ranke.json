@@ -2,7 +2,7 @@
   "title": "Ride, ride ranke",
   "videoUrl": "none",
   "author": "N. U. Krossing",
-  "music": ": J. C. Gebauer&nbsp;",
+  "music": "J. C. Gebauer ",
   "songVers": [
     [
       "Hop, hop, hop, hop,",
@@ -53,7 +53,7 @@
       "Ride, ride, ranke!"
     ]
   ],
-  "description": "Her finder du teksten til den kendte børnesang, Ride, ride ranke, med tekst af N. U. Krossing og melodi af J. C. Gebauer. Klik her.",
+  "description": "Her finder du teksten til den kendte børnesang, Ride, ride ranke, med tekst af N. U. Krossing og melodi af J. C. Gebauer.",
   "tags": [
     "sange",
     "børn",
@@ -61,5 +61,5 @@
   ],
   "slug": "ride-ride-ranke",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

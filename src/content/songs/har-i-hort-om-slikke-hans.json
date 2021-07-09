@@ -2,7 +2,7 @@
   "title": "Har I hørt om Slikke-Hans",
   "videoUrl": "none",
   "author": "Harald Bergstedt",
-  "music": ": Knudåge Riisager",
+  "music": "Knudåge Riisager",
   "songVers": [
     [
       "Har I hørt om Slikke-Hans?",
@@ -53,5 +53,5 @@
   ],
   "slug": "har-i-hort-om-slikke-hans",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }

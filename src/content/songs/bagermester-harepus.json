@@ -1,13 +1,9 @@
 {
   "title": "Bagermester Harepus",
   "videoUrl": "https://www.youtube.com/embed/dMc5-lUJ-KY?feature=oembed",
-  "author": "none author",
-  "music": "none music",
+  "author": "Halfdan Rasmussen",
+  "music": "Chr. Hartmann",
   "songVers": [
-    [
-      "Musik: Chr. Hartmann",
-      "Tekst: Halfdan Rasmussen"
-    ],
     [
       "Bagermester Harepus",
       "er en dygtig bager.",
@@ -41,5 +37,5 @@
   ],
   "slug": "bagermester-harepus",
   "layout": "song",
-  "date": "1.5.2021"
+  "date": 1625672154754
 }
