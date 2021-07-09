@@ -5,10 +5,9 @@ import SongCard from "./SongCard";
 import SearchInput from "./SearchInput";
 
 const SongGrid = styled.div`
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    column-gap: 15px;
-    row-gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 `;
 
 interface SongEdge {
