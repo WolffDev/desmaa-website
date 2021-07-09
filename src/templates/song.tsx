@@ -9,18 +9,7 @@ import YouTube from "react-youtube";
 
 interface PageTemplateProps {
     data: {
-        site: {
-            siteMetadata: {
-                title: string;
-                description: string;
-                author: {
-                    name: string;
-                    url: string;
-                };
-            };
-        };
         songsJson: {
-            id: string;
             songVers: string[][];
             music: string;
             slug: string;
@@ -82,18 +71,25 @@ const Line = styled.p`
     margin-bottom: 5px;
 `;
 
+const YoutubeWrapper = styled.div`
+    display: flex;
+    justify-content: center;
+`;
+
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
-    const { songVers, music, title, videoUrl, date, author, description } = data.songsJson;
-    const strObj: Partial<YoutubeStringObj> = {};
-    if (!videoUrl.includes("none")) {
+    const { songVers, music, title, videoUrl, date, author, description, tags } = data.songsJson;
+    const videoObj: Partial<YoutubeStringObj> = {};
+    const containsVideo = !videoUrl.includes("none");
+
+    if (containsVideo) {
         const str = "/embed/";
-        strObj.indexStart = videoUrl.indexOf(str);
-        strObj.subLength = str.length;
-        strObj.indexEnd = videoUrl.indexOf("?rel=0");
-        strObj.youtubeId = videoUrl.substring(strObj.indexStart + strObj.subLength, strObj.indexEnd);
+        videoObj.indexStart = videoUrl.indexOf(str);
+        videoObj.subLength = str.length;
+        videoObj.indexEnd = videoUrl.indexOf("?rel=0");
+        videoObj.youtubeId = videoUrl.substring(videoObj.indexStart + videoObj.subLength, videoObj.indexEnd);
     }
     return (
-        <IndexLayout>
+        <IndexLayout description={description} title={title} keywords={tags.join(" ")}>
             <Page>
                 <Container>
                     <Heading>{title}</Heading>
@@ -110,7 +106,6 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                     </SubHeader>
 
                     {!description.includes("null") && <Description>{description}</Description>}
-                    <p>video: {videoUrl}</p>
                     <VerseWrapper>
                         {songVers.map((vers, i) => (
                             <Verse key={i}>
@@ -120,6 +115,12 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                             </Verse>
                         ))}
                     </VerseWrapper>
+
+                    {containsVideo && (
+                        <YoutubeWrapper>
+                            <YouTube id={videoObj.youtubeId} />
+                        </YoutubeWrapper>
+                    )}
                 </Container>
             </Page>
         </IndexLayout>
@@ -130,18 +131,7 @@ export default PageTemplate;
 
 export const query = graphql`
     query PageTemplateQuery($slug: String!) {
-        site {
-            siteMetadata {
-                title
-                description
-                author {
-                    name
-                    url
-                }
-            }
-        }
         songsJson(slug: { eq: $slug }) {
-            id
             songVers
             music
             slug
