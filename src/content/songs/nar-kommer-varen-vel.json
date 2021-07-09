@@ -1,16 +1,77 @@
 {
-  "title": "Når kommer våren vel",
-  "videoUrl": "none",
-  "author": "mmer gækken da?",
-  "music": "Når Gud Fa",
-  "songVers": [],
-  "description": "Her finder du teksten til børnesangen, Når kommer våren vel.",
-  "tags": [
-    "sange",
-    "børn",
-    "dansk"
-  ],
-  "slug": "nar-kommer-varen-vel",
-  "layout": "song",
-  "date": 1625672154754
+    "title": "Når kommer våren vel",
+    "videoUrl": "none",
+    "author": "mmer gækken da?",
+    "music": "Når Gud Fa",
+    "songVers": [
+        [
+            "Når kommer våren vel?",
+            "Når den sortblå svale kommer",
+            "og bebuder nære sommer,",
+            "når den kvidrende ta’r myggen,",
+            "der vil tumle sig i skyggen,",
+            "//: da kommer våren! ://"
+        ],
+        [
+            "Når kommer svalen da?",
+            "Når den lille frø i kæret",
+            "strækker halsen op i vejret",
+            "og med tungen slår på trommen:",
+            "“Nu er tykke frømand kommen!”",
+            "//: da kommer svalen! ://"
+        ],
+        [
+            "Når kommer frøen da?",
+            "Når den lange stork er kommen",
+            "for at putte frø’r i vommen",
+            "og står med de røde hoser",
+            "fiskende i brune moser –",
+            "//: da kommer frøen! ://"
+        ],
+        [
+            "Når kommer storken da?",
+            "Når først sneppen hid er fløjet",
+            "og står over isen bøjet,",
+            "borende sig der et bæger,",
+            "hvoraf den med vand sig kvæger –",
+            "//: da kommer storken! ://"
+        ],
+        [
+            "Når kommer sneppen da?",
+            "Når først kommer blot de dage,",
+            "at i Odense på tage",
+            "stæren bygger højt sin rede,",
+            "hvor godtfolk ham plads berede –",
+            "//: da kommer sneppen! ://"
+        ],
+        [
+            "Når kommer stæren da?",
+            "Det kan du jo nok begribe,",
+            "først der komme må en vibe!",
+            "Først når viben som en blinker",
+            "til armeen: “Fremad!” vinker –",
+            "//: da kommer stæren! ://"
+        ],
+        [
+            "Når kommer viben da?",
+            "Når først efter vintertide",
+            "vintergæk af sneen hvide",
+            "rejser sig med sine blade",
+            "og gør alle hjerter glade –",
+            "//: da kommer viben! ://"
+        ],
+        [
+            "Når kommer gækken da?",
+            "Når Gud Fader det behager,",
+            "vinker han den frem af ager;",
+            "først når hans befaling falder,",
+            "først når han på blomsten kalder –",
+            "//: da kommer gækken! ://"
+        ]
+    ],
+    "description": "Her finder du teksten til børnesangen, Når kommer våren vel.",
+    "tags": ["sange", "børn", "dansk"],
+    "slug": "nar-kommer-varen-vel",
+    "layout": "song",
+    "date": 1625672154754
 }

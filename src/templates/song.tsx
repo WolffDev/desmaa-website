@@ -1,11 +1,13 @@
-import * as React from "react";
+import React from "react";
 import { graphql } from "gatsby";
+import styled from "styled-components";
+import YouTube from "react-youtube";
 
 import IndexLayout from "../layouts/IndexLayout";
 import Page from "../components/Page";
 import Container from "../components/Container";
-import styled from "styled-components";
-import YouTube from "react-youtube";
+import Divider from "../components/shared/Divider";
+import { breakpoints, dimensions } from "../styles/variables";
 
 interface PageTemplateProps {
     data: {
@@ -36,8 +38,9 @@ const Heading = styled.h1`
 
 const SubHeader = styled.div`
     display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
 
     &:nth-child(odd) {
         &::before {
@@ -45,16 +48,22 @@ const SubHeader = styled.div`
             color: var(--onBackground);
         }
     }
+
+    @media (min-width: ${breakpoints.sm}px) {
+        flex-direction: row;
+        justify-content: center;
+    }
 `;
 
 const SubHeadingInfo = styled.span`
-    color: var(--onBackground);
+    color: var(--shadesGrey);
+    font-size: ${dimensions.fontSize.small}px;
     padding: 0 10px 0;
 `;
 
 const Description = styled.p`
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
+    max-width: ${breakpoints.md}px;
 `;
 
 const VerseWrapper = styled.div`
@@ -64,7 +73,11 @@ const VerseWrapper = styled.div`
 
 const Verse = styled.div`
     grid-column: 2 / 3;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
 `;
 
 const Line = styled.p`
@@ -78,6 +91,7 @@ const YoutubeWrapper = styled.div`
 
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
     const { songVers, music, title, videoUrl, date, author, description, tags } = data.songsJson;
+
     const videoObj: Partial<YoutubeStringObj> = {};
     const containsVideo = !videoUrl.includes("none");
 
@@ -88,6 +102,7 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
         videoObj.indexEnd = videoUrl.indexOf("?rel=0");
         videoObj.youtubeId = videoUrl.substring(videoObj.indexStart + videoObj.subLength, videoObj.indexEnd);
     }
+
     return (
         <IndexLayout description={description} title={title} keywords={tags.join(" ")}>
             <Page>
@@ -106,6 +121,9 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                     </SubHeader>
 
                     {!description.includes("null") && <Description>{description}</Description>}
+
+                    <Divider />
+
                     <VerseWrapper>
                         {songVers.map((vers, i) => (
                             <Verse key={i}>
@@ -116,9 +134,11 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                         ))}
                     </VerseWrapper>
 
+                    <Divider />
+
                     {containsVideo && (
                         <YoutubeWrapper>
-                            <YouTube id={videoObj.youtubeId} />
+                            <YouTube videoId={videoObj.youtubeId} opts={{ width: "auto" }} />
                         </YoutubeWrapper>
                     )}
                 </Container>

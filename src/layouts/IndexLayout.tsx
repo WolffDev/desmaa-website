@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from "gatsby";
 
 import Header from "../components/Header";
 import LayoutMain from "../components/LayoutMain";
+import Footer from "../components/Footer";
 
 interface StaticQueryProps {
     site: {
@@ -48,6 +49,7 @@ const IndexLayout: React.FC<IProps> = ({ children, title, description, keywords 
                     />
                     <Header title={data.site.siteMetadata.title} />
                     <LayoutMain>{children}</LayoutMain>
+                    <Footer />
                 </>
             );
         }}

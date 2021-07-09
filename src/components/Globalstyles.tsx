@@ -38,9 +38,15 @@ const GlobalStyles = createGlobalStyle`
     --onSurface: ${colors.light.onSurface};
     --onPrimary: ${colors.light.onPrimary};
     --onSecondary: ${colors.light.onSecondary};
+
     --uiBright: ${colors.light.ui.bright};
     --uiLight: ${colors.light.ui.light};
     --uiWhisper: ${colors.light.ui.whisper};
+    --uiDescent: ${colors.light.ui.descent};
+
+    --shadesGrey: ${colors.light.shades.grey};
+
+    --shadowsPrimary: ${colors.light.shadows.primary};
   
     background-color: var(--background);
     
@@ -58,9 +64,15 @@ const GlobalStyles = createGlobalStyle`
     --onSurface: ${colors.dark.onSurface};
     --onPrimary: ${colors.dark.onPrimary};
     --onSecondary: ${colors.dark.onSecondary};
+
     --uiBright: ${colors.dark.ui.bright};
     --uiLight: ${colors.dark.ui.light};
     --uiWhisper: ${colors.dark.ui.whisper};
+    --uiDescent: ${colors.dark.ui.descent};
+
+    --shadesGrey: ${colors.dark.shades.grey};
+
+    --shadowsPrimary: ${colors.dark.shadows.primary};
 
     background-color: var(--background);
   }

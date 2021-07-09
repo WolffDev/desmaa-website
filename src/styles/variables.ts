@@ -12,6 +12,13 @@ export const colors = {
             bright: "#e0d6eb",
             light: "#f5f3f7",
             whisper: "#fbfafc",
+            descent: "#133144",
+        },
+        shades: {
+            grey: "#afafaf",
+        },
+        shadows: {
+            primary: "0 9px 25px 0 rgb(8 14 23 / 28%)",
         },
     },
     dark: {
@@ -27,13 +34,20 @@ export const colors = {
             bright: "#e0d6eb",
             light: "#f5f3f7",
             whisper: "#fbfafc",
+            descent: "rgb(252 90 48 / 60%)",
+        },
+        shades: {
+            grey: "#afafaf",
+        },
+        shadows: {
+            primary: "",
         },
     },
 };
 
 export const fonts = {
     sansSerif:
-        '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif',
+        '"Century Gothic", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif',
     serif: 'Georgia, "Times New Roman", Times, serif',
     monospace: 'Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace, monospace',
 };
@@ -54,6 +68,7 @@ export const widths = {
 
 export const dimensions = {
     fontSize: {
+        small: 13,
         regular: 16,
         large: 18,
     },

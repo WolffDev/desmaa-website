@@ -13,6 +13,7 @@ const Label = styled.label`
     align-items: center;
     justify-content: space-between;
     padding: 5px;
+    margin-right: 11px;
     position: relative;
     height: 26px;
     width: 50px;
@@ -23,10 +24,10 @@ const Ball = styled.div`
     background-color: #fff;
     border-radius: 50%;
     position: absolute;
-    top: 2px;
-    left: 2px;
-    height: 22px;
-    width: 22px;
+    top: 3px;
+    left: 3px;
+    height: 20px;
+    width: 20px;
     transform: translateX(0px);
     transition: transform 0.2s linear;
 `;
