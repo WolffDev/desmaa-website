@@ -10,7 +10,7 @@ const StyledContainer = styled.div`
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    max-width: 1000px;
+    max-width: ${widths.xl}px;
     /* max-width: ${getEmSize(widths.lg)}em; */
 `;
 

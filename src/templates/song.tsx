@@ -5,6 +5,7 @@ import IndexLayout from "../layouts/IndexLayout";
 import Page from "../components/Page";
 import Container from "../components/Container";
 import styled from "styled-components";
+import YouTube from "react-youtube";
 
 interface PageTemplateProps {
     data: {
@@ -33,6 +34,13 @@ interface PageTemplateProps {
     };
 }
 
+interface YoutubeStringObj {
+    indexStart: number;
+    subLength: number;
+    indexEnd: number;
+    youtubeId: string;
+}
+
 const Heading = styled.h1`
     text-align: center;
 `;
@@ -55,10 +63,18 @@ const SubHeadingInfo = styled.span`
     padding: 0 10px 0;
 `;
 
-const Verse = styled.div`
+const Description = styled.p`
     display: flex;
-    position: relative;
-    flex-direction: column;
+    justify-content: center;
+`;
+
+const VerseWrapper = styled.div`
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+`;
+
+const Verse = styled.div`
+    grid-column: 2 / 3;
     margin-bottom: 20px;
 `;
 
@@ -68,6 +84,14 @@ const Line = styled.p`
 
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
     const { songVers, music, title, videoUrl, date, author, description } = data.songsJson;
+    const strObj: Partial<YoutubeStringObj> = {};
+    if (!videoUrl.includes("none")) {
+        const str = "/embed/";
+        strObj.indexStart = videoUrl.indexOf(str);
+        strObj.subLength = str.length;
+        strObj.indexEnd = videoUrl.indexOf("?rel=0");
+        strObj.youtubeId = videoUrl.substring(strObj.indexStart + strObj.subLength, strObj.indexEnd);
+    }
     return (
         <IndexLayout>
             <Page>
@@ -85,15 +109,17 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                         {!music.includes("none") && <SubHeadingInfo>Musik: {music}</SubHeadingInfo>}
                     </SubHeader>
 
-                    {!description.includes("null") && <p>{description}</p>}
+                    {!description.includes("null") && <Description>{description}</Description>}
                     <p>video: {videoUrl}</p>
-                    {songVers.map((vers, i) => (
-                        <Verse key={i}>
-                            {vers.map((line, z) => (
-                                <Line key={z}>{line}</Line>
-                            ))}
-                        </Verse>
-                    ))}
+                    <VerseWrapper>
+                        {songVers.map((vers, i) => (
+                            <Verse key={i}>
+                                {vers.map((line, z) => (
+                                    <Line key={z}>{line}</Line>
+                                ))}
+                            </Verse>
+                        ))}
+                    </VerseWrapper>
                 </Container>
             </Page>
         </IndexLayout>

@@ -147,6 +147,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   p {
+    word-break: break-word;
     margin-top: 0;
     margin-bottom: 1rem;
     color: var(--onBackground)
