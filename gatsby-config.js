@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: "De Sma",
+        title: "De Smaa",
         description: "",
         keywords: "sange, børn, godnat, godnat sange, sange til børn",
         siteUrl: "https://desmaa.dk",
