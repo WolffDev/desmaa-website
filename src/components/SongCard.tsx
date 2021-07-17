@@ -1,16 +1,18 @@
-import * as React from "react";
+import React from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
+import { motion } from "framer-motion";
+
 import { getEmSize } from "../styles/mixins";
 import { breakpoints } from "../styles/variables";
 
-const StyledLink = styled(Link)`
+const StyledLink = styled(motion(Link))`
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     width: 100%;
-    height: 70px;
+    height: 60px;
     border-radius: 10px;
     text-decoration: none;
     background-color: var(--surface);
@@ -29,8 +31,6 @@ const StyledLink = styled(Link)`
     }
 `;
 
-const Card = styled.div``;
-
 interface Song {
     song: {
         title: string;
@@ -40,7 +40,11 @@ interface Song {
 }
 
 const SongCard: React.FC<Song> = ({ song }) => {
-    return <StyledLink to={`sange/${song.slug}`}>{song.title}</StyledLink>;
+    return (
+        <StyledLink to={`sange/${song.slug}`} whileTap={{ scale: 1.05 }} whileHover={{ scale: 1.05 }}>
+            {song.title}
+        </StyledLink>
+    );
 };
 
 export default SongCard;

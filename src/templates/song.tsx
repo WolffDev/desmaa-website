@@ -99,7 +99,7 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
         const str = "/embed/";
         videoObj.indexStart = videoUrl.indexOf(str);
         videoObj.subLength = str.length;
-        videoObj.indexEnd = videoUrl.indexOf("?rel=0");
+        videoObj.indexEnd = videoUrl.indexOf("?");
         videoObj.youtubeId = videoUrl.substring(videoObj.indexStart + videoObj.subLength, videoObj.indexEnd);
     }
 
