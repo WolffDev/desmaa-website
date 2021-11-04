@@ -1,0 +1,101 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JS-ANSIREGEX-1583908:
+    - gatsby > strip-ansi > ansi-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.653Z'
+  SNYK-JS-DECOMPRESSTAR-559095:
+    - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > download > decompress > decompress-targz > decompress-tar:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > bin-wrapper > download > decompress > decompress-targz > decompress-tar:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-IMMER-1540542:
+    - gatsby > react-dev-utils > immer:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-NTHCHECK-1586032:
+    - css-minimizer-webpack-plugin > cssnano > cssnano-preset-default > postcss-svgo > svgo > css-select > nth-check:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > svgo > css-select > nth-check:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-OBJECTPATH-1569453:
+    - gatsby > graphql-compose > object-path:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby > gatsby-cli > gatsby-recipes > graphql-compose > object-path:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-OBJECTPATH-1585658:
+    - gatsby > graphql-compose > object-path:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby > gatsby-cli > gatsby-recipes > graphql-compose > object-path:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-PROMPTS-1729737:
+    - gatsby > react-dev-utils > prompts:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-SEMVERREGEX-1047770:
+    - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-SEMVERREGEX-1584358:
+    - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-SEMVERREGEX-1585624:
+    - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > bin-wrapper > bin-version-check > bin-version > find-versions > semver-regex:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-SHELLQUOTE-1766506:
+    - gatsby > react-dev-utils > shell-quote:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-TRIM-1017038:
+    - gatsby > gatsby-cli > gatsby-recipes > remark-parse > trim:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-TRIMNEWLINES-1298042:
+    - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > logalot > squeak > lpad-align > meow > trim-newlines:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > logalot > squeak > lpad-align > meow > trim-newlines:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-URLPARSE-1533425:
+    - eventsource > original > url-parse:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+  SNYK-JS-WS-1296835:
+    - '@graphql-tools/url-loader > ws':
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - engine.io > ws:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - engine.io-client > ws:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - '@graphql-tools/url-loader > subscriptions-transport-ws > ws':
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+    - eslint-plugin-graphql > graphql-config > @graphql-tools/url-loader > ws:
+        reason: None given
+        expires: '2021-12-04T16:19:45.654Z'
+patch: {}

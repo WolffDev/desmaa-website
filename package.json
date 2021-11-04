@@ -17,12 +17,13 @@
         "serve": "gatsby serve",
         "local": "gatsby develop -H 0.0.0.0 -p 8000",
         "clean": "gatsby clean",
-        "analyze": "INTERACTIVE_ANALYZE=1 npm run build"
+        "analyze": "INTERACTIVE_ANALYZE=1 npm run build",
+        "test": "snyk test"
     },
     "dependencies": {
         "babel-plugin-styled-components": "^1.12.0",
         "framer-motion": "^4.1.17",
-        "gatsby": "^3.10.0",
+        "gatsby": "^3.13.0",
         "gatsby-image": "^3.8.0",
         "gatsby-plugin-canonical-urls": "^3.8.0",
         "gatsby-plugin-dark-mode": "^1.1.2",
@@ -55,6 +56,7 @@
         "eslint-plugin-prettier": "^3.4.0",
         "prettier": "^2.3.2",
         "rimraf": "^3.0.2",
+        "snyk": "^1.752.0",
         "webpack-bundle-analyzer": "^4.4.2"
     }
 }
