@@ -6,7 +6,7 @@ import Moon from "./icons/Moon";
 import Sun from "./icons/Sun";
 
 const Label = styled.label`
-    background-color: #111;
+    background-color: var(--background);
     border-radius: 50px;
     cursor: pointer;
     display: flex;
@@ -21,7 +21,7 @@ const Label = styled.label`
 `;
 
 const Ball = styled.div`
-    background-color: #fff;
+    background-color: ${({ theme }) => (theme === "light" ? "#909090" : "#eee")};
     border-radius: 50%;
     position: absolute;
     top: 3px;
@@ -46,14 +46,14 @@ const DarkToggle = () => {
         <ThemeToggler>
             {({ theme, toggleTheme }: { theme: string; toggleTheme: Function }) => (
                 <>
-                    <Label htmlFor="darkMode">
+                    <Label htmlFor="darkMode" theme={theme}>
                         <Checkbox
                             type="checkbox"
                             checked={theme === "dark"}
                             onChange={(e) => toggleTheme(e.target.checked ? "dark" : "light")}
                             id="darkMode"
                         />
-                        <Ball />
+                        <Ball theme={theme} />
                         <Moon />
                         <Sun />
                     </Label>
