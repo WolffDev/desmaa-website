@@ -30,9 +30,6 @@ const HeaderInner = styled.div`
     width: ${widths.xl}px;
 `;
 
-<<<<<<< HEAD
-const StyledLink = styled(Link)`
-=======
 const HeaderRight = styled.div`
     display: flex;
     flex-direction: row;
@@ -45,7 +42,6 @@ const HeaderRight = styled.div`
 
 const StyledLink = styled(Link)`
     display: flex;
->>>>>>> 7c795115f98cf9d66220661396cc4b8309be92f1
     color: var(--onSurface);
     font-size: 1.5rem;
     font-weight: 600;
@@ -64,17 +60,12 @@ const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
             <StyledLink to="/">{title}</StyledLink>
-<<<<<<< HEAD
-            <StyledLink to="/favorit">Favoritter</StyledLink>
-            <DarkToggle />
-=======
             <HeaderRight>
                 <StyledLink to="/favorit">
                     <HeartSolid />
                 </StyledLink>
                 <DarkToggle />
             </HeaderRight>
->>>>>>> 7c795115f98cf9d66220661396cc4b8309be92f1
         </HeaderInner>
     </StyledHeader>
 );
