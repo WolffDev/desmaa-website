@@ -27,7 +27,6 @@ const AddToFavourite: React.FC<Props> = ({ slug, title }) => {
     const handleClick = () => {
         favouriteItem ? deleteFavourite(slug) : setFavourite(slug, title);
     };
-    console.log("add fav");
     return (
         <FavWrapper onClick={handleClick}>
             {favouriteItem ? (
