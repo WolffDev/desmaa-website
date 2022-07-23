@@ -27,7 +27,11 @@ const FavoritePage = () => {
                 <Container>
                     <h1>Favorit side</h1>
                     <SongGrid>
-                        {favList && favList.map((favItem) => <SongCard key={favItem.slug} song={favItem} />)}
+                        {favList ? (
+                            favList.map((favItem) => <SongCard key={favItem.slug} song={favItem} />)
+                        ) : (
+                            <p>Du har ikke tilføjet nogen sange til din favoritliste endnu.</p>
+                        )}
                     </SongGrid>
                 </Container>
             </Page>
