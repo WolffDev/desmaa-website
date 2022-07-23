@@ -19,7 +19,7 @@ interface StaticQueryProps {
     };
 }
 
-const SongsPage: React.FC = () => {
+const IndexPage: React.FC = () => {
     return (
         <StaticQuery
             query={graphql`
@@ -48,4 +48,4 @@ const SongsPage: React.FC = () => {
     );
 };
 
-export default SongsPage;
+export default IndexPage;

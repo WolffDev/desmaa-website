@@ -4,6 +4,7 @@ import { Link } from "gatsby";
 
 import { heights, dimensions, widths } from "../styles/variables";
 import DarkToggle from "./DarkToggle";
+import HeartSolid from "./icons/heartSolid";
 
 const StyledHeader = styled.header`
     height: ${heights.header}px;
@@ -29,7 +30,18 @@ const HeaderInner = styled.div`
     width: ${widths.xl}px;
 `;
 
-const HomepageLink = styled(Link)`
+const HeaderRight = styled.div`
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    & > a {
+        padding-right: 30px;
+    }
+`;
+
+const StyledLink = styled(Link)`
+    display: flex;
     color: var(--onSurface);
     font-size: 1.5rem;
     font-weight: 600;
@@ -47,8 +59,13 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
-            <HomepageLink to="/">{title}</HomepageLink>
-            <DarkToggle />
+            <StyledLink to="/">{title}</StyledLink>
+            <HeaderRight>
+                <StyledLink to="/favorit">
+                    <HeartSolid />
+                </StyledLink>
+                <DarkToggle />
+            </HeaderRight>
         </HeaderInner>
     </StyledHeader>
 );

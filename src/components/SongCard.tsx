@@ -35,13 +35,12 @@ interface Song {
     song: {
         title: string;
         slug: string;
-        description: string;
     };
 }
 
 const SongCard: React.FC<Song> = ({ song }) => {
     return (
-        <StyledLink to={`sange/${song.slug}`} whileTap={{ scale: 0.9 }} whileHover={{ scale: 1.05 }}>
+        <StyledLink to={`/sange/${song.slug}`} whileTap={{ scale: 0.9 }} whileHover={{ scale: 1.05 }}>
             {song.title}
         </StyledLink>
     );
