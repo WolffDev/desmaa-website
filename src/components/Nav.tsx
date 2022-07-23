@@ -29,7 +29,7 @@ const HeaderInner = styled.div`
     width: ${widths.xl}px;
 `;
 
-const HomepageLink = styled(Link)`
+const StyledLink = styled(Link)`
     color: var(--onSurface);
     font-size: 1.5rem;
     font-weight: 600;
@@ -47,7 +47,8 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
-            <HomepageLink to="/">{title}</HomepageLink>
+            <StyledLink to="/">{title}</StyledLink>
+            <StyledLink to="/favorit">Favoriter</StyledLink>
             <DarkToggle />
         </HeaderInner>
     </StyledHeader>
