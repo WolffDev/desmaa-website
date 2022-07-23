@@ -8,6 +8,7 @@ import Page from "../components/Page";
 import Container from "../components/Container";
 import Divider from "../components/shared/Divider";
 import { breakpoints, dimensions } from "../styles/variables";
+import AddToFavourite from "../components/AddToFavourite";
 
 interface PageTemplateProps {
     data: {
@@ -39,7 +40,7 @@ const Heading = styled.h1`
 const SubHeader = styled.div`
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: start;
     margin-bottom: 30px;
 
     &:nth-child(odd) {
@@ -66,6 +67,15 @@ const Description = styled.p`
     max-width: ${breakpoints.md}px;
 `;
 
+const FavouriteWrapper = styled.p`
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 0 auto;
+    max-width: ${breakpoints.md}px;
+    height: 45px;
+`;
+
 const VerseWrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr auto 1fr;
@@ -90,7 +100,7 @@ const YoutubeWrapper = styled.div`
 `;
 
 const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
-    const { songVers, music, title, videoUrl, date, author, description, tags } = data.songsJson;
+    const { songVers, music, title, videoUrl, date, author, description, tags, slug } = data.songsJson;
 
     const videoObj: Partial<YoutubeStringObj> = {};
     const containsVideo = !videoUrl.includes("none");
@@ -110,6 +120,7 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
                     <Heading>{title}</Heading>
                     <SubHeader>
                         <SubHeadingInfo>
+                            Sang tilføjet d.{" "}
                             {new Date(date).toLocaleDateString("da-DK", {
                                 month: "long",
                                 day: "numeric",
@@ -122,6 +133,9 @@ const PageTemplate: React.FC<PageTemplateProps> = ({ data }) => {
 
                     {!description.includes("null") && <Description>{description}</Description>}
 
+                    <FavouriteWrapper>
+                        <AddToFavourite slug={slug} title={title} />
+                    </FavouriteWrapper>
                     <Divider />
 
                     <VerseWrapper>

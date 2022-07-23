@@ -48,7 +48,7 @@ const Header: React.FC<HeaderProps> = ({ title }) => (
     <StyledHeader>
         <HeaderInner>
             <StyledLink to="/">{title}</StyledLink>
-            <StyledLink to="/favorit">Favoriter</StyledLink>
+            <StyledLink to="/favorit">Favoritter</StyledLink>
             <DarkToggle />
         </HeaderInner>
     </StyledHeader>
