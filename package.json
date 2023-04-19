@@ -28,7 +28,7 @@
         "gatsby-plugin-canonical-urls": "^3.8.0",
         "gatsby-plugin-dark-mode": "^1.1.2",
         "gatsby-plugin-react-helmet": "^4.8.0",
-        "gatsby-plugin-sharp": "^4.8.0",
+        "gatsby-plugin-sharp": "^4.25.1",
         "gatsby-plugin-sitemap": "^4.4.0",
         "gatsby-plugin-styled-components": "^4.8.0",
         "gatsby-plugin-typescript": "^3.8.0",
