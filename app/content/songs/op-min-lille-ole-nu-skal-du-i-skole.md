@@ -1,0 +1,37 @@
+---
+title: "Op, min lille Ole, nu skal du i skole!"
+slug: "op-min-lille-ole-nu-skal-du-i-skole"
+date: 2021-07-07T15:35:54.754Z
+author: "H. C. Frederiksen"
+music: "S. Halle"
+description: "Her finder du teksten til børnesangen, Op, min lille Ole, nu skal du i skole."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Op, min lille Ole,  
+nu skal du i skole!  
+Alle mand er oppe nu,  
+ingen ligger uden du;  
+tavlen længes, bogen venter,  
+spørger, om du snart den henter.  
+Nu et hop! og én, to, tre,  
+er du færdig, skal du se!
+
+Se, nu sidder Ole  
+henne i sin skole,  
+sidder pænt og passer på  
+mellem sine venner små.  
+Han kan svare rask i klassen,  
+han kan køre hest på pladsen,  
+han kan springe som en kat,  
+ingen kan få Ole fat.
+
+Bomme, lomme, lomme!  
+Ole slår på tromme;  
+Ole er en rask krabat,  
+han vil være landsoldat.  
+Han vil  foran med sin tromme,  
+bomme, lomme, lomme, lomme!  
+Ole slog på trommen, – ak!  
+Han slog til, så skindet sprak!

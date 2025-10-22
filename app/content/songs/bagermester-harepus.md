@@ -1,0 +1,32 @@
+---
+title: "Bagermester Harepus"
+slug: "bagermester-harepus"
+date: 2021-07-07T15:35:54.754Z
+author: "Halfdan Rasmussen"
+music: "Chr. Hartmann"
+description: "Her kan du se teksten til sangen Bagermester Harepus, som kommer fra Dyrene i Hakkebakkeskoven. Du finder også en video, så du kan høre melodien sunget."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=dMc5-lUJ-KY"
+---
+
+Bagermester Harepus  
+er en dygtig bager.  
+i sit kagebagerhus  
+bager bager Harepus  
+mange bagerkager.  
+Her er kager nok at få  
+for en hel familie,  
+nogle store, nogle små,  
+nogle få med sukker på,  
+nogle med vanilje.
+
+Harepus har wienerbrød,  
+sigtebrød og klejner,  
+flødebrød og nøddebrød,  
+sprøde brød og søde brød,  
+blødt brød når det regner.  
+Bagermester Harepus  
+bager så det knager.  
+Gid jeg var en bagermus  
+i et kagebagerhus  
+hos en kagebager.

@@ -1,0 +1,22 @@
+---
+title: "Per spillemand"
+slug: "per-spillemand"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du teksten til børnesangen, Per spillemand."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+//: Per spillemand havde en eneste ko, ://  
+//: den bytted han bort for en gammel fiol. ://  
+Du gamle, gode violin, du violin, nu er du min!
+
+//: Per spillemand spilled’ på sin violin, ://  
+//: så drengene dansed’, og pigerne græd. ://  
+Du gamle, gode violin, du violin, nu er du min!
+
+//: Og om jeg bli’r gammel – selv hundrede år, ://  
+//: så bytter jeg aldrig bort min violin. ://  
+Du gamle, gode violin, du violin, nu er du min!

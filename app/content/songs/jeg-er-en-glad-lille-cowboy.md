@@ -1,0 +1,45 @@
+---
+title: "Jeg er en glad lille cowboy"
+slug: "jeg-er-en-glad-lille-cowboy"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du tekst og melodi til den muntre børnesang, Jeg er en glad lille cowboy."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=RTLLT-8YkSg"
+---
+
+Jeg er en glad lille cowboy  
+fra Texas’ prærieland,  
+at ride og kaste med lasso  
+er det jeg allerbedst kan.  
+Jubijæ – jubijæ –  
+er det, jeg allerbedst kan.
+
+Jeg børster og strigler min pony,  
+så den bli’r blank og sort,  
+så svinger jeg mig i sadlen  
+og rider langt, langt bort.  
+Jubijæ – jubijæ –  
+og rider langt, langt bort.
+
+Så griber jeg min skyder,  
+og skyder alt hvad jeg kan,  
+men den er ikke så farlig,  
+den skyder kun med vand!  
+Jubijæ – jubijæ –  
+den skyder kun med vand.
+
+Og når det så bli’r aften,  
+så får min pony fri,  
+så løber den ud på prærien,  
+det kan den allerbedst li’.  
+Jubijæ – jubijæ –  
+det kan den allerbedst li’.
+
+Så sætter jeg mig ved bålet  
+og synger en aftensang,  
+så går jeg til ro ved bålet  
+og sover natten lang.  
+Jubijæ – jubijæ –  
+og sover natten lang.

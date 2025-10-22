@@ -1,0 +1,45 @@
+---
+title: "Tre søde småbørn"
+slug: "tre-sode-smaborn"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du teksten til børnesangen, Tre søde småbørn."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Tre søde småbørn med øjne blå  
+stille i skumringen sammen stå,  
+følger med øjnene alle dem,  
+som nu fra arbejdet vender hjem.  
+De venter på far, venter på far,  
+trykker sig mod ruden og venter på far.
+
+Gabriel er i sit sjette år,  
+ryster betænksomt det brune hår,  
+klemmer mod vinduet sin pande tæt,  
+stirrer, til nakken bli’r ganske træt:  
+Han venter på far, venter på far,  
+stirrer ud på gaden og venter på far.
+
+Anna Marie ved siden står,  
+sød lille dukke på fire år,  
+gule småkrøller om kinden slår,  
+øjnene store og spændte står:  
+Hun venter på far, venter på far,  
+å, – jo, du kan tro – hun venter på far.
+
+Men lille baby er Kristian,  
+knap nok sin længsel han styre kan;  
+far har jo lovet ham noget rart,  
+derfor han tænker: Han kommer snart.  
+Kommer ej far? Kommer ej far?  
+Stadig han spørger: Kommer ej far?
+
+Længe de venter, de søde små,  
+mange forbi deres vindu’ gå.  
+Endelig! – Nej! – Er det? – Jo, såmænd!  
+Alle de styrter mod døren hen:  
+“Der kommer far! Der kommer far!”  
+Hurra! højt de råber: “Der kommer far!”

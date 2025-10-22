@@ -1,0 +1,43 @@
+---
+title: "Hvem vil ikke gerne være kat"
+slug: "hvem-vil-ikke-gerne-vaere-kat"
+date: 2021-07-07T15:35:54.754Z
+author: "Floyd Huddleston. På dansk ved Victor Skaarup"
+music: "Al Rinker"
+description: "Her kan du finde tekst og melodi til børnesangen, Hvem vil ikke gerne være kat. Den er bedst kendt fra Disney-filmen, Aristocats."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=FrSoOfMNwrI"
+---
+
+Hvem vil ikke gerne være kat?  
+Fordi en kat går ud på sjov  
+hver eneste nat.  
+Når vi spiller,  
+holder vi derfor aldrig op,  
+for kattemusik er helt i top.  
+Hver eneste lyd  
+fra dit horn er en fryd.  
+Det’ da ingenting!  
+Jeg bli’r så dejlig tilpas,  
+når jeg hører lidt jazz,  
+der skal godt med swing!
+
+Lidt kattepotedans gi’r festen glans,  
+for hver en kat har rytmesans  
+fra snude til svans.  
+Det bedste kommer først  
+når man ta’r rigtigt fat.  
+Ja, hvem vil ikke gerne være kat?  
+Når vi gi’r den gas  
+med lidt god gammel jazz  
+– hvem ka’ ønske mer’?  
+Ja, musik skal der til,  
+og det bedste vi ved  
+er et forstemt klaver.
+
+Ja, hvem vil ikke gerne være kat?  
+Fordi en kat får ud på sjov  
+hver eneste nat.  
+alle sku’ ha’ lov  
+at springe frit omkring  
+til vores kisse-misse-katte-swing.

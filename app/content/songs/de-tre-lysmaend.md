@@ -1,0 +1,30 @@
+---
+title: "De tre lysmænd"
+slug: "de-tre-lysmaend"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her kan du se sangteksten til børnesangen De tre lysmænd. I denne kan man lære om lyssignalerne i lyskryds m.m."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Hvor er han mon, den grønne mand?  
+Ham må vi vente på.  
+For når han kommer, hip hurra!  
+Så må vi gerne gå.
+
+Her kommer jeg go’ dav med dig.  
+Mig kan du stole på.  
+Men kig til venstre og til højre,  
+inden du vil gå
+
+Den gule mand vil standse os,  
+han hvisker blidt:” pas på”.  
+Nu kommer snart den røde mand,  
+så må ingen, ingen gå.
+
+Her er jeg og jeg er rød.  
+Hvis du standser, er du sød.  
+Hvis du går, så er du død.  
+For så kører bilerne dig over

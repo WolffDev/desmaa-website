@@ -1,0 +1,42 @@
+---
+title: "Og send nu bud"
+slug: "og-send-nu-bud"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du teksten til børnesangen, Og send nu bud."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Og send nu bud, og send nu bud  
+til doktoren på bakken,  
+og sig, at han må komme straks,  
+for syg er missekatten.  
+Og er først missekatten død,  
+da springer musen på bordet  
+og æder af ost og brød.
+
+Og send nu bud, og send nu bud  
+til gamle jomfru Dorthe,  
+og sig, at hun må komme straks  
+og sy missekatten en skjorte.  
+For nu er missekatten død,  
+og musen springer på bordet  
+og æder af ost og brød.
+
+Og send så bud, og send så bud  
+til snedkeren den vise,  
+og sig, at han skal gøre straks  
+til missekatten en kiste.  
+for nu er missekatten død,  
+og musen springer på bordet  
+og æder af ost og brød.
+
+Og først kom alle rotterne  
+i lange, sorte kapper,  
+bagefter kom så musene,  
+de gik og græd af latter.  
+For nu, da lille mis er død,  
+nu springer musen på bordet  
+og æder af ost og brød.

@@ -1,0 +1,52 @@
+---
+title: "Pandeben! – Godt det gror!"
+slug: "pandeben-–-godt-det-gror"
+date: 2021-07-07T15:35:54.754Z
+author: "H. C. Andersen"
+music: "J. C. Gebauer "
+description: "Her kan du finde tekst og melodi til børnesangen, Pandeben - godt det gror."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=ocRBqpNM8_c"
+---
+
+Pandeben! – Godt det gror!  
+Bag ved det forstanden bor.  
+Den vil læse, den vil lære,  
+bringe dig i agt og ære,  
+sidde som en holden en  
+bag det stolte pandeben.
+
+Øjesten! – Nej, hvor klar!  
+Tror jeg ikke, to du har!  
+Se dog bare, hvor de klares,  
+jeg kan se dig, o bevares!  
+Lige ind i hjerteben,  
+du, min egen øjesten!
+
+Næsetip! – Hvilken hest!  
+Et par briller rider bedst.  
+Når du ikke vejen kender,  
+rider du, hvor tippen vender  
+hvilken lille stumpet snip!  
+Hesten hedder næsetip!
+
+Mundelip! – Frisk og rød!  
+Er det sandt, du er så sød?  
+Kan jeg ganske på det lide,  
+vil ej tænderne mig bide?  
+Jeg vil tage kysset – svip!  
+Det tog jeg fra mundelip.
+
+Hageflip! – Det er vist,  
+hageflippen kommer sidst.  
+Men i kløften, som jeg hører,  
+er der nok en luks, der kører;  
+det går over næsetip,  
+mundelip og hageflip!
+
+Dikkedik! – Hvad er det!  
+Vil du sidde rank og ret!  
+Så skal jeg nok luksen finde,  
+thi jeg ved, han er derinde.  
+O, nu har jeg ham, den strik!  
+Dikke, dikke, dikke, dik!

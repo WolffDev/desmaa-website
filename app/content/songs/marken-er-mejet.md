@@ -1,0 +1,24 @@
+---
+title: "Marken er mejet"
+slug: "marken-er-mejet"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du tekst og melodi til den meget kendte børnesang, Marken er mejet."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=mjTWyb4OuZ4"
+---
+
+Marken er mejet, og høet er høstet,  
+kornet er i laderne, og høet står i hæs.  
+Frugten er plukket, og træet er rystet,  
+og nu går det hjemad med det allersidste læs.  
+//: Rev vi marken let, det er gammel ret:  
+Fuglen og den fattige skal også være mæt! ://
+
+Loen vi pynter med blomster og blade,  
+vi har georginer og bonderoser nok;  
+børnene danser allerede så glade,  
+alle vore piger står nu ventende i flok.  
+//: Bind så korn i krans! Hurra, her til lands  
+slutter høsten altid med et gilde og en dans! ://

@@ -1,0 +1,64 @@
+---
+title: "Sangen om Nikolaj"
+slug: "sangen-om-nikolaj"
+date: 2021-07-07T15:35:54.754Z
+author: "Lorentz Albeck Larsen"
+music: "Gunnar Nyborg-Jensen"
+description: "Her finder du teksten til børnesangen, Nikolaj. Bedre kendt som remsen \"punktum, punktum, komma, streg, sådan tegnes Nikolaj\"."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=YYxCC66X-So"
+---
+
+Punktum, punktum, komma, streg  
+sådan tegnes Nikolaj.  
+Streg og streg og  kugle-rund,  
+frisk og frejdig, kernesund.  
+Hul i lommen har han nu,  
+husk at sy det, lille du.  
+Arme, ben og støvler på,  
+så kan “Nikolajsen” gå.
+
+Hat på ho’det skal han ha’,  
+så han kan si’ fint “goddag”.  
+Rask han hen ad vejen går,  
+vogter sine hvide får.  
+Solen varmer på hans knold,  
+får’ne bræger – alle tol’,  
+og på engen koen brøler,  
+mens en kalv sin mule køler.
+
+Blomsterne i grøften står,  
+storkens unger frokost får,  
+flaget hejses ved et hus,  
+katten  leger med en mus.  
+“Nikolajsen” ser sig om:  
+– Tænk, om der en pige kom!  
+En med friske røde kinder,  
+en, som blomsterkranse binder.
+
+Hvad er det – der er hun jo!  
+Smilehuller har hun – to.  
+Blomster – røde, grønne, blå,  
+bundet sammen med et strå.  
+Og mens lærken triller slår,  
+lille Inger for ham står.  
+Mange kranse vil hun binde,  
+syv til ham og syv til hende.
+
+Hen til kirken nu de går –  
+mens fra tårnet klokken slår.  
+“Kære præst, vi giftes ville,  
+ha’ et hus – og bryllupsgilde;  
+blommer, æbler – og en gris,  
+får og høns – en lille mis.”  
+Solen skinner, klokken ringer  
+skønt for Nikolaj og Inger.
+
+Ømt om Ingers røde kind  
+leger sødt den lune vind,  
+“Nikolajsen”s hvide får  
+bræger, alt hvad de formår,  
+sommerfugle flyver højt  
+mellem sol og stærefløjt.  
+Alt er dejligt her på jorden,  
+når så søde børn bebor den!

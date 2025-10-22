@@ -1,0 +1,40 @@
+---
+title: "På gaden der går jeg så tit"
+slug: "pa-gaden-der-gar-jeg-sa-tit"
+date: 2021-07-07T15:35:54.754Z
+author: "R. Rafaëlis"
+music: "Ejnar Jacobsen"
+description: "Her finder du teksten til den gamle børnesang, På gaden der går jeg så tit."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+På gaden der går jeg så tit en tur,  
+tra-la-la, la-la-la, la-la-la!  
+Jeg fløjter en sang i en lystig dur.  
+(fløjtes…)
+
+Se, der kommer brandmandens røde bil,  
+ba-ba-bu, ba-ba-bu, ba-ba-bu!  
+Den farer af sted, som en flitsbu’pil,  
+ba-ba-bu, ba-ba-bu, ba-ba-bu!
+
+Med sporvognen kør’ jeg så mangen gang,  
+dingeling, dingeling, dingeling!  
+Dens fart kan jeg li’, ja, og klokkens klang:  
+Dingeling, dingeling, dingeling!
+
+Et tog ruller ind under Tietgensbro,  
+tamteram, tamteram, tamteram!  
+Det kører mod Valby fra Vesterbro,  
+tamteram, tamteram, tamteram!
+
+Fra rådhusets ur lyder tunge slag:  
+bi-im-bam, bi-im-bam, bi-im-bam!  
+De toner hver time den lange dag:  
+bi-im-bam, bi-im-bam, bi-im-bam!
+
+Hurra for vor by med dens larm og klang,  
+hu-ur-ra, hu-ur-ra, hu-ur-ra!  
+Og tre lange hurra den sidste gang:  
+hu-ur-ra, hu-ur-ra, hu-ur-ra!

@@ -1,0 +1,52 @@
+---
+title: "Hej for dig"
+slug: "hej-for-dig"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her kan du se sangteksten til Far til Fire sangen Hej for dig og hej for mig, som blev brugt i filmen Far til Fire i Sneen. Du kan også se videoen. Klik nu."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=7bE6qE9CjA8"
+---
+
+Jeg bli’r venner med enhver,  
+jeg møder på min vej.  
+Når de hører denneher,  
+så synger de med mig:  
+Hej for dig og hej for mig,  
+hej for Norges land.  
+Al den sne, jeg før har set,  
+de’ det rene vand.  
+Hva’ er det, der skinner hvidt  
+højt på fjeldets top?  
+Hvis det er vanilje-is,  
+så vil jeg derop.  
+Nå, pyt med det  
+jeg elsker sne –  
+og sneen elsker osse mig,  
+kan I se!  
+Hej for sol og hej for skov,  
+hej for styrtebad.  
+Hej for alt, hva’ der er sjov,  
+ih, hvor er jeg glad. – Bum!
+
+Det er som et eventyr,  
+og jeg vil aldrig hjem.  
+Ser jeg nogen vilde dyr,  
+så leger jeg med dem:  
+Hej for dig og hej for mig,  
+hej for dit og dat.  
+Solskin sku’ man altid ha’,  
+både dag og nat.  
+Hej for kongen på sit slot,  
+han har krone på,  
+jeg har lige købt for min,  
+sådan kan det gå.  
+Nej, sikke een –  
+det er en ren –  
+den må da fryse væmæo’  
+om sine ben.  
+Hej for træ og hej for busk,  
+hej for hvert et blad.  
+Blade kan man læse i,  
+ih, hvor er jeg glad. – Bum!

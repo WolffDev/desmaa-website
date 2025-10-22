@@ -1,0 +1,38 @@
+---
+title: "Kom, du store “pruhest!”"
+slug: "kom-du-store-pruhest"
+date: 2021-07-07T15:35:54.754Z
+author: "Gunder Knudsen"
+music: "Gunder Knudsen"
+description: "Her er teksten til børnesangen, Kom, du store \"prughest!\"."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Kom, du store “pruhest”,  
+lad mig klappe dig!  
+Nu skal du i marken  
+ud med far og mig.  
+Hyp, hyp, hyp og hop­ –  
+fremad i galop!
+
+Du skal trække ploven,  
+kræfterne du har;  
+siden skal du græsse,  
+siger lille far.  
+Hyp, hyp, hyp og hop –  
+fremad i galop!
+
+Så skal høet hentes  
+på den grønne eng;  
+sikken du må slide,  
+til vi skal i seng!  
+Hyp, hyp, hyp og hop –  
+fremad i galop!
+
+Og ved aftenstide –  
+hvis min far gi’r lov –  
+rider jeg dig hjemad;  
+det er vældig sjov!  
+Hyp, hyp, hyp og hop –  
+hjemad i galop!

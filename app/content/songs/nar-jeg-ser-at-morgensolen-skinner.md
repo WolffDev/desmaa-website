@@ -1,0 +1,30 @@
+---
+title: "Når jeg ser, at morgensolen skinner"
+slug: "nar-jeg-ser-at-morgensolen-skinner"
+date: 2021-07-07T15:35:54.754Z
+author: "Kappel Bøcker"
+music: "Oluf Ring "
+description: "Her finder du teksten til børnesangen, Når jeg ser, at morgensolen skinner."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Når jeg ser, at morgensolen  
+skinner ude over jord,  
+hjælper jeg mit barn i kjolen,  
+sådan gør min egen mor!
+
+Vil hun ikke være stille,  
+sidde roligt ved sit bord,  
+gi’r jeg hende blot et lille  
+bitte smæk – for det gør mor!
+
+Men hvis hun vil prøve ærligt  
+på at være god og stor,  
+gi’r jeg hende straks et kærligt  
+lille kys – for det gør mor!
+
+Og når dagens gerning ender,  
+og det mørkner over jord,  
+folder jeg den lilles hænder  
+for at bede – det gør mor!

@@ -1,0 +1,26 @@
+---
+title: "Månerejsen"
+slug: "manerejsen"
+date: 2021-07-07T15:35:54.754Z
+author: "Jørgen Sørensen"
+music: "Jørgen Sørensen"
+description: "Her kan du se sangteksten til Jørgen Sørensens børnesang, Månerejsen. Her går turen op til Mars og månen."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Jeg tror, jeg ta’r en tur til månen.  
+Hvis du vil, kan du ta’ med!  
+Tak, det vil jeg vældig gerne,  
+men hvornår skal vi afsted?  
+Mandag morgen går raketten.  
+Jeg har lige købt billetten.  
+Den var ikke særlig dyr, jeg fik den for en krone!
+
+Men hvem skal så betale resten?  
+tror du ikke, du ta’r fejl?  
+Vejen op til Mars ogmånen  
+er utrolig lang og stejl.  
+Jo – men husk: om fjorten dage,  
+når raketten skal tilbage,  
+går det ned ad bakke hele vejen hjem til jorden!

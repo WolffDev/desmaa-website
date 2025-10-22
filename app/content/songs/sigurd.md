@@ -1,0 +1,28 @@
+---
+title: "Sigurd"
+slug: "sigurd"
+date: 2021-07-07T15:35:54.754Z
+author: "elv på flere vers her. "
+music: "evt. skifte “moar” og “Sigurd” ud med andre navne."
+description: "Her kan du se teksten til Anne Linnets børnesang, Sigurd. Den er ret sjov, da man også selv kan finde på vers. Du finder også en video med musikken."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=REjF1ss8jGE"
+---
+
+Moar, jeg vil gerne ha’  
+du siger goddag til min nye ven,  
+han hedder Sigurd,  
+han hedder Sigurd.  
+Åh-åh-åh-åh-åh.
+
+Moar, jeg vil gerne ha’  
+du bager en kag’ til min nye ven,  
+han hedder Sigurd,  
+han hedder Sigurd.  
+Åh-åh-åh-åh-åh.
+
+Moar, jeg vil gerne ha’  
+du siger farvel til min nye ven,  
+han hedder Sigurd,  
+han hedder Sigurd.  
+Åh-åh-åh-åh-åh.

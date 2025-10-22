@@ -1,0 +1,37 @@
+---
+title: "Jeg er en papegøje fra Amerika"
+slug: "jeg-er-en-papegoje-fra-amerika"
+date: 2021-07-07T15:35:54.754Z
+author: "Thorbjørn Egner – på dansk ved Halfdan Rasmussen"
+music: "Thorbjørn Egner"
+description: "Her finder du tekst og melodi til børnesangen, Jeg er en papegøje fra Amerika."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=2m84qh12bAg"
+---
+
+Jeg er en papegøje fra Amerika.  
+Min far var papegøjefiskepakker.  
+Jeg sagde ingenting, men mor hun sagde nu og da:  
+Han lærer nok at tale, når han snakker.  
+Nu synger jeg: Åh falleri og fallera!  
+Hvis nogen spør’ mig, hvor jeg kommer fra,  
+så svarer jeg: Åh falleri-ha-ha! Ha-ha!  
+Jeg er en papegøje fra Amerika.
+
+Jeg bo’de i en skov til jeg blev konfirmer’t.  
+Så blev jeg fanget af en fuglefanger.  
+Han lærte mig at synge, da han selv var for genert,  
+og siden blev jeg operettesanger.  
+Nu synger jeg: Åh falleri og fallera!  
+Hvis nogen spør’ mig, hvor jeg kommer fra,  
+så svarer jeg: Åh falleri-ha-ha! Ha-ha!  
+Jeg er en papegøje fra Amerika.
+
+En dag kom der en skipper ind og købte mig  
+for femogtyve kroner og en blomme.  
+Jeg spiste blommen selv og skreg hurra og fløj min vej,  
+og siden kom jeg her til Kardemomme.  
+Her synger jeg: Åh falleri og fallera!  
+og byder man mig sukker si’er jeg ja,  
+for alle ved: Åh falleri-ha-ha! Ha-ha!  
+at jeg er papegøjen fra Amerika.

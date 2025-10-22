@@ -1,0 +1,83 @@
+---
+title: "Go’måren, Go’måren"
+slug: "gomaren-gomaren"
+date: 2021-07-07T15:35:54.754Z
+author: "Erik Leth"
+music: "Sven Gyldmark"
+description: "Her kan du finde tekst og melodi til børnesangen, Go'måren, Go'måren, der bl.a. er kendt fra filmen \"Far til fire på Bornholm\"."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=tAM9rgne9Zs"
+---
+
+Solen skinner,  
+det gi’r lyse kinder.  
+Muntert finder  
+jeg den rette vej.
+
+Go’måren, go’måren  
+til hele bondegården.  
+Til heste, grise, får og gæs,  
+til bondemanden med sit læs.  
+Go’måren, go’måren  
+til hele bondegården.  
+Go’måren til den røde tyr,  
+til alle bondegårdens dyr.
+
+Fåret suger: Mæh, mæh!  
+Hør hvor sjovt det lyder.  
+Grisen grynter: Øf, øf, øf, øf, øf,  
+og det betyder:  
+Go’måren, go’måren  
+fra hele bondegården.  
+Hør, storken si’r fra husets tag:  
+Go’måren til den nye dag.
+
+Mine venner,  
+dyrene jeg kender,  
+hilsner sender  
+jeg til dem fra mig.
+
+Go’måren, go’måren  
+til hele bondegården.  
+Til føllet på den grønne eng,  
+som hopper rundt  
+med glade spring.  
+Go’måren, go’måren  
+til hele bondegården.  
+Til malkepigen med sin stol,  
+hun smiler til den varme sol.
+
+Hesten vrinsker: Pruh, pruh.  
+Hør hvor sjovt det lyder,  
+travle træsko si’r:  
+Klip, klap, klip, klap,  
+og det betyder:  
+Go’måren, go’måren  
+fra hele bondegården.
+
+Hør høns’ne si’r:  
+Gog-gog-gog-gog,  
+go’måren, det er tyd’ligt nok.  
+Bondemanden  
+tømmer mælkespanden  
+Til hinanden  
+smiler vi og si’r:
+
+Go’måren, go’måren  
+til hele bondegården.  
+Til hunden, som har lagt sig ned  
+og gaber kæberne af led.  
+Go’måren, go’måren  
+til hele bondegården.  
+Til missekatten som er glad,  
+for nu skal den ha’ morgenmad.
+
+Koen brøler: Muh, muh.  
+Hør hvor sjovt det lyder.  
+Andemor si’r:  
+Rap, rap, rap, rap, rap,  
+og det betyder:  
+Go’måren, go’måren  
+fra hele bondegården.  
+Hør hanen galder: Kyk-li-ky,  
+go’måren vi ta’r fat på ny.

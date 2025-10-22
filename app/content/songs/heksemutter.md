@@ -1,0 +1,30 @@
+---
+title: "Heksemutter"
+slug: "heksemutter"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du teksten til den populære børnesang, Heksemutter lod en tudse."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Heksemutter lod en tudse  
+riste som en ren karusse.  
+Rimme-rum, rimme-rum,  
+røg i ringe, uhm, uhm, uhm!
+
+Ture-lure lo af lykke,  
+han fik kun et rumpestykke.  
+Rimme-rum, rimme-rum,  
+røg i ringe, uhm, uhm, uhm!
+
+Trolle-rolle græd af harme,  
+han fik kun de rådne tarme.  
+Rimme-rum, rimme-rum,  
+røg i ringe, uhm, uhm, uhm!
+
+Tokke-nokke kom for silde,  
+han fik lampe-røg ved gilde.  
+Rimme-rum, rimme-rum,  
+røg i ringe, uhm, uhm, uhm!

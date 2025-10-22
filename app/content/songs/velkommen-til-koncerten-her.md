@@ -1,0 +1,55 @@
+---
+title: "Velkommen til koncerten her"
+slug: "velkommen-til-koncerten-her"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du teksten til børnesangen, Velkommen til koncerten her. Klilk her."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Velkommen til koncerten her!  
+Det koster ingen penge.  
+Nu skal vi spille på klaver,  
+vi piger og vi drenge.  
+Klim-bim-bim-bim  
+Klim-bim-bim-bim  
+Klim-bim  
+Klim-bim-bim-bim.
+
+Og violin vi spille kan,  
+det er ej svært at lære;  
+men hold blot takten, alle mand,  
+vil spillemænd I være!  
+Fidel-dum-dum-dum  
+Fidel-dum-dum-dum  
+Fidel-dum  
+Fidel-dum-dum-dum.
+
+Hvem kommer der? Nej, hør nu blot –  
+trompeterne skal blæse!  
+Det er ej let at blæse godt,  
+når man skal noder læse.  
+Trate-ra-ra-ra  
+Trate-ra-ra-ra  
+Trate-ra  
+Trate-ra-ra-ra.
+
+Til sidst vi synge vil en sang,  
+den bedste, som vi kender;  
+den er nu ikke meget lang,  
+og derfor snart vi ender.  
+La-la-la-la-la  
+La-la-la-la-la  
+La-la-la  
+La-la-la-la-la
+
+Nu er koncerten da forbi;  
+men før I hjemad vender,  
+I klappe vil – det håber vi –  
+til tak i jeres hænder.  
+Klappe-klap-klap-klap  
+Klappe-klap-klap-klap  
+Klappe-klap  
+Klappe-klap-klap-klap.

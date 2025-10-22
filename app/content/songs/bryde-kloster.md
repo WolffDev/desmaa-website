@@ -1,0 +1,70 @@
+---
+title: "Bryde kloster"
+slug: "bryde-kloster"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Klik her og find teksten til børnesangen, Bryde kloster."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Der bygges et kloster i Østerrig.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Hvad er der vel i det kloster at se?  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Der er en jomfru så fager og fin.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Og kan vi ej få den jomfru at se?  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Der er så stærk en mur omkring.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Så vil vi bryde en sten eller to.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+En sten eller to kan ej forslå.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Så vil vi bryde den halve mur.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Den halve mur kan ej forslå.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Så vil vi bryde den hele mur.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Den hele mur kan ej forslå.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Så vil vi bryde det halve kloster.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Det halve kloster kan ej forslå.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Så vil vi bryde det hele kloster.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.
+
+Nu har vi fået den jomfru at se.  
+Ring! Rang! Falder i sang  
+for alle de rødeste roser.

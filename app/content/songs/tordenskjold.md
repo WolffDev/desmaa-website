@@ -1,0 +1,60 @@
+---
+title: "Tordenskjold"
+slug: "tordenskjold"
+date: 2021-07-07T15:35:54.754Z
+author: "none author"
+music: "none music"
+description: "Her finder du tekst og melodi til børnesangen, Tordenskjold, om den kendte søhelt Peder Wessel."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=I6TMmTRhRf4"
+---
+
+Jeg vil sjunge om en helt,  
+vidt berømt ved sund og bælt,  
+om en herre kæk og bold,  
+om den tapre Tordenskjold.
+
+Mens i vuggen han lå svøbt,  
+Peder Wessel blev han døbt,  
+på fregattens skansevold  
+fik han navnet Tordenskjold.
+
+Atten børn gik frem på rad  
+hos hans far i Trondhjems stad,  
+døtre seks og sønner tolv,  
+men kun én blev Tordenskjold.
+
+Nål i hånd han havde få’t,  
+men det våben var for småt,  
+på kanoner fik han hold.  
+“De går an,” sa’ Tordenskjold.
+
+En gang på den svenske strand  
+gik han med sin flok i land,  
+da brød frem et rytterhold,  
+ville fange Tordenskjold.
+
+En dragon stak hånden frem,  
+men han trak den aldrig hjem,  
+han ham tro’de i sin vold.  
+“Den gang ej,” sa’ Tordenskjold
+
+Tordenskjold i søen sprang,  
+kuglerne omkring ham sang,  
+gennem bølgen dyb og kold  
+svømmed’ Peder Tordenskjold.
+
+Tordenskjold han var polisk,  
+gik omkring og solgte fisk,  
+fjenden bag sin egen vold  
+narret blev af Tordenskjold.
+
+Rask han voksed’ sig på val  
+fra matros til admiral.  
+Ingen ære glimmer gold  
+dog fordærved’ Tordenskjold.
+
+Skal til kamp på bølgens top  
+Dannebrog i stavnen op,  
+gid der bag dens røde fold  
+stå en helt som Tordenskjold.

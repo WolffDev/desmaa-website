@@ -1,0 +1,60 @@
+---
+title: "De fugle små"
+slug: "de-fugle-sma"
+date: 2021-07-07T15:35:54.754Z
+author: "Olaf Holst"
+music: "none music"
+description: "null"
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+De fugle små i skovens vrå,  
+de lader nu et bryllup stå.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Den solsort fin har brudelin,  
+for hun skal være bruden min.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Den lille lærke gik til kirke,  
+han kan dejligt synge.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og ham gik næst som den og præst  
+musvitten og en krage.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og uglen, den var svigermor,  
+den tuded’ med i kirkekor.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og gæssene de pladrede,  
+og ænderne de snadrede.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og spurven var en tyk madam,  
+som laved’ dejlig bryllupsmam.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+En påfugl med sin lange svans,  
+han førte op til brudedans.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og viben sang sit “kvit og frit”,  
+den vittighed er hørt så tit.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.
+
+Og droslen sang, som droslen kan,  
+om kærlighed og kildevand.  
+Vi-de-ra-la-la, vi-de-ra-la-la,  
+vi-de-ra-la-la-la-la.

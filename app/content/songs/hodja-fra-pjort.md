@@ -1,0 +1,60 @@
+---
+title: "Hodja fra Pjort"
+slug: "hodja-fra-pjort"
+date: 2021-07-07T15:35:54.754Z
+author: "Sebastian"
+music: "Sebastian"
+description: "Her finder du teksten til børnesangen Hodja fra Pjort som er skrevet af Sebastian. Sangen kommer fra filmen og musicalen af samme navn."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=grQBqKssHw0"
+---
+
+Hodja fra Pjort,  
+Hodja fra Pjort,  
+han flyver læng’re og længere bort  
+på sin fantastiske flyvende færd  
+Hodja ka’ ikke la’ vær’,  
+før han har set, hvordan hele verden er.
+
+Faza fra Pjort,  
+Faza fra Pjort,  
+gav ham det tæppe, der førte ham bort  
+henover landet fra syd og til nord,  
+Hodja det’ no’et du tror,  
+troen kan hæve dig højt fra denne jord.
+
+Østen for solen og vesten for månen,  
+syv vilde vinde skal bære dig  
+østen for solen og vesten for månen.
+
+Hodja pas på,  
+Hodja pas på,  
+det bedste du har gør de alt for at få.  
+Ho’derne ruller – din sultan er sur,  
+rotterne står på lur,  
+stjæler dit tæppe og låser dig i bur.
+
+De si’r halvfjerds  
+mærk’lige vers  
+prøver det både på kryds og på tværs.  
+Det flyvende tæppe, det blev hvor det lå  
+– det ku’ de ik’ forstå –  
+Hodja er sikkert den eneste, der må.
+
+Hodja blev fri,  
+Hodja blev fri,  
+kaldte på tæppet og fløj li’ forbi.  
+Sultanen faldt på sit haleparti  
+og det gjorde ondt fordi:  
+ingen skal stjæle fra børnenes fantasi.
+
+Østen for solen og vesten for månen,  
+syv vilde vinde skal bære dig  
+østen for solen og vesten for månen.
+
+Hodja fra Pjort,  
+Hodja fra Pjort,  
+han flyver læng’re og længere bort  
+på sin fantastiske flyvende færd  
+Hodja ka’ ikke la’ vær’,  
+før han har set, hvordan hele verden er.

@@ -1,0 +1,40 @@
+---
+title: "Jeg var forleden på tur"
+slug: "jeg-var-forleden-pa-tur"
+date: 2021-07-07T15:35:54.754Z
+author: "Johs. Møller"
+music: "Johs. Møller "
+description: "Her finder du teksten til børnesangen, Jeg var forleden på tur."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: ""
+---
+
+Jeg var forleden på tur, ja, jeg var,  
+ude at køre med heste.  
+Jeg og min søster og mor og så far  
+var på besøg hos min bedste.  
+Først så vi køerne: Mu-mu-mu-mu;  
+for dem er der nok af hos bedste.
+
+Så var vi ude på marken en tur,  
+så fik vi noget at spise;  
+så sku’ de voksne nok ha’ sig en lur,  
+men bedste har elleve grise.  
+Så så vi grisene: Nøf-nøffe-nøf;  
+for dem er der nok af hos bedste.
+
+Så var vi også en tur i en skov,  
+jeg og min søster var sammen,  
+bare vi følges, ja, så har vi lov  
+til at gå ned omkring dammen.  
+Der så vi ænderne: Vak-vakke-vak;  
+for dem er der nok af hos bedste.
+
+Heste og grise og køer og får,  
+duer og høns og de dele,  
+har de derude på bedstefars gård,  
+kan du nu huske det hele?  
+Først så vi køerne: Mu-mu-mu-mu,  
+så så vi grisene: Nøf-nøffe-nøf,  
+så så vi ænderne: Vak-vakke-vak;  
+for dem er der nok af hos bedste.

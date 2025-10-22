@@ -1,0 +1,44 @@
+---
+title: "Man sku’ altid bo på landet"
+slug: "man-sku-altid-bo-pa-landet"
+date: 2021-07-07T15:35:54.754Z
+author: "Victor Skaarup"
+music: "Ole Mortensen"
+description: "Man skulle altid bo på landet kan man tænke. Her er en sang der hylder hvor skønt der er at bo på landet. Sangen er fra filmen \"Andre folks børn\"."
+tags: ["sange", "børn", "dansk"]
+youtubeUrl: "https://www.youtube.com/watch?v=nOlheAKWqTw"
+---
+
+Man sku’ altid bo på landet!  
+Hvem ka’ ønske andet?  
+Her er luften ikke blandet,  
+den er ren og stærk og go’.  
+Åh, jeg fylder mine lunger,  
+synger så det runger,  
+drikker mælk af store junger,  
+tak for mad, du røde ko!  
+Rundt og se lo og le,  
+heste, høns og grise!  
+Du er tam, lille lam,  
+kom du bare med.  
+Man sku’ altid bo på landet.  
+Hvem ka’ ønske andet,  
+for man må da syn’s, at landet  
+er det allerbedste sted.
+
+Man sku’ altid bo på landet!  
+Hvem ka’ ønske andet?  
+det er sjov at pumpe vandet  
+eller muge i en stald.  
+Pas nu på den store traktor,  
+brems af al din mang, for  
+den ska’ du ta’ dig i agt for,  
+så, nu går den som den skal.  
+Flytte kø’r, trille bør,  
+vande høns og ænder,  
+fange får, mon det går?  
+Godt at tøjret holdt.  
+Fire æg – nej, kun halvandet!  
+Glæden blev lidt blandet!  
+Når der er for varmt på landet,  
+så er vandet dejligt koldt.
