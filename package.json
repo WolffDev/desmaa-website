@@ -1,62 +1,51 @@
 {
-    "name": "de-smaa",
-    "version": "1.0.0",
-    "private": true,
-    "description": "De Smaa",
-    "author": "David Wolff",
-    "keywords": [
-        "gatsby"
-    ],
-    "engines": {
-        "node": "v14.17.3"
-    },
-    "scripts": {
-        "develop": "gatsby develop",
-        "start": "gatsby develop",
-        "build": "gatsby build",
-        "serve": "gatsby serve",
-        "local": "gatsby develop -H 0.0.0.0 -p 8000",
-        "clean": "gatsby clean",
-        "analyze": "INTERACTIVE_ANALYZE=1 npm run build",
-        "test": "snyk test"
-    },
-    "dependencies": {
-        "babel-plugin-styled-components": "^1.13.3",
-        "framer-motion": "^4.1.17",
-        "gatsby": "^4.14.0",
-        "gatsby-image": "^3.11.0",
-        "gatsby-plugin-canonical-urls": "^3.8.0",
-        "gatsby-plugin-dark-mode": "^1.1.2",
-        "gatsby-plugin-react-helmet": "^4.8.0",
-        "gatsby-plugin-sharp": "^4.8.0",
-        "gatsby-plugin-sitemap": "^4.4.0",
-        "gatsby-plugin-styled-components": "^4.8.0",
-        "gatsby-plugin-typescript": "^3.8.0",
-        "gatsby-source-filesystem": "^3.8.0",
-        "gatsby-transformer-json": "^3.8.0",
-        "gatsby-transformer-sharp": "^4.8.0",
-        "polished": "^4.1.4",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
-        "react-helmet": "^6.1.0",
-        "react-scroll-to-top": "^1.0.8",
-        "react-youtube": "^7.14.0",
-        "styled-components": "^5.3.3"
-    },
-    "devDependencies": {
-        "@types/node": "^15.14.9",
-        "@types/react": "^17.0.38",
-        "@types/react-dom": "^17.0.11",
-        "@types/react-helmet": "^6.1.5",
-        "@types/styled-components": "^5.1.21",
-        "@typescript-eslint/eslint-plugin": "^4.28.0",
-        "@typescript-eslint/parser": "^4.28.0",
-        "eslint": "^7.29.0",
-        "eslint-config-prettier": "^8.3.0",
-        "eslint-plugin-prettier": "^3.4.1",
-        "prettier": "^2.5.1",
-        "rimraf": "^3.0.2",
-        "snyk": "^1.838.0",
-        "webpack-bundle-analyzer": "^4.5.0"
-    }
+  "name": "de-smaa",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "De Smaa - Danske Børnesange",
+  "author": "David Wolff",
+  "keywords": [
+    "børnesange",
+    "danish",
+    "songs"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start",
+    "preview": "vinxi preview",
+    "migrate": "tsx scripts/migrate-songs.ts"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.83.0",
+    "@tanstack/start": "^1.83.0",
+    "@tanstack/react-query": "^5.62.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vinxi": "^0.4.3",
+    "gray-matter": "^4.0.3",
+    "reading-time": "^1.5.0",
+    "date-fns": "^4.1.0",
+    "plausible-tracker": "^0.3.9",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20",
+    "@tailwindcss/typography": "^0.5.15",
+    "vite-plugin-pwa": "^0.21.1",
+    "tsx": "^4.19.2",
+    "vite": "^6.0.3"
+  }
 }
