@@ -1,3 +1,20 @@
 node_modules/
 .cache/
 public
+
+# Build output
+dist/
+.output/
+
+# TanStack Router generated files
+**/routeTree.gen.ts
+app.config.timestamp_*.js
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
