@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
-        "target": "esnext",
-        "jsx": "preserve",
-        "lib": ["dom", "es2015", "es2017"],
+        "module": "ESNext",
+        "target": "ES2020",
+        "jsx": "react-jsx",
+        "lib": ["dom", "ES2020"],
         "strict": true,
         "noEmit": true,
         "isolatedModules": true,
@@ -12,7 +12,11 @@
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "removeComments": false,
-        "preserveConstEnums": true
+        "preserveConstEnums": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "forceConsistentCasingInFileNames": true
     },
-    "include": ["./src/**/*"]
+    "include": ["./src/**/*", "./gatsby-node.js", "./gatsby-config.js"]
 }

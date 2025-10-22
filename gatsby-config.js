@@ -53,13 +53,14 @@ module.exports = {
         "gatsby-plugin-dark-mode",
         "gatsby-plugin-sharp",
         "gatsby-transformer-sharp",
-        "gatsby-image",
+        "gatsby-plugin-image",
         "gatsby-plugin-react-helmet",
         {
-            resolve: `gatsby-plugin-styled-components`,
+            resolve: "gatsby-plugin-styled-components",
             options: {
-                diaplayName: true,
+                displayName: true,
             },
         },
+        "gatsby-plugin-sitemap",
     ],
 };
