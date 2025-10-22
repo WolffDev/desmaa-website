@@ -5,7 +5,9 @@ import {
 } from '@tanstack/react-router'
 import { Meta, Scripts } from '@tanstack/start'
 import type { ReactNode } from 'react'
+import { useEffect } from 'react'
 import { Header } from '~/components/Header'
+import { analytics } from '~/utils/analytics'
 import '~/styles/globals.css'
 
 export const Route = createRootRoute({
@@ -26,11 +28,26 @@ export const Route = createRootRoute({
         content: 'Samling af danske børnesange med tekster og melodier',
       },
     ],
+    scripts: [
+      {
+        defer: true,
+        'data-domain': 'desmaa.dk',
+        src: 'https://plausible.io/js/script.js',
+      },
+    ],
   }),
   component: RootComponent,
 })
 
 function RootComponent() {
+  // Initialize analytics on mount
+  useEffect(() => {
+    // Enable automatic pageview tracking
+    analytics.enableAutoPageviews()
+    // Enable outbound link tracking
+    analytics.enableAutoOutboundTracking()
+  }, [])
+
   return (
     <RootDocument>
       <Header />
