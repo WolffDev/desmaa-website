@@ -22,6 +22,7 @@
     },
     "dependencies": {
         "@mdx-js/react": "^3.1.0",
+        "ajv": "^8.17.1",
         "babel-plugin-styled-components": "^2.1.4",
         "framer-motion": "^11.11.17",
         "gatsby": "^5.15.0",
@@ -35,6 +36,7 @@
         "gatsby-plugin-styled-components": "^6.15.0",
         "gatsby-plugin-typescript": "^5.15.0",
         "gatsby-source-filesystem": "^5.15.0",
+        "gatsby-transformer-json": "^5.15.0",
         "gatsby-transformer-sharp": "^5.15.0",
         "polished": "^4.3.1",
         "react": "^18.3.1",
