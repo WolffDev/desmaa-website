@@ -14,9 +14,11 @@ const SongGrid = styled.div`
 
 interface SongEdge {
     node: {
-        title: string;
-        slug: string;
-        description: string;
+        frontmatter: {
+            title: string;
+            slug: string;
+            description: string;
+        };
     };
 }
 
@@ -31,7 +33,7 @@ const SongList: React.FC<SongListProps> = ({ edges }) => {
     const handleSearch = (songName: string) => {
         if (songName === "") return setFilteredSongs(initialSongs);
         const filteredArray = initialSongs.filter((song) =>
-            song.node.title.toLowerCase().includes(songName.toLowerCase())
+            song.node.frontmatter.title.toLowerCase().includes(songName.toLowerCase())
         );
         setFilteredSongs(filteredArray);
     };
@@ -55,7 +57,7 @@ const SongList: React.FC<SongListProps> = ({ edges }) => {
             />
             <SongGrid>
                 {filteredSongs.map((song) => (
-                    <SongCard key={song.node.slug} song={song.node} />
+                    <SongCard key={song.node.frontmatter.slug} song={song.node.frontmatter} />
                 ))}
             </SongGrid>
         </>

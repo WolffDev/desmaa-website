@@ -8,13 +8,15 @@ import SongList from "../components/SongList";
 
 interface SongEdge {
     node: {
-        title: string;
-        slug: string;
-        description: string;
+        frontmatter: {
+            title: string;
+            slug: string;
+            description: string;
+        };
     };
 }
 interface StaticQueryProps {
-    allSongsJson: {
+    allMdx: {
         edges: SongEdge[];
     };
 }
@@ -24,12 +26,14 @@ const IndexPage: React.FC = () => {
         <StaticQuery
             query={graphql`
                 query SongsQuery {
-                    allSongsJson {
+                    allMdx(sort: { frontmatter: { date: DESC } }) {
                         edges {
                             node {
-                                title
-                                slug
-                                description
+                                frontmatter {
+                                    title
+                                    slug
+                                    description
+                                }
                             }
                         }
                     }
@@ -39,7 +43,7 @@ const IndexPage: React.FC = () => {
                 <IndexLayout>
                     <Page>
                         <Container>
-                            <SongList edges={data.allSongsJson.edges} />
+                            <SongList edges={data.allMdx.edges} />
                         </Container>
                     </Page>
                 </IndexLayout>

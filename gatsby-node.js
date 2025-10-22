@@ -59,40 +59,37 @@ exports.onCreateWebpackConfig = ({ stage, actions }) => {
 exports.createPages = async ({ graphql, actions, reporter }) => {
     const { createPage } = actions;
 
-    const allJsonSongs = await graphql(`
+    const allMdxSongs = await graphql(`
         {
-            allSongsJson {
+            allMdx {
                 edges {
                     node {
-                        slug
-                        layout
+                        frontmatter {
+                            slug
+                            layout
+                        }
+                        internal {
+                            contentFilePath
+                        }
                     }
                 }
             }
         }
     `);
 
-    if (allJsonSongs.errors) {
+    if (allMdxSongs.errors) {
         reporter.panicOnBuild('🚨  ERROR: Loading "createPages" query.');
     }
 
-    allJsonSongs.data.allSongsJson.edges.forEach(({ node }) => {
-        const { slug, layout } = node;
+    const songTemplate = path.resolve(`./src/templates/song.tsx`);
+
+    allMdxSongs.data.allMdx.edges.forEach(({ node }) => {
+        const { slug, layout } = node.frontmatter;
 
         createPage({
             path: `sange/${slug}`,
-            // This will automatically resolve the template to a corresponding
-            // `layout` frontmatter in the Markdown.
-            //
-            // Feel free to set any `layout` as you'd like in the frontmatter, as
-            // long as the corresponding template file exists in src/templates.
-            // If no template is set, it will fall back to the default `page`
-            // template.
-            //
-            // Note that the template has to exist first, or else the build will fail.
-            component: path.resolve(`./src/templates/${layout}.tsx`),
+            component: `${songTemplate}?__contentFilePath=${node.internal.contentFilePath}`,
             context: {
-                // Data passed to context is available in page queries as GraphQL variables.
                 slug,
             },
         });
