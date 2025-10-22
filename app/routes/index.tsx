@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useState, useMemo } from 'react'
-import { getAllSongs } from '~/utils/content'
+import { getAllSongs } from '~/utils/content.server'
 import { Container } from '~/components/Container'
 import { SearchInput } from '~/components/SearchInput'
 import { SongCard } from '~/components/SongCard'

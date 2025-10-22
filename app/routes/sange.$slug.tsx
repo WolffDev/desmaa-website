@@ -1,5 +1,5 @@
 import { createFileRoute } from '@tanstack/react-router'
-import { getSongBySlug, getAllSongSlugs } from '~/utils/content'
+import { getSongBySlug, getAllSongSlugs } from '~/utils/content.server'
 import { Container } from '~/components/Container'
 import { useFavorites } from '~/hooks/useFavorites'
 import { HeartIcon, YouTubeIcon } from '~/components/icons'

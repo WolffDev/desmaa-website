@@ -2,8 +2,9 @@ import {
   Outlet,
   ScrollRestoration,
   createRootRoute,
+  HeadContent,
+  Scripts,
 } from '@tanstack/react-router'
-import { Meta, Scripts } from '@tanstack/start'
 import type { ReactNode } from 'react'
 import { useEffect } from 'react'
 import { Header } from '~/components/Header'
@@ -63,7 +64,7 @@ function RootDocument({ children }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="da" className="h-full">
       <head>
-        <Meta />
+        <HeadContent />
       </head>
       <body className="h-full bg-bg-light dark:bg-bg-dark text-on-bg-light dark:text-on-bg-dark transition-colors duration-200">
         {children}
